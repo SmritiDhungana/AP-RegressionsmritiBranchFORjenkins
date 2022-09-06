@@ -77,7 +77,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>AP-RegressionsmritiBranch1</td>
               <td>1</td>
-            <td>02 Sep 2022, 12:15</td>
+            <td>05 Sep 2022, 17:24</td>
     </tr>
   </tbody>
 </table>
@@ -130,19 +130,19 @@ $(document).ready(function() {
         <tbody>
         <tr>
           <td class="tagname">@IdentifyINVOICEforAgentReimbursement</td>
-                    <td      class="passed"    >1</td>
-          <td >0</td>
+                    <td >0</td>
+          <td      class="failed"    >1</td>
           <td >0</td>
           <td >0</td>
           <td >0</td>
           <td class="total">1</td>
 
-          <td  class="passed"    >1</td>
           <td >0</td>
+          <td  class="failed"    >1</td>
           <td class="total">1</td>
 
-          <td class="duration" data-value="1049000000">1.049</td>
-          <td class="passed">Passed</td>
+          <td class="duration" data-value="14625000000">14.625</td>
+          <td class="failed">Failed</td>
         </tr>
         </tbody>
 
@@ -186,12 +186,12 @@ $(document).ready(function() {
       </div>
 
   
-  <span class="lead-duration duration">1.049</span>
+  <span class="lead-duration duration">14.625</span>
 
 
-    <span data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#element-1">
+    <span data-toggle="collapse" class=" collapsable-control" data-target="#element-1">
     
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Scenario Outline</span>
   <span class="name">Identify INVOICE, for Agent Reimbursement Process on EQUIPMENT CONSOLE</span>
   
@@ -202,15 +202,15 @@ $(document).ready(function() {
   </span>
   <div class="description indention"></div>
 
-  <div id="element-1" class="collapse collapsable-details ">
+  <div id="element-1" class="collapse collapsable-details  in ">
     
 
 
     
 <div class="steps inner-level">
-    <div data-toggle="collapse" class=" collapsed  collapsable-control" data-target="#steps-2">
+    <div data-toggle="collapse" class=" collapsable-control" data-target="#steps-2">
     
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Steps</span>
   <span class="name"></span>
   
@@ -220,18 +220,42 @@ $(document).ready(function() {
 
   </div>
 
-  <div id="steps-2" class="inner-level collapse collapsable-details ">
+  <div id="steps-2" class="inner-level collapse collapsable-details  in ">
           <div class="step">
         
-<div class="brief passed">
+<div class="brief failed">
   <span class="keyword indention">Given</span>
   <span class="name">Locate a Record from Database, Agent Status must have a Status of Agent Review or Corp Review &quot;ebhlaunch&quot; &quot;[Evans].[dbo].[InvoiceRegisterRecord]&quot; &quot;01/01/2022&quot;</span>
   
-  <span class="lead-duration duration">1.049</span>
+  <span class="lead-duration duration">14.625</span>
 
   </div>
 
         
+
+  <div class="inner-level">
+    <div class="message indention">
+      <div data-toggle="collapse" class=" collapsable-control" data-target="#msg-3">
+          <a>com.microsoft.sqlserver.jdbc.SQLServerException: The connection to the host 192.168.6.194, named instance launch failed. Error: &quot;java.net.SocketTimeoutException: Receive timed out&quot;. Verify the server and instance names and check that no firewall is blocking UDP traffic to port 1434.  For SQL Server 2005 or later, verify that the SQL Server Browser Service is running on the host.</a>
+      </div>
+      <div id="msg-3" class="collapse collapsable-details  in ">
+        <pre>com.microsoft.sqlserver.jdbc.SQLServerException: The connection to the host 192.168.6.194, named instance launch failed. Error: &quot;java.net.SocketTimeoutException: Receive timed out&quot;. Verify the server and instance names and check that no firewall is blocking UDP traffic to port 1434.  For SQL Server 2005 or later, verify that the SQL Server Browser Service is running on the host.
+	at com.microsoft.sqlserver.jdbc.SQLServerException.makeFromDriverError(SQLServerException.java:234)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.getInstancePort(SQLServerConnection.java:5919)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.primaryPermissionCheck(SQLServerConnection.java:2347)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.login(SQLServerConnection.java:2083)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connectInternal(SQLServerConnection.java:1950)
+	at com.microsoft.sqlserver.jdbc.SQLServerConnection.connect(SQLServerConnection.java:1162)
+	at com.microsoft.sqlserver.jdbc.SQLServerDriver.connect(SQLServerDriver.java:735)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at stepDefinitions.CommonUtils.BrowserDriverInitialization.getConnectionToDatabase(BrowserDriverInitialization.java:71)
+	at stepDefinitions.EquipmentConsoleAgentAdjustmentsStepDef.Locate_a_Record_from_Database_Agent_Status_must_have_a_Status_of_Agent_Review_or_Corp_Review(EquipmentConsoleAgentAdjustmentsStepDef.java:87)
+	at &#10045;.Locate a Record from Database, Agent Status must have a Status of Agent Review or Corp Review &quot;ebhlaunch&quot; &quot;[Evans].[dbo].[InvoiceRegisterRecord]&quot; &quot;01/01/2022&quot;(file:///C:/Users/Smriti%20Dhugana/Documents/AP-RegressionsmritiBranchFORjenkins/src/test/resources/featureFiles/EquipmentConsoleAgentAdjustments.feature:8)
+</pre>
+      </div>
+    </div>
+  </div>
 
 
         

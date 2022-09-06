@@ -23,7 +23,7 @@ public class BrowserDriverInitialization {
 
         if (environment.equals("launch") && browser.equals("chrome")){
             URL = "http://agentlaunch.evansdelivery.com/";
-            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver 103.0.5060.24.exe");
+            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver105.0.5195.52.exe");
         }
         else if (environment.equals("launch") && browser.equals("edge")){
             URL = "http://agentlaunch.evansdelivery.com/";
@@ -31,7 +31,7 @@ public class BrowserDriverInitialization {
         }
         else if(environment.equals("staging") && browser.equals("chrome")){
             URL = "https://staging.evansdelivery.com/login.aspx";
-            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver 103.0.5060.24.exe");
+            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver105.0.5195.52.exe");
         }
       //  else if(environment.equals("staging") && browser.equals("edge")){
      //       URL = "https://staging.evansdelivery.com/login.aspx";
@@ -45,7 +45,7 @@ public class BrowserDriverInitialization {
 
         if (environment.equals("ebhlaunch") && browser.equals("chrome")){
             URL = "http://ebhlaunch.evansdelivery.com:8089/";
-            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver 103.0.5060.24.exe");
+            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver105.0.5195.52.exe");
         }
         else if (environment.equals("ebhlaunch") && browser.equals("edge")){
             URL = "http://ebhlaunch.evansdelivery.com:8089/";
@@ -53,11 +53,11 @@ public class BrowserDriverInitialization {
         }
         else if (environment.equals("ebhprod") && browser.equals("chrome")){
             URL = "http://ebh.evansdelivery.com/";
-            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver 103.0.5060.24.exe");
+            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver105.0.5195.52.exe");
         }
         else if (environment.equals("ebhstaging") && browser.equals("chrome")){
             URL = "http://ebhstaging.evansdelivery.com:83/";
-            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver 103.0.5060.24.exe");
+            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver105.0.5195.52.exe");
         }
              return URL;
     }
@@ -92,7 +92,7 @@ public class BrowserDriverInitialization {
 
         if (environment.equals("eclaunch") && browser.equals("chrome")){
             URL = "https://chassislaunch.evansdelivery.com";
-            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver 103.0.5060.24.exe");
+            System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver105.0.5195.52.exe");
         }
         else if (environment.equals("eclaunch") && browser.equals("edge")){
             URL = "https://chassislaunch.evansdelivery.com";
@@ -100,7 +100,7 @@ public class BrowserDriverInitialization {
         }
         else if(environment.equals("ecstaging") && browser.equals("chrome")){
         URL = "https://chassisstaging.evansdelivery.com";
-        System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver 103.0.5060.24.exe");
+        System.setProperty("webdriver.chrome.driver","src/main/resources/drivers/chromedriver105.0.5195.52.exe");
     }
         else if(environment.equals("ecstaging") && browser.equals("edge")){
         URL = "https://chassisstaging.evansdelivery.com";

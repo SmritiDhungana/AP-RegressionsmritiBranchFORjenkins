@@ -51,9 +51,9 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                1,
                 0,
-                0,
+                69,
+                602,
                 0,
                 0
             ],
@@ -94,7 +94,7 @@ $(document).ready(function() {
                         var allData = data.datasets[tooltipItem.datasetIndex].data;
                         var tooltipLabel = data.labels[tooltipItem.index];
                         var tooltipData = allData[tooltipItem.index];
-                        var tooltipPercentage = Math.round(10000 * tooltipData / 1) / 100;
+                        var tooltipPercentage = Math.round(10000 * tooltipData / 671) / 100;
                         return tooltipLabel + ": " + tooltipData + " (" + tooltipPercentage + "%)";
                     }
                 }
@@ -107,8 +107,8 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                1,
-                0
+                0,
+                69
             ],
             backgroundColor: [
                 "#00B000",
@@ -144,7 +144,7 @@ $(document).ready(function() {
                         var allData = data.datasets[tooltipItem.datasetIndex].data;
                         var tooltipLabel = data.labels[tooltipItem.index];
                         var tooltipData = allData[tooltipItem.index];
-                        var tooltipPercentage = Math.round(10000 * tooltipData / 1) / 100;
+                        var tooltipPercentage = Math.round(10000 * tooltipData / 69) / 100;
                         return tooltipLabel + ": " + tooltipData + " (" + tooltipPercentage + "%)";
                     }
                 }
@@ -157,8 +157,8 @@ $(document).ready(function() {
     var chartData = {
         datasets: [{
             data: [
-                   1,
-                   0
+                   0,
+                   12
                ],
                backgroundColor: [
                 "#00B000",
@@ -191,7 +191,7 @@ $(document).ready(function() {
                         var allData = data.datasets[tooltipItem.datasetIndex].data;
                         var tooltipLabel = data.labels[tooltipItem.index];
                         var tooltipData = allData[tooltipItem.index];
-                        var tooltipPercentage = Math.round(10000 * tooltipData / 1) / 100;
+                        var tooltipPercentage = Math.round(10000 * tooltipData / 12) / 100;
                         return tooltipLabel + ": " + tooltipData + " (" + tooltipPercentage + "%)";
                     }
                 }
@@ -234,7 +234,7 @@ $(document).ready(function() {
     <tr class="info">
       <td>AP-RegressionsmritiBranch1</td>
               <td>1</td>
-            <td>02 Sep 2022, 12:15</td>
+            <td>05 Sep 2022, 17:24</td>
     </tr>
   </tbody>
 </table>
@@ -329,54 +329,241 @@ $(document).ready(function() {
 
   <tbody>
           <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-AARAgentManagementFile-feature.html">AAR Agent Management File Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >6</td>
+        <td     class="skipped"   >56</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">62</td>
+
+        <td >0</td>
+        <td  class="failed"    >6</td>
+        <td class="total">6</td>
+
+        <td class="duration" data-value="8671000000">8.671</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-AgentCommission-feature.html">Agent Settlement Adjustments Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >2</td>
+        <td     class="skipped"   >22</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">24</td>
+
+        <td >0</td>
+        <td  class="failed"    >2</td>
+        <td class="total">2</td>
+
+        <td class="duration" data-value="2434000000">2.434</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-AgentSettlementAdjustments-feature.html">Agent Settlement Adjustments Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >11</td>
+        <td     class="skipped"   >170</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">181</td>
+
+        <td >0</td>
+        <td  class="failed"    >11</td>
+        <td class="total">11</td>
+
+        <td class="duration" data-value="13454000000">13.454</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-AgentSettlementInquiry-feature.html">Agent Settlement Inquiry Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >3</td>
+        <td     class="skipped"   >36</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">39</td>
+
+        <td >0</td>
+        <td  class="failed"    >3</td>
+        <td class="total">3</td>
+
+        <td class="duration" data-value="3592000000">3.592</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-AgentSettling-feature.html">Agent Settling Transaction Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >6</td>
+        <td     class="skipped"   >49</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">55</td>
+
+        <td >0</td>
+        <td  class="failed"    >6</td>
+        <td class="total">6</td>
+
+        <td class="duration" data-value="34212000000">34.212</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-AgentsCurrentlyBeingSettled-feature.html">Agent Settlement Adjustments Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >2</td>
+        <td     class="skipped"   >16</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">18</td>
+
+        <td >0</td>
+        <td  class="failed"    >2</td>
+        <td class="total">2</td>
+
+        <td class="duration" data-value="2898000000">2.898</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-BCPDTractorValidation-feature.html">BCPD Tractor Validation Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >8</td>
+        <td     class="skipped"   >80</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">88</td>
+
+        <td >0</td>
+        <td  class="failed"    >8</td>
+        <td class="total">8</td>
+
+        <td class="duration" data-value="65404000000">1:5.404</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-BasicFileMaintenance-feature.html">Basic File Maintenance Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >2</td>
+        <td     class="skipped"   >18</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">20</td>
+
+        <td >0</td>
+        <td  class="failed"    >2</td>
+        <td class="total">2</td>
+
+        <td class="duration" data-value="2744000000">2.744</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-Billing-feature.html">Billing Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >1</td>
+        <td     class="skipped"   >5</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">6</td>
+
+        <td >0</td>
+        <td  class="failed"    >1</td>
+        <td class="total">1</td>
+
+        <td class="duration" data-value="1170000000">1.170</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
         <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-EquipmentConsoleAgentAdjustments-feature.html">Equipment Console Process Feature</a></td>
         
-        <td      class="passed"    >1</td>
+        <td >0</td>
+        <td      class="failed"    >9</td>
+        <td     class="skipped"   >32</td>
         <td >0</td>
         <td >0</td>
-        <td >0</td>
-        <td >0</td>
-        <td class="total">1</td>
+        <td class="total">41</td>
 
-        <td  class="passed"    >1</td>
         <td >0</td>
-        <td class="total">1</td>
+        <td  class="failed"    >9</td>
+        <td class="total">9</td>
 
-        <td class="duration" data-value="1049000000">1.049</td>
-        <td class="passed">Passed</td>
+        <td class="duration" data-value="105663000000">1:45.663</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-EquipmentConsoleTractorAdjustments-feature.html">Equipment Console Tractor Adjustments Process Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >9</td>
+        <td     class="skipped"   >32</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">41</td>
+
+        <td >0</td>
+        <td  class="failed"    >9</td>
+        <td class="total">9</td>
+
+        <td class="duration" data-value="106061000000">1:46.061</td>
+        <td class="failed">Failed</td>
+      </tr>
+          <tr>
+        <td class="tagname"><a href="report-feature_file-src-test-resources-featureFiles-FuelPurchaseMaintenance-feature.html">Fuel Purchase Maintenance Validation Feature</a></td>
+        
+        <td >0</td>
+        <td      class="failed"    >10</td>
+        <td     class="skipped"   >86</td>
+        <td >0</td>
+        <td >0</td>
+        <td class="total">96</td>
+
+        <td >0</td>
+        <td  class="failed"    >10</td>
+        <td class="total">10</td>
+
+        <td class="duration" data-value="12680000000">12.680</td>
+        <td class="failed">Failed</td>
       </tr>
       </tbody>
 
   <tfoot class="total">
     <tr>
       <td></td>
-            <td>1</td>
+            <td>0</td>
+      <td>69</td>
+      <td>602</td>
       <td>0</td>
       <td>0</td>
-      <td>0</td>
-      <td>0</td>
-      <td>1</td>
+      <td>671</td>
 
-      <td>1</td>
       <td>0</td>
-      <td>1</td>
+      <td>69</td>
+      <td>69</td>
 
-      <td class="duration">1.049</td>
-      <td>1</td>
+      <td class="duration">5:58.983</td>
+      <td>12</td>
     </tr>
     <tr>
       <td></td>
-            <td>100.00%</td>
-      <td>0.00%</td>
-      <td>0.00%</td>
+            <td>0.00%</td>
+      <td>10.28%</td>
+      <td>89.72%</td>
       <td>0.00%</td>
       <td>0.00%</td>
       <td></td>
+      <td>0.00%</td>
       <td>100.00%</td>
+      <td></td>
+      <td></td>
       <td>0.00%</td>
-      <td></td>
-      <td></td>
-      <td>100.00%</td>
     </tr>
   </tfoot>
 </table>
