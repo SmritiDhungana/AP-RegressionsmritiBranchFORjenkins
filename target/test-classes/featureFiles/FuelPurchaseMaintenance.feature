@@ -145,14 +145,14 @@ Feature: Fuel Purchase Maintenance Validation Feature
     And Login to the EBH with username <username> and password <password> for EBH Tractors
     And Navigate to the Corporate Page on Main Menu then to the Fuel and Mileage page for EBH Tractors
     And Navigate to Fuel Purchase Maintenance Page
-    And Click on Search Button
+  #  And Click on Search Button
     And Enter Tractor Id <tractorID> Earliest Date <earliestDate> Latest Date <latestDate> State <state> Company <company>
     And Click on Report Button and Click on SEARCH RESULTS
     And Get SEARCH RESULTS Excel Report from Downloads for FPM
     And Validate SEARCH RESULTS Excel Report with Database Record <environment> <tableName> <tractorID> <earliestDateDB> <latestDateDB> <state> <company>
-    And Click on Report Button, and Click on ALL RECORDS
-    And Get ALL RECORDS Excel Report from Downloads for FPM
-    And Validate ALL RECORDS Excel Report with Database Record <environment> <tableName>
+   # And Click on Report Button, and Click on ALL RECORDS
+   # And Get ALL RECORDS Excel Report from Downloads for FPM
+  #  And Validate ALL RECORDS Excel Report with Database Record <environment> <tableName>
     Then Close all open Browsers on EBH for Tractors
     Examples:
       | tractorID | earliestDate |  latestDate  | earliestDateDB | latestDateDB |state | company | environment  | browser  | username     | password      | tableName                |
@@ -165,14 +165,14 @@ Feature: Fuel Purchase Maintenance Validation Feature
     And Login to the EBH with username <username> and password <password> for EBH Tractors
     And Navigate to the Corporate Page on Main Menu then to the Fuel and Mileage page for EBH Tractors
     And Navigate to Fuel Purchase Maintenance Page
-    And Click on Search Button
+  #  And Click on Search Button
     And Enter Tractor Id <tractorID> Earliest Date <earliestDate> Latest Date <latestDate> State <state> Company <company> IFTA <iFTA>
     And Click on Report Button and Click on SEARCH RESULTS
     And Get SEARCH RESULTS Excel Report from Downloads for FPM
     And Validate SEARCH RESULTS Excel Report with Database Record for IFTA <environment> <tableName> <earliestDateDB> <latestDateDB> <state> <company> <iFTA>
-    And Click on Report Button, and Click on ALL RECORDS
-    And Get ALL RECORDS Excel Report from Downloads for FPM
-    And Validate ALL RECORDS Excel Report with Database Record <environment> <tableName>
+   # And Click on Report Button, and Click on ALL RECORDS
+   # And Get ALL RECORDS Excel Report from Downloads for FPM
+   # And Validate ALL RECORDS Excel Report with Database Record <environment> <tableName>
     Then Close all open Browsers on EBH for Tractors
     Examples:
       | tractorID | earliestDate |  latestDate  | earliestDateDB | latestDateDB | state | company | iFTA | environment  | browser  | username     | password      | tableName                |
