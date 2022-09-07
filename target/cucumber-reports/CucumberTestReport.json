@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-09-07T12:09:38.074Z",
+        "start_timestamp": "2022-09-07T12:21:23.472Z",
         "line": 159,
         "name": "(FANDM-77) Validation of REPORT on Fuel Purchase Maintenance Page when Tractor ID is selected",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3408000000,
+              "duration": 3466000000,
               "status": "passed"
             },
             "line": 144,
@@ -35,7 +35,7 @@
           },
           {
             "result": {
-              "duration": 1902000000,
+              "duration": 1514000000,
               "status": "passed"
             },
             "line": 145,
@@ -57,7 +57,7 @@
           },
           {
             "result": {
-              "duration": 2265000000,
+              "duration": 1314000000,
               "status": "passed"
             },
             "line": 146,
@@ -69,7 +69,7 @@
           },
           {
             "result": {
-              "duration": 2092000000,
+              "duration": 2219000000,
               "status": "passed"
             },
             "line": 147,
@@ -81,7 +81,7 @@
           },
           {
             "result": {
-              "duration": 19154000000,
+              "duration": 19220000000,
               "status": "passed"
             },
             "line": 149,
@@ -115,7 +115,7 @@
           },
           {
             "result": {
-              "duration": 816000000,
+              "duration": 456000000,
               "status": "passed"
             },
             "line": 150,
@@ -127,7 +127,7 @@
           },
           {
             "result": {
-              "duration": 9183000000,
+              "duration": 9553000000,
               "status": "passed"
             },
             "line": 151,
@@ -139,7 +139,7 @@
           },
           {
             "result": {
-              "duration": 2112000000,
+              "duration": 2452000000,
               "status": "passed"
             },
             "line": 152,
@@ -181,7 +181,7 @@
           },
           {
             "result": {
-              "duration": 3028000000,
+              "duration": 3080000000,
               "status": "passed"
             },
             "line": 156,
