@@ -1,0 +1,4697 @@
+# Created at 2022-09-06T15:52:50.433
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2022-09-06T15:52:50.949
+Unexpected IOException with stream: Number of Rows:223408
+
+
+# Created at 2022-09-06T15:52:50.950
+Unexpected IOException with stream: 223470	EVA	169566	2021-11-15 09:15:00.0	A & S FUEL LLC	NJ	182.27	666.93	SANTANA ARIAS	596785	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.027
+Unexpected IOException with stream: Number of Rows:223409
+
+
+# Created at 2022-09-06T15:52:51.027
+Unexpected IOException with stream: 223471	EVA	20424	2021-11-15 09:24:00.0	PILOT WALDO 1058	FL	62.63	206.01	JAMES BAISTER	596788	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.103
+Unexpected IOException with stream: Number of Rows:223410
+
+
+# Created at 2022-09-06T15:52:51.105
+Unexpected IOException with stream: 223472	EVA	179409	2021-11-13 08:48:00.0	PILOT CALDWELL 309	OH	143.11	515.69	JOSEPH SPECHT	596789	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.168
+Unexpected IOException with stream: Number of Rows:223411
+
+
+# Created at 2022-09-06T15:52:51.168
+Unexpected IOException with stream: 223473	EVA	184502	2021-11-13 08:58:00.0	TA MONROE	MI	56.35	182.67	MAHMOUD ALAEDDINE	596790	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.259
+Unexpected IOException with stream: Number of Rows:223412
+
+
+# Created at 2022-09-06T15:52:51.260
+Unexpected IOException with stream: 223474	EVA	174081	2021-11-15 20:26:00.0	FJ-EDINBURG 727	TX	46.54	145.48	MIGUEL HERNANDEZ GONZAL	596791	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.334
+Unexpected IOException with stream: Number of Rows:223413
+
+
+# Created at 2022-09-06T15:52:51.335
+Unexpected IOException with stream: 223475	EVA	182302	2021-11-15 06:06:00.0	PILOT 1070	NM	107.02	377.37	DOMINIC FERDINAND	596793	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.394
+Unexpected IOException with stream: Number of Rows:223414
+
+
+# Created at 2022-09-06T15:52:51.395
+Unexpected IOException with stream: 223476	EVA	182688	2021-11-15 09:54:00.0	METRO	NJ	54.66	200.00	ANTONIO DIAZ	596796	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.461
+Unexpected IOException with stream: Number of Rows:223415
+
+
+# Created at 2022-09-06T15:52:51.462
+Unexpected IOException with stream: 223477	EVA	178413	2021-11-15 09:54:00.0	CIRCLE K 2705367	GA	156.94	546.00	KEITH MILLER	596797	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.520
+Unexpected IOException with stream: Number of Rows:223416
+
+
+# Created at 2022-09-06T15:52:51.521
+Unexpected IOException with stream: 223478	EVA	165075	2021-11-15 10:09:00.0	RACETRAC #2515	TX	100.26	320.74	NICOLAS MARADIAGA	596798	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.602
+Unexpected IOException with stream: Number of Rows:223417
+
+
+# Created at 2022-09-06T15:52:51.603
+Unexpected IOException with stream: 223479	EVA	183950	2021-11-15 10:10:00.0	PILOT STANTON 149	TN	157.23	499.86	KEDRECK SANDRIDGE	596799	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.672
+Unexpected IOException with stream: Number of Rows:223418
+
+
+# Created at 2022-09-06T15:52:51.672
+Unexpected IOException with stream: 223480	EVA	170568	2021-11-15 10:13:00.0	LOVES # 344 TRAVEL STOP	TN	51.43	163.72	KELVIN HARRIS	596801	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.723
+Unexpected IOException with stream: Number of Rows:223419
+
+
+# Created at 2022-09-06T15:52:51.723
+Unexpected IOException with stream: 223481	EVA	181320	2021-11-15 10:15:00.0	METRO	NJ	135.01	494.00	JAGWINDER SINGH	596802	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.774
+Unexpected IOException with stream: Number of Rows:223420
+
+
+# Created at 2022-09-06T15:52:51.774
+Unexpected IOException with stream: 223482	EVA	174242	2021-11-15 09:11:00.0	FJ-NORTH EAST 784	MD	95.12	308.79	JAVIER GALLARDO	596804	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.826
+Unexpected IOException with stream: Number of Rows:223421
+
+
+# Created at 2022-09-06T15:52:51.827
+Unexpected IOException with stream: 223483	EVA	183492	2021-11-15 09:29:00.0	LOVES #868 TRAVEL STOP	FL	75.00	248.02	MUHAMMAD HOLMES	596806	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.889
+Unexpected IOException with stream: Number of Rows:223422
+
+
+# Created at 2022-09-06T15:52:51.890
+Unexpected IOException with stream: 223484	EVA	178047	2021-11-13 08:36:00.0	LOVES #754 TRAVEL STOP	IL	69.48	245.56	LESZEK GASKA	596807	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:51.972
+Unexpected IOException with stream: Number of Rows:223423
+
+
+# Created at 2022-09-06T15:52:51.983
+Unexpected IOException with stream: 223485	EVA	17087	2021-11-13 09:06:00.0	TA COLUMBIA	NJ	96.57	328.92	JAVIER MONCADA	596808	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.053
+Unexpected IOException with stream: Number of Rows:223424
+
+
+# Created at 2022-09-06T15:52:52.054
+Unexpected IOException with stream: 223486	EVA	178047	2021-11-15 20:47:00.0	LOVES #640 TRAVEL STOP	WI	102.41	323.45	LESZEK GASKA	596809	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.140
+Unexpected IOException with stream: Number of Rows:223425
+
+
+# Created at 2022-09-06T15:52:52.141
+Unexpected IOException with stream: 223487	EVA	164377	2021-11-15 20:57:00.0	PILOT COLUMBUS 213	OH	150.18	537.37	Dionta Davis	596810	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.216
+Unexpected IOException with stream: Number of Rows:223426
+
+
+# Created at 2022-09-06T15:52:52.218
+Unexpected IOException with stream: 223488	EVA	183703	2021-11-15 06:01:00.0	LOVES #763 TRAVEL STOP	IL	124.71	440.56	SEFAFIN PILERO	596811	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.265
+Unexpected IOException with stream: Number of Rows:223427
+
+
+# Created at 2022-09-06T15:52:52.265
+Unexpected IOException with stream: 223489	EVA	183003	2021-11-15 06:05:00.0	QUIK TRIP #1177	SC	145.15	484.66	CHAD EVANS	596812	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.322
+Unexpected IOException with stream: Number of Rows:223428
+
+
+# Created at 2022-09-06T15:52:52.322
+Unexpected IOException with stream: 223490	EVA	184337	2021-11-15 06:06:00.0	SOUTHSIDE FUEL CENTER INC	IL	40.10	150.75	SHANDON WILLIAMS	596813	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.411
+Unexpected IOException with stream: Number of Rows:223429
+
+
+# Created at 2022-09-06T15:52:52.412
+Unexpected IOException with stream: 223491	EVA	178012	2021-11-15 06:13:00.0	RUTTERS FARM STORE #53	PA	98.56	400.05	DAVID CORBITT	596814	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.502
+Unexpected IOException with stream: Number of Rows:223430
+
+
+# Created at 2022-09-06T15:52:52.503
+Unexpected IOException with stream: 223492	EVA	181159	2021-11-15 09:31:00.0	LOVES #404 COUNTRY STORE	NJ	140.00	473.56	JOSE LIRIANO	596815	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.601
+Unexpected IOException with stream: Number of Rows:223431
+
+
+# Created at 2022-09-06T15:52:52.602
+Unexpected IOException with stream: 223493	EVA	180462	2021-11-15 09:34:00.0	THORNTONS #330	IL	113.83	415.38	JAMES LONG	596816	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.676
+Unexpected IOException with stream: Number of Rows:223432
+
+
+# Created at 2022-09-06T15:52:52.677
+Unexpected IOException with stream: 223494	EVA	22195	2021-11-15 09:45:00.0	PILOT 1082	SC	211.81	674.07	MICHAEL MCMILLEN	596820	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.751
+Unexpected IOException with stream: Number of Rows:223433
+
+
+# Created at 2022-09-06T15:52:52.753
+Unexpected IOException with stream: 223495	EVA	170780	2021-11-15 09:49:00.0	KANGAROO EXPRESS #1270	FL	26.39	87.23	KEITH HUGHETT	596821	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.824
+Unexpected IOException with stream: Number of Rows:223434
+
+
+# Created at 2022-09-06T15:52:52.824
+Unexpected IOException with stream: 223496	EVA	177654	2021-11-13 09:00:00.0	MR FUEL #719	IN	50.48	196.82	MUTAZ ABU HASHEISH	596822	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.905
+Unexpected IOException with stream: Number of Rows:223435
+
+
+# Created at 2022-09-06T15:52:52.906
+Unexpected IOException with stream: 223497	EVA	171503	2021-11-15 06:01:00.0	TA COLUMBIA	NJ	128.75	432.95	FELIX MARTINEZ	596823	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:52.965
+Unexpected IOException with stream: Number of Rows:223436
+
+
+# Created at 2022-09-06T15:52:52.966
+Unexpected IOException with stream: 223498	EVA	183381	2021-11-15 06:02:00.0	LOVES #603 TRAVEL STOP	FL	101.41	332.50	DERRICKA WILLIAMS	596824	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.029
+Unexpected IOException with stream: Number of Rows:223437
+
+
+# Created at 2022-09-06T15:52:53.029
+Unexpected IOException with stream: 223499	EVA	179960	2021-11-15 12:35:00.0	LOVES #689 TRAVEL STOP	AR	66.79	213.92	MOUNTVILLE TOWNLEY	596825	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.082
+Unexpected IOException with stream: Number of Rows:223438
+
+
+# Created at 2022-09-06T15:52:53.084
+Unexpected IOException with stream: 223500	EVA	59807	2021-11-15 12:46:00.0	LOVES #717 TRAVEL STOP	VA	162.19	522.19	BOB ADDISON	596826	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.153
+Unexpected IOException with stream: Number of Rows:223439
+
+
+# Created at 2022-09-06T15:52:53.155
+Unexpected IOException with stream: 223501	EVA	179182	2021-11-15 12:50:00.0	LOVES #394 TRAVEL STOP	IN	94.73	315.94	HUGO VALENCIA	596827	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.223
+Unexpected IOException with stream: Number of Rows:223440
+
+
+# Created at 2022-09-06T15:52:53.224
+Unexpected IOException with stream: 223502	EVA	184699	2021-11-15 12:54:00.0	PILOT #4569	SC	64.50	207.98	JOSEPH GLENN	596828	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.292
+Unexpected IOException with stream: Number of Rows:223441
+
+
+# Created at 2022-09-06T15:52:53.292
+Unexpected IOException with stream: 223503	EVA	179224	2021-11-15 13:06:00.0	QUIK TRIP #1863	TX	154.38	500.04	GUILLERMO DUQUE	596829	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.355
+Unexpected IOException with stream: Number of Rows:223442
+
+
+# Created at 2022-09-06T15:52:53.356
+Unexpected IOException with stream: 223504	EVA	183748	2021-11-15 13:20:00.0	COCHRANS TRAVEL CENTER	GA	79.44	270.00	DEMARCO BLASH	596830	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.415
+Unexpected IOException with stream: Number of Rows:223443
+
+
+# Created at 2022-09-06T15:52:53.416
+Unexpected IOException with stream: 223505	EVA	172936	2021-11-15 10:03:00.0	PILOT #4561	GA	50.01	165.44	JAMES QUICK	596831	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.483
+Unexpected IOException with stream: Number of Rows:223444
+
+
+# Created at 2022-09-06T15:52:53.483
+Unexpected IOException with stream: 223506	EVA	161798	2021-11-15 10:04:00.0	TA #241 DEMOTTE	IN	103.30	340.59	RAUDEL MEDINA ALFONSO	596832	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.548
+Unexpected IOException with stream: Number of Rows:223445
+
+
+# Created at 2022-09-06T15:52:53.549
+Unexpected IOException with stream: 223507	EVA	170042	2021-11-15 06:13:00.0	KANGAROO EXPRESS #1270	FL	113.33	374.59	BURNETT WAYNE	596854	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.615
+Unexpected IOException with stream: Number of Rows:223446
+
+
+# Created at 2022-09-06T15:52:53.616
+Unexpected IOException with stream: 223508	EVA	184107	2021-11-15 09:43:00.0	LOVES #834 TRAVEL STOPS	IL	151.26	524.67	JAQUAN JENKINS	596855	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.679
+Unexpected IOException with stream: Number of Rows:223447
+
+
+# Created at 2022-09-06T15:52:53.679
+Unexpected IOException with stream: 223509	EVA	177779	2021-11-15 09:44:00.0	SNK PETROLEUM WHOLESALERS	IL	109.39	371.82	GRZEGORZ DYBIOCH	596856	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.764
+Unexpected IOException with stream: Number of Rows:223448
+
+
+# Created at 2022-09-06T15:52:53.765
+Unexpected IOException with stream: 223510	EVA	181123	2021-11-15 09:48:00.0	PILOT #7976	NC	15.93	51.11	LAZO ESTEBAN	596857	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.856
+Unexpected IOException with stream: Number of Rows:223449
+
+
+# Created at 2022-09-06T15:52:53.857
+Unexpected IOException with stream: 223511	EVA	19353	2021-11-15 06:06:00.0	QUICK FUEL MIAMI	FL	35.45	122.69	RENATO GUITART	596859	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:53.943
+Unexpected IOException with stream: Number of Rows:223450
+
+
+# Created at 2022-09-06T15:52:53.944
+Unexpected IOException with stream: 223512	EVA	173810	2021-11-15 06:13:00.0	QUIK TRIP # 757	GA	98.22	325.00	TONY MALLORY	596861	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.003
+Unexpected IOException with stream: Number of Rows:223451
+
+
+# Created at 2022-09-06T15:52:54.004
+Unexpected IOException with stream: 223513	EVA	161682	2021-11-15 09:34:00.0	LOVES #834 TRAVEL STOPS	IL	113.80	394.70	SANTIAGO ESPINO	596863	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.082
+Unexpected IOException with stream: Number of Rows:223452
+
+
+# Created at 2022-09-06T15:52:54.083
+Unexpected IOException with stream: 223514	EVA	176518	2021-11-15 09:42:00.0	PETRO BORDENTOWN	NJ	128.95	435.86	Darius Green	596865	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.159
+Unexpected IOException with stream: Number of Rows:223453
+
+
+# Created at 2022-09-06T15:52:54.160
+Unexpected IOException with stream: 223515	EVA	183004	2021-11-15 12:53:00.0	LOVES #507 TRAVEL STOP	NC	29.50	94.80	TRAVON MOORE	596866	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.213
+Unexpected IOException with stream: Number of Rows:223454
+
+
+# Created at 2022-09-06T15:52:54.214
+Unexpected IOException with stream: 223516	EVA	181648	2021-11-15 12:55:00.0	PILOT TOWN PUMP ROCKER	MT	202.20	756.20	CARMEN FAVORITO	596867	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.307
+Unexpected IOException with stream: Number of Rows:223455
+
+
+# Created at 2022-09-06T15:52:54.308
+Unexpected IOException with stream: 223517	EVA	175008	2021-11-15 12:58:00.0	EL CHEAPO #1	GA	128.62	450.05	DENNIS NARCISSE	596868	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.410
+Unexpected IOException with stream: Number of Rows:223456
+
+
+# Created at 2022-09-06T15:52:54.411
+Unexpected IOException with stream: 223518	EVA	167349	2021-11-15 13:17:00.0	LOVES #471 TRAVEL STOP	TX	174.98	538.13	MIGUEL GOMEZ CASTRO	596869	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.493
+Unexpected IOException with stream: Number of Rows:223457
+
+
+# Created at 2022-09-06T15:52:54.494
+Unexpected IOException with stream: 223519	EVA	184215	2021-11-13 07:38:00.0	PILOT JOLIET 1024	IL	114.47	411.51	MOHAMMED ABED	596872	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.571
+Unexpected IOException with stream: Number of Rows:223458
+
+
+# Created at 2022-09-06T15:52:54.574
+Unexpected IOException with stream: 223520	EVA	180045	2021-11-15 08:54:00.0	LOVES #790 TRAVEL STOP	SC	102.77	330.75	HENRY RHOADES	596874	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.633
+Unexpected IOException with stream: Number of Rows:223459
+
+
+# Created at 2022-09-06T15:52:54.634
+Unexpected IOException with stream: 223521	EVA	179335	2021-11-15 09:17:00.0	SUNOCO #7009	NJ	223.58	792.77	CIRILO PLOANCO PENA	596875	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.731
+Unexpected IOException with stream: Number of Rows:223460
+
+
+# Created at 2022-09-06T15:52:54.731
+Unexpected IOException with stream: 223522	EVA	178495	2021-11-12 13:31:00.0	LOVES # 344 TRAVEL STOP	TN	77.14	249.09	MARVIN ARIAS	596876	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.799
+Unexpected IOException with stream: Number of Rows:223461
+
+
+# Created at 2022-09-06T15:52:54.800
+Unexpected IOException with stream: 223523	EVA	59269	2021-11-15 12:42:00.0	PILOT #4559	GA	40.27	130.16	NELSON ROBERTSON	596877	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.862
+Unexpected IOException with stream: Number of Rows:223462
+
+
+# Created at 2022-09-06T15:52:54.863
+Unexpected IOException with stream: 223524	EVA	178501	2021-11-15 12:46:00.0	NEW JERSEY TRUCK STOP	NJ	60.48	223.72	EDDY ANDUJAR	596878	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:54.953
+Unexpected IOException with stream: Number of Rows:223463
+
+
+# Created at 2022-09-06T15:52:54.953
+Unexpected IOException with stream: 223525	EVA	58680	2021-11-15 13:05:00.0	PETRO HIGHLANDS #6368	WI	207.95	790.01	ABEL VASQUEZ	596879	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.021
+Unexpected IOException with stream: Number of Rows:223464
+
+
+# Created at 2022-09-06T15:52:55.022
+Unexpected IOException with stream: 223526	EVA	178026	2021-11-15 20:28:00.0	FJ-LAMAR 709	PA	98.06	362.11	IRAN LEWIS	596882	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.096
+Unexpected IOException with stream: Number of Rows:223465
+
+
+# Created at 2022-09-06T15:52:55.096
+Unexpected IOException with stream: 223527	EVA	182761	2021-11-15 05:48:00.0	SPEEDWAY 7FLEET #8544	IL	108.48	393.67	JOSE SOTO FLORES	596884	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.167
+Unexpected IOException with stream: Number of Rows:223466
+
+
+# Created at 2022-09-06T15:52:55.168
+Unexpected IOException with stream: 223528	EVA	161195	2021-11-15 05:51:00.0	PILOT LAPLACE 082	LA	121.42	369.89	MARLENE JOSEPH KING	596885	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.270
+Unexpected IOException with stream: Number of Rows:223467
+
+
+# Created at 2022-09-06T15:52:55.270
+Unexpected IOException with stream: 223529	EVA	176202	2021-11-15 06:10:00.0	QUARLES #4916 - PORTSMOUT	VA	35.16	126.54	DERON MABRY	596886	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.350
+Unexpected IOException with stream: Number of Rows:223468
+
+
+# Created at 2022-09-06T15:52:55.350
+Unexpected IOException with stream: 223530	EVA	181753	2021-11-16 02:13:00.0	FJ 1068	SC	43.21	137.21	ANTHONY MURRAY	597829	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.409
+Unexpected IOException with stream: Number of Rows:223469
+
+
+# Created at 2022-09-06T15:52:55.410
+Unexpected IOException with stream: 223531	EVA	20989	2021-11-16 03:05:00.0	FJ-SILOAM 633	GA	71.78	232.86	Miguel Moya	597831	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.508
+Unexpected IOException with stream: Number of Rows:223470
+
+
+# Created at 2022-09-06T15:52:55.509
+Unexpected IOException with stream: 223532	EVA	162252	2021-11-16 03:08:00.0	RACETRAC #2574	GA	59.29	200.35	RONELLE JOHNSON	597832	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.580
+Unexpected IOException with stream: Number of Rows:223471
+
+
+# Created at 2022-09-06T15:52:55.580
+Unexpected IOException with stream: 223533	EVA	165363	2021-11-16 03:09:00.0	SPEEDWAY 7FLEET #8502	OH	79.75	290.58	SEAN LOCKE	597834	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.666
+Unexpected IOException with stream: Number of Rows:223472
+
+
+# Created at 2022-09-06T15:52:55.667
+Unexpected IOException with stream: 223534	EVA	184122	2021-11-15 07:55:00.0	FRANKS TRUCKING CENTER IN	VA	34.93	125.00	Wayne Nock	597836	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.728
+Unexpected IOException with stream: Number of Rows:223473
+
+
+# Created at 2022-09-06T15:52:55.729
+Unexpected IOException with stream: 223535	EVA	184311	2021-11-15 11:40:00.0	PILOT #4569	SC	91.42	294.75	MARION BYRD JR	597841	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.806
+Unexpected IOException with stream: Number of Rows:223474
+
+
+# Created at 2022-09-06T15:52:55.807
+Unexpected IOException with stream: 223536	EVA	172469	2021-11-16 01:14:00.0	LOVES # 354 TRAVEL STOP	GA	82.08	268.22	Benjamin Scott	597843	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.878
+Unexpected IOException with stream: Number of Rows:223475
+
+
+# Created at 2022-09-06T15:52:55.879
+Unexpected IOException with stream: 223537	EVA	179432	2021-11-16 02:07:00.0	ENMARKET #820	GA	96.19	322.61	MARLON ROBINSON	597844	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:55.979
+Unexpected IOException with stream: Number of Rows:223476
+
+
+# Created at 2022-09-06T15:52:55.980
+Unexpected IOException with stream: 223538	EVA	179243	2021-11-15 08:07:00.0	ONE9 SPEEDWAY 88133	OH	72.34	266.85	SHAN GAO	597845	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.050
+Unexpected IOException with stream: Number of Rows:223477
+
+
+# Created at 2022-09-06T15:52:56.051
+Unexpected IOException with stream: 223539	EVA	163650	2021-11-15 08:18:00.0	QUARLES #4914 - S MILITAR	VA	100.00	359.91	JUSTIN DEAN	597846	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.134
+Unexpected IOException with stream: Number of Rows:223478
+
+
+# Created at 2022-09-06T15:52:56.135
+Unexpected IOException with stream: 223540	EVA	172342	2021-11-16 06:10:00.0	PILOT REMINGTON 034	IN	53.64	179.24	ANTONIO SILVA	597847	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.200
+Unexpected IOException with stream: Number of Rows:223479
+
+
+# Created at 2022-09-06T15:52:56.202
+Unexpected IOException with stream: 223541	EVA	177639	2021-11-15 12:01:00.0	PILOT 434	TX	168.35	523.56	OSCAR LEONARDO	597849	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.266
+Unexpected IOException with stream: Number of Rows:223480
+
+
+# Created at 2022-09-06T15:52:56.267
+Unexpected IOException with stream: 223542	EVA	181838	2021-11-15 12:08:00.0	THORNTONS #322	IL	163.98	596.74	ALLEN TATE	597851	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.324
+Unexpected IOException with stream: Number of Rows:223481
+
+
+# Created at 2022-09-06T15:52:56.325
+Unexpected IOException with stream: 223543	EVA	163038	2021-11-16 02:52:00.0	PILOT LAPLACE 082	LA	79.39	241.83	EDWARD WHEELER	597854	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.403
+Unexpected IOException with stream: Number of Rows:223482
+
+
+# Created at 2022-09-06T15:52:56.404
+Unexpected IOException with stream: 223544	EVA	175085	2021-11-16 02:57:00.0	PILOT DANVILLE 256	VA	12.17	39.14	ADRIAN HARPER	597857	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.489
+Unexpected IOException with stream: Number of Rows:223483
+
+
+# Created at 2022-09-06T15:52:56.490
+Unexpected IOException with stream: 223545	EVA	180176	2021-11-16 03:01:00.0	EXPRESS 29	GA	22.88	80.50	MALVIS STONE	597858	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.565
+Unexpected IOException with stream: Number of Rows:223484
+
+
+# Created at 2022-09-06T15:52:56.565
+Unexpected IOException with stream: 223546	EVA	182050	2021-11-16 06:26:00.0	PETRO COLUMBIA	SC	103.64	325.72	VYNESHA SOLOMON	597859	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.638
+Unexpected IOException with stream: Number of Rows:223485
+
+
+# Created at 2022-09-06T15:52:56.639
+Unexpected IOException with stream: 223547	EVA	16508	2021-11-16 06:31:00.0	BROMPTON VALERO TC 2700	AL	56.20	180.98	ARNOLD HENRY	597861	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.711
+Unexpected IOException with stream: Number of Rows:223486
+
+
+# Created at 2022-09-06T15:52:56.712
+Unexpected IOException with stream: 223548	EVA	171670	2021-11-16 06:32:00.0	PILOT DISPUTANTA 4656	VA	32.47	102.93	Marcus Jordan	597862	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.786
+Unexpected IOException with stream: Number of Rows:223487
+
+
+# Created at 2022-09-06T15:52:56.787
+Unexpected IOException with stream: 223549	EVA	169595	2021-11-16 02:23:00.0	PILOT #4569	SC	82.55	266.18	LEE EDWARDS	597865	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.838
+Unexpected IOException with stream: Number of Rows:223488
+
+
+# Created at 2022-09-06T15:52:56.839
+Unexpected IOException with stream: 223550	EVA	174971	2021-11-16 02:36:00.0	FRIENDLY GUS #24	GA	68.94	230.86	DAPHINE MADDOX	597867	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.906
+Unexpected IOException with stream: Number of Rows:223489
+
+
+# Created at 2022-09-06T15:52:56.907
+Unexpected IOException with stream: 223551	EVA	174973	2021-11-16 02:49:00.0	FJ 1068	SC	71.84	228.15	GENE BARNES	597869	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:56.970
+Unexpected IOException with stream: Number of Rows:223490
+
+
+# Created at 2022-09-06T15:52:56.971
+Unexpected IOException with stream: 223552	EVA	167888	2021-11-16 06:09:00.0	PILOT RICHFIELD 130	OH	129.39	458.93	CLEMENT LEWIS	597870	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.049
+Unexpected IOException with stream: Number of Rows:223491
+
+
+# Created at 2022-09-06T15:52:57.050
+Unexpected IOException with stream: 223553	EVA	176270	2021-11-15 12:11:00.0	GRAND CENTRAL STATION	SC	25.77	87.09	ANDRE GREEN	597874	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.126
+Unexpected IOException with stream: Number of Rows:223492
+
+
+# Created at 2022-09-06T15:52:57.127
+Unexpected IOException with stream: 223554	EVA	178067	2021-11-15 11:03:00.0	ENERGY MARKETING 710 LLC	MO	113.18	340.94	IZET OGRESEVIC	597876	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.201
+Unexpected IOException with stream: Number of Rows:223493
+
+
+# Created at 2022-09-06T15:52:57.202
+Unexpected IOException with stream: 223555	EVA	170277	2021-11-15 11:38:00.0	PILOT ALSIP 1030	IL	175.70	647.74	RIYAD MUSTAFA	597881	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.252
+Unexpected IOException with stream: Number of Rows:223494
+
+
+# Created at 2022-09-06T15:52:57.253
+Unexpected IOException with stream: 223556	EVA	165416	2021-11-15 11:44:00.0	LOVES #389 TRAVEL STOP	OH	24.06	86.02	JOHN COVERT	597883	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.346
+Unexpected IOException with stream: Number of Rows:223495
+
+
+# Created at 2022-09-06T15:52:57.347
+Unexpected IOException with stream: 223557	EVA	177248	2021-11-16 01:33:00.0	LOVES #778 TRAVEL STOP	GA	47.99	160.97	THOMAS BRYANT	597885	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.445
+Unexpected IOException with stream: Number of Rows:223496
+
+
+# Created at 2022-09-06T15:52:57.446
+Unexpected IOException with stream: 223558	EVA	181753	2021-11-16 02:08:00.0	FJ 1068	SC	45.68	145.09	ANTHONY MURRAY	597886	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.516
+Unexpected IOException with stream: Number of Rows:223497
+
+
+# Created at 2022-09-06T15:52:57.517
+Unexpected IOException with stream: 223559	EVA	161373	2021-11-15 11:59:00.0	LENNYS FOOD N FUEL VETTER	IL	84.68	320.00	SANDRO AGUILERA	597889	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.601
+Unexpected IOException with stream: Number of Rows:223498
+
+
+# Created at 2022-09-06T15:52:57.601
+Unexpected IOException with stream: 223560	EVA	177353	2021-11-15 12:13:00.0	PILOT #1550	AL	165.78	523.49	Pereza Taylor	597890	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.686
+Unexpected IOException with stream: Number of Rows:223499
+
+
+# Created at 2022-09-06T15:52:57.687
+Unexpected IOException with stream: 223561	EVA	178513	2021-11-16 03:05:00.0	SHEETZ #603	PA	78.53	301.48	LUIS GONZALEZ	597891	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.782
+Unexpected IOException with stream: Number of Rows:223500
+
+
+# Created at 2022-09-06T15:52:57.782
+Unexpected IOException with stream: 223562	EVA	161195	2021-11-16 06:48:00.0	PILOT 1105	LA	87.78	272.76	MARLENE JOSEPH KING	597893	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.841
+Unexpected IOException with stream: Number of Rows:223501
+
+
+# Created at 2022-09-06T15:52:57.841
+Unexpected IOException with stream: 223563	EVA	176270	2021-11-16 02:27:00.0	FJ 1068	SC	55.20	175.30	ANDRE GREEN	597894	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:57.926
+Unexpected IOException with stream: Number of Rows:223502
+
+
+# Created at 2022-09-06T15:52:57.926
+Unexpected IOException with stream: 223564	EVA	59795	2021-11-16 02:37:00.0	MILLER MART #55	VA	49.17	175.00	CLIFTON JOHNSON JR	597895	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.000
+Unexpected IOException with stream: Number of Rows:223503
+
+
+# Created at 2022-09-06T15:52:58.000
+Unexpected IOException with stream: 223565	EVA	177248	2021-11-16 01:06:00.0	PARKERS #64	GA	6.18	21.98	THOMAS BRYANT	597898	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.103
+Unexpected IOException with stream: Number of Rows:223504
+
+
+# Created at 2022-09-06T15:52:58.103
+Unexpected IOException with stream: 223566	EVA	177851	2021-11-16 06:11:00.0	NEW JERSEY TRUCK STOP	NJ	96.04	355.27	FRANCISCO GIL	597901	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.212
+Unexpected IOException with stream: Number of Rows:223505
+
+
+# Created at 2022-09-06T15:52:58.214
+Unexpected IOException with stream: 223567	EVA	178228	2021-11-15 12:04:00.0	KANGAROO EXPRESS # 6032	FL	69.85	230.88	ANGEL CONTY	597904	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.313
+Unexpected IOException with stream: Number of Rows:223506
+
+
+# Created at 2022-09-06T15:52:58.314
+Unexpected IOException with stream: 223568	EVA	165439	2021-11-16 06:22:00.0	TA DANSVILLE	NY	125.14	421.47	Wayne Bukowski	597907	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.476
+Unexpected IOException with stream: Number of Rows:223507
+
+
+# Created at 2022-09-06T15:52:58.477
+Unexpected IOException with stream: 223569	EVA	180665	2021-11-16 02:16:00.0	LOVES #702 TRAVEL STOP	IA	163.98	515.45	ARMANDO GARCIA	597909	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.576
+Unexpected IOException with stream: Number of Rows:223508
+
+
+# Created at 2022-09-06T15:52:58.577
+Unexpected IOException with stream: 223570	EVA	59289	2021-11-16 02:40:00.0	FJ RUTHER GLEN 876	VA	67.64	216.88	CHARLES CUFFEE	597910	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.703
+Unexpected IOException with stream: Number of Rows:223509
+
+
+# Created at 2022-09-06T15:52:58.704
+Unexpected IOException with stream: 223571	EVA	178188	2021-11-16 02:55:00.0	ROUTE 46 EAST TRUCK STOP	NJ	89.69	329.96	WILLIAM BONILLA	597912	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.814
+Unexpected IOException with stream: Number of Rows:223510
+
+
+# Created at 2022-09-06T15:52:58.815
+Unexpected IOException with stream: 223572	EVA	181884	2021-11-15 08:22:00.0	TA SOUTHINGTON	CT	196.36	643.07	RAMON VENTURA VAZQUEZ	597913	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.900
+Unexpected IOException with stream: Number of Rows:223511
+
+
+# Created at 2022-09-06T15:52:58.901
+Unexpected IOException with stream: 223573	EVA	182687	2021-11-15 08:23:00.0	CIRCLE K #2701869	GA	50.29	169.43	WILLIE CULVER	597914	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:58.982
+Unexpected IOException with stream: Number of Rows:223512
+
+
+# Created at 2022-09-06T15:52:58.982
+Unexpected IOException with stream: 223574	EVA	184832	2021-11-15 12:10:00.0	PILOT DUNCANNON 5177	PA	100.00	365.91	MUJAHID LEWIS	597915	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.032
+Unexpected IOException with stream: Number of Rows:223513
+
+
+# Created at 2022-09-06T15:52:59.033
+Unexpected IOException with stream: 223575	EVA	163919	2021-11-16 02:58:00.0	PILOT #4563	PA	132.17	482.95	JAMES THOMPSON	597935	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.106
+Unexpected IOException with stream: Number of Rows:223514
+
+
+# Created at 2022-09-06T15:52:59.107
+Unexpected IOException with stream: 223576	EVA	182824	2021-11-16 06:09:00.0	PILOT BYRON 267	GA	50.80	165.75	BUNTITH PROM	597938	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.177
+Unexpected IOException with stream: Number of Rows:223515
+
+
+# Created at 2022-09-06T15:52:59.177
+Unexpected IOException with stream: 223577	EVA	183533	2021-11-16 06:16:00.0	GREENWAY STORE #614	GA	39.72	141.36	ADRIAN REEVES	597939	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.260
+Unexpected IOException with stream: Number of Rows:223516
+
+
+# Created at 2022-09-06T15:52:59.261
+Unexpected IOException with stream: 223578	EVA	181902	2021-11-16 06:18:00.0	ONE9 MR FUEL #1149	FL	60.88	225.18	WRIGHT JEROME	597940	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.350
+Unexpected IOException with stream: Number of Rows:223517
+
+
+# Created at 2022-09-06T15:52:59.351
+Unexpected IOException with stream: 223579	EVA	182692	2021-11-16 06:27:00.0	FJ-SILOAM 633	GA	107.80	349.73	EDWN VELAZQUEZ	597941	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.408
+Unexpected IOException with stream: Number of Rows:223518
+
+
+# Created at 2022-09-06T15:52:59.409
+Unexpected IOException with stream: 223580	EVA	182259	2021-11-16 06:30:00.0	TA MONROE	MI	91.52	295.79	SAVIO ERIMYA	597942	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.492
+Unexpected IOException with stream: Number of Rows:223519
+
+
+# Created at 2022-09-06T15:52:59.493
+Unexpected IOException with stream: 223581	EVA	184222	2021-11-16 06:35:00.0	PILOT ALSIP 1030	IL	96.28	354.94	JULIAN ANAYA	597943	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.558
+Unexpected IOException with stream: Number of Rows:223520
+
+
+# Created at 2022-09-06T15:52:59.559
+Unexpected IOException with stream: 223582	EVA	174936	2021-11-16 06:40:00.0	QUIK TRIP #7135	SC	47.84	159.75	ANGELO CRAWFORD	597944	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.612
+Unexpected IOException with stream: Number of Rows:223521
+
+
+# Created at 2022-09-06T15:52:59.612
+Unexpected IOException with stream: 223583	EVA	184458	2021-11-16 06:41:00.0	MR FUEL #719	IN	108.81	424.23	Rakan Aldisi	597945	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.658
+Unexpected IOException with stream: Number of Rows:223522
+
+
+# Created at 2022-09-06T15:52:59.659
+Unexpected IOException with stream: 223584	EVA	182603	2021-11-16 06:50:00.0	FJ-LEBANON 652	IN	118.51	408.04	RIDA BOUDAIA	597946	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.753
+Unexpected IOException with stream: Number of Rows:223523
+
+
+# Created at 2022-09-06T15:52:59.754
+Unexpected IOException with stream: 223585	EVA	170735	2021-11-16 07:00:00.0	LOVES # 293 TRAVEL STOP	TX	97.52	299.92	JUANA LEON	597947	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.820
+Unexpected IOException with stream: Number of Rows:223524
+
+
+# Created at 2022-09-06T15:52:59.821
+Unexpected IOException with stream: 223586	EVA	163330	2021-11-16 11:40:00.0	LOVES #657 TRAVEL STOP	SC	130.61	414.40	WINDELL WILLIAMS	597948	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.878
+Unexpected IOException with stream: Number of Rows:223525
+
+
+# Created at 2022-09-06T15:52:59.879
+Unexpected IOException with stream: 223587	EVA	180087	2021-11-16 11:41:00.0	PILOT JOLIET 1024	IL	79.43	284.38	GERALD MILLER	597949	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:52:59.966
+Unexpected IOException with stream: Number of Rows:223526
+
+
+# Created at 2022-09-06T15:52:59.968
+Unexpected IOException with stream: 223588	EVA	182138	2021-11-16 11:55:00.0	LOVES #535 TRAVEL STOP	PA	110.06	401.72	RAFAEL GOMEZSANTIAGO	597950	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.090
+Unexpected IOException with stream: Number of Rows:223527
+
+
+# Created at 2022-09-06T15:53:00.091
+Unexpected IOException with stream: 223589	EVA	174971	2021-11-16 07:13:00.0	LOVES #801 TRAVEL STOP	GA	34.22	112.73	DAPHINE MADDOX	597952	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.163
+Unexpected IOException with stream: Number of Rows:223528
+
+
+# Created at 2022-09-06T15:53:00.164
+Unexpected IOException with stream: 223590	EVA	184106	2021-11-15 12:10:00.0	LOVES #292 TRAVEL STOP	IL	106.06	369.38	DARRYOL WILLIAMS	597957	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.268
+Unexpected IOException with stream: Number of Rows:223529
+
+
+# Created at 2022-09-06T15:53:00.269
+Unexpected IOException with stream: 223591	EVA	57452	2021-11-16 01:36:00.0	JET #93	GA	90.90	316.26	DENNIS ADAMS	597958	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.351
+Unexpected IOException with stream: Number of Rows:223530
+
+
+# Created at 2022-09-06T15:53:00.352
+Unexpected IOException with stream: 223592	EVA	180856	2021-11-16 01:51:00.0	PILOT #4569	SC	85.43	275.45	CARROLL MACK JR	597959	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.410
+Unexpected IOException with stream: Number of Rows:223531
+
+
+# Created at 2022-09-06T15:53:00.411
+Unexpected IOException with stream: 223593	EVA	183133	2021-11-16 02:13:00.0	SAPP BROTHERS	UT	115.00	451.77	LARRY SANDERS	597961	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.504
+Unexpected IOException with stream: Number of Rows:223532
+
+
+# Created at 2022-09-06T15:53:00.505
+Unexpected IOException with stream: 223594	EVA	173716	2021-11-16 02:41:00.0	SUNOCO #7013	NJ	93.61	331.80	CARLOS MARTINEZ	597962	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.576
+Unexpected IOException with stream: Number of Rows:223533
+
+
+# Created at 2022-09-06T15:53:00.577
+Unexpected IOException with stream: 223595	EVA	167715	2021-11-15 08:16:00.0	PILOT CARNEYS POINT 253	NJ	108.50	364.84	KLEVER GORDILLO	597965	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.622
+Unexpected IOException with stream: Number of Rows:223534
+
+
+# Created at 2022-09-06T15:53:00.623
+Unexpected IOException with stream: 223596	EVA	177114	2021-11-16 06:15:00.0	SPEEDWAY 7FLEET #7461	IL	81.78	299.93	TARIK MORRAR	597966	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.674
+Unexpected IOException with stream: Number of Rows:223535
+
+
+# Created at 2022-09-06T15:53:00.675
+Unexpected IOException with stream: 223597	EVA	160957	2021-11-16 06:21:00.0	LOVES #705 TRAVEL STOP	VA	110.13	355.44	GEORGE MALLORY	597967	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.728
+Unexpected IOException with stream: Number of Rows:223536
+
+
+# Created at 2022-09-06T15:53:00.728
+Unexpected IOException with stream: 223598	EVA	167562	2021-11-16 06:27:00.0	LOVES # 288 TRAVEL STOP	TX	133.97	420.79	DANIEL GUEVARA	597969	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.801
+Unexpected IOException with stream: Number of Rows:223537
+
+
+# Created at 2022-09-06T15:53:00.802
+Unexpected IOException with stream: 223599	EVA	180378	2021-11-16 06:27:00.0	PILOT 222	MA	125.20	409.93	RICHIE CUEVAS	597970	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.896
+Unexpected IOException with stream: Number of Rows:223538
+
+
+# Created at 2022-09-06T15:53:00.896
+Unexpected IOException with stream: 223600	EVA	170763	2021-11-15 12:09:00.0	PILOT SIMPSONVILLE 354	KY	128.02	403.19	RAMIZ KURPEJOVIC	597971	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:00.980
+Unexpected IOException with stream: Number of Rows:223539
+
+
+# Created at 2022-09-06T15:53:00.980
+Unexpected IOException with stream: 223601	EVA	56265	2021-11-15 12:10:00.0	TA EFFINGHAM	IL	124.23	430.47	CHARLES WATSON	597972	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.074
+Unexpected IOException with stream: Number of Rows:223540
+
+
+# Created at 2022-09-06T15:53:01.074
+Unexpected IOException with stream: 223602	EVA	183951	2021-11-13 04:12:00.0	ONE9 MR FUEL 064	SC	103.52	358.06	JERIMIA FRASIER	595641	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.142
+Unexpected IOException with stream: Number of Rows:223541
+
+
+# Created at 2022-09-06T15:53:01.143
+Unexpected IOException with stream: 223603	EVA	183878	2021-11-15 00:22:00.0	RT 66 FOOD N FUEL	IL	119.71	450.00	HASSAN NASSER	595646	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.228
+Unexpected IOException with stream: Number of Rows:223542
+
+
+# Created at 2022-09-06T15:53:01.230
+Unexpected IOException with stream: 223604	EVA	183108	2021-11-15 01:09:00.0	PILOT MIAMI #873	FL	191.97	633.33	DUILMIS FEBLES	595647	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.298
+Unexpected IOException with stream: Number of Rows:223543
+
+
+# Created at 2022-09-06T15:53:01.299
+Unexpected IOException with stream: 223605	EVA	169137	2021-11-12 12:17:00.0	PILOT GRANTSVILLE 408	MD	108.58	365.56	THOMAS RUSSELL	595649	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.355
+Unexpected IOException with stream: Number of Rows:223544
+
+
+# Created at 2022-09-06T15:53:01.356
+Unexpected IOException with stream: 223606	EVA	183890	2021-11-12 12:21:00.0	FJ-WATERLOO 637	IA	85.11	269.31	TAWFIK JAWISH	595650	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.432
+Unexpected IOException with stream: Number of Rows:223545
+
+
+# Created at 2022-09-06T15:53:01.433
+Unexpected IOException with stream: 223607	EVA	169642	2021-11-12 12:27:00.0	JIMS TRUCK PLAZA	NY	100.55	348.11	Sobit Sarvantov	595653	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.524
+Unexpected IOException with stream: Number of Rows:223546
+
+
+# Created at 2022-09-06T15:53:01.524
+Unexpected IOException with stream: 223608	EVA	169260	2021-11-13 02:52:00.0	KANGAROO EXPRESS # 6293	FL	53.21	177.90	SMITH VITO	595692	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.620
+Unexpected IOException with stream: Number of Rows:223547
+
+
+# Created at 2022-09-06T15:53:01.621
+Unexpected IOException with stream: 223609	EVA	21932	2021-11-13 04:12:00.0	PILOT FORT PIERCE 090	FL	97.37	325.30	LANCY KEENON	595695	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.697
+Unexpected IOException with stream: Number of Rows:223548
+
+
+# Created at 2022-09-06T15:53:01.698
+Unexpected IOException with stream: 223610	EVA	184335	2021-11-14 08:24:00.0	7-11 STORE 40303 - 7755	OH	49.80	169.31	VICTOR RODRIGUEZ	595696	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.780
+Unexpected IOException with stream: Number of Rows:223549
+
+
+# Created at 2022-09-06T15:53:01.781
+Unexpected IOException with stream: 223611	EVA	181518	2021-11-14 08:57:00.0	TA GARY	IN	72.69	238.18	ASSAD BTEIBET	595697	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.868
+Unexpected IOException with stream: Number of Rows:223550
+
+
+# Created at 2022-09-06T15:53:01.869
+Unexpected IOException with stream: 223612	EVA	171670	2021-11-12 11:40:00.0	PILOT DISPUTANTA 4656	VA	40.12	129.13	Marcus Jordan	595699	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:01.958
+Unexpected IOException with stream: Number of Rows:223551
+
+
+# Created at 2022-09-06T15:53:01.959
+Unexpected IOException with stream: 223613	EVA	181947	2021-11-12 12:00:00.0	PILOT BRAZIL 444	IN	81.11	279.39	ROBERT JACKSON	595701	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.031
+Unexpected IOException with stream: Number of Rows:223552
+
+
+# Created at 2022-09-06T15:53:02.031
+Unexpected IOException with stream: 223614	EVA	178513	2021-11-13 03:33:00.0	SHEETZ #603	PA	70.38	270.20	LUIS GONZALEZ	595702	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.100
+Unexpected IOException with stream: Number of Rows:223553
+
+
+# Created at 2022-09-06T15:53:02.101
+Unexpected IOException with stream: 223615	EVA	58323	2021-11-13 05:53:00.0	PILOT DISPUTANTA 4656	VA	159.62	512.56	STACY THOMPSON	595704	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.186
+Unexpected IOException with stream: Number of Rows:223554
+
+
+# Created at 2022-09-06T15:53:02.186
+Unexpected IOException with stream: 223616	EVA	166832	2021-11-13 06:37:00.0	KANGAROO EXPRESS # 6293	FL	26.61	88.95	CLINTON WILSON	595705	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.248
+Unexpected IOException with stream: Number of Rows:223555
+
+
+# Created at 2022-09-06T15:53:02.248
+Unexpected IOException with stream: 223617	EVA	176450	2021-11-14 07:59:00.0	PILOT JOLIET 1024	IL	73.70	263.86	Robert Bramlett	595706	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.345
+Unexpected IOException with stream: Number of Rows:223556
+
+
+# Created at 2022-09-06T15:53:02.345
+Unexpected IOException with stream: 223618	EVA	183044	2021-11-14 09:38:00.0	LOVES #765 TRAVEL STOP	GA	89.20	291.28	ERVIN WOODYARD JR	595708	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.398
+Unexpected IOException with stream: Number of Rows:223557
+
+
+# Created at 2022-09-06T15:53:02.399
+Unexpected IOException with stream: 223619	EVA	184122	2021-11-13 03:38:00.0	BIG CHARLIES TRUCK PLAZA	VA	35.63	127.51	Wayne Nock	595710	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.474
+Unexpected IOException with stream: Number of Rows:223558
+
+
+# Created at 2022-09-06T15:53:02.474
+Unexpected IOException with stream: 223620	EVA	175127	2021-11-13 04:06:00.0	FLYING J ODESSA 580	TX	26.62	85.32	PHILLIP MARTINEZ	595711	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.564
+Unexpected IOException with stream: Number of Rows:223559
+
+
+# Created at 2022-09-06T15:53:02.565
+Unexpected IOException with stream: 223621	EVA	183529	2021-11-13 06:09:00.0	PILOT JOLIET 1024	IL	91.26	328.07	RAFAEL DE LA CRUZ	595713	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.656
+Unexpected IOException with stream: Number of Rows:223560
+
+
+# Created at 2022-09-06T15:53:02.657
+Unexpected IOException with stream: 223622	EVA	165075	2021-11-13 06:17:00.0	QUIK TRIP #1863	TX	31.53	102.12	NICOLAS MARADIAGA	595714	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.732
+Unexpected IOException with stream: Number of Rows:223561
+
+
+# Created at 2022-09-06T15:53:02.733
+Unexpected IOException with stream: 223623	EVA	182390	2021-11-13 06:37:00.0	FJ-KENLY 683	NC	216.28	702.09	NOLTE CRUZ	595715	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.795
+Unexpected IOException with stream: Number of Rows:223562
+
+
+# Created at 2022-09-06T15:53:02.795
+Unexpected IOException with stream: 223624	EVA	176423	2021-11-14 09:41:00.0	FJ-CHANNELVIEW 1025	TX	146.24	446.09	HECTOR TREVINO	595718	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.891
+Unexpected IOException with stream: Number of Rows:223563
+
+
+# Created at 2022-09-06T15:53:02.892
+Unexpected IOException with stream: 223625	EVA	164182	2021-11-14 09:56:00.0	LOVES # 393 TRAVEL STOP	MS	19.80	60.47	Billy Butler	595719	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:02.979
+Unexpected IOException with stream: Number of Rows:223564
+
+
+# Created at 2022-09-06T15:53:02.980
+Unexpected IOException with stream: 223626	EVA	169595	2021-11-15 02:08:00.0	PILOT #4569	SC	93.90	302.76	LEE EDWARDS	595721	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.068
+Unexpected IOException with stream: Number of Rows:223565
+
+
+# Created at 2022-09-06T15:53:03.068
+Unexpected IOException with stream: 223627	EVA	181790	2021-11-15 02:29:00.0	LOVES #627 TRAVEL STOP	FL	61.33	200.15	LEONEL GONZALEZ	595722	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.157
+Unexpected IOException with stream: Number of Rows:223566
+
+
+# Created at 2022-09-06T15:53:03.158
+Unexpected IOException with stream: 223628	EVA	174246	2021-11-15 03:04:00.0	NEW JERSEY TRUCK STOP	NJ	186.22	688.84	ALBANELY MEDERO	595724	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.235
+Unexpected IOException with stream: Number of Rows:223567
+
+
+# Created at 2022-09-06T15:53:03.236
+Unexpected IOException with stream: 223629	EVA	175750	2021-11-15 03:11:00.0	ONE9 MR FUEL 064	SC	57.82	200.00	TERRELL SMALLS	595726	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.303
+Unexpected IOException with stream: Number of Rows:223568
+
+
+# Created at 2022-09-06T15:53:03.304
+Unexpected IOException with stream: 223630	EVA	170823	2021-11-15 03:19:00.0	TA WHITESTOWN	IN	152.01	519.53	MIGUEL VARGAS	595727	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.390
+Unexpected IOException with stream: Number of Rows:223569
+
+
+# Created at 2022-09-06T15:53:03.390
+Unexpected IOException with stream: 223631	EVA	160805	2021-11-15 03:25:00.0	7-11 STORE 40293 - 7757	OH	143.52	512.85	SIMON MIRARA	595728	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.451
+Unexpected IOException with stream: Number of Rows:223570
+
+
+# Created at 2022-09-06T15:53:03.451
+Unexpected IOException with stream: 223632	EVA	181470	2021-11-14 10:45:00.0	TA ASHLAND VA	VA	139.06	440.42	WADE FLAGG	595749	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.540
+Unexpected IOException with stream: Number of Rows:223571
+
+
+# Created at 2022-09-06T15:53:03.541
+Unexpected IOException with stream: 223633	EVA	175893	2021-11-14 10:56:00.0	PWI #457 TEXACO	TX	160.92	506.75	GUADALUPE VILLALON	595750	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.626
+Unexpected IOException with stream: Number of Rows:223572
+
+
+# Created at 2022-09-06T15:53:03.627
+Unexpected IOException with stream: 223634	EVA	182528	2021-11-15 02:08:00.0	TA SAVANNAH	GA	99.27	333.96	TRENTON BUSH	595751	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.742
+Unexpected IOException with stream: Number of Rows:223573
+
+
+# Created at 2022-09-06T15:53:03.743
+Unexpected IOException with stream: 223635	EVA	167283	2021-11-15 02:29:00.0	FJ-LOWELL 653	IN	65.80	218.79	MOHANAD GHAREEB	595752	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.847
+Unexpected IOException with stream: Number of Rows:223574
+
+
+# Created at 2022-09-06T15:53:03.847
+Unexpected IOException with stream: 223636	EVA	178619	2021-11-15 02:48:00.0	PILOT #4569	SC	137.54	443.48	BENJAMIN ELLIOTT	595753	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:03.940
+Unexpected IOException with stream: Number of Rows:223575
+
+
+# Created at 2022-09-06T15:53:03.941
+Unexpected IOException with stream: 223637	EVA	178569	2021-11-15 02:50:00.0	TA #241 DEMOTTE	IN	205.21	676.62	BRET DOVE	595754	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.029
+Unexpected IOException with stream: Number of Rows:223576
+
+
+# Created at 2022-09-06T15:53:04.030
+Unexpected IOException with stream: 223638	EVA	59795	2021-11-15 03:31:00.0	MILLER MART #55	VA	56.20	200.00	CLIFTON JOHNSON JR	595756	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.120
+Unexpected IOException with stream: Number of Rows:223577
+
+
+# Created at 2022-09-06T15:53:04.120
+Unexpected IOException with stream: 223639	EVA	180271	2021-11-15 03:32:00.0	A & S FUEL LLC	NJ	109.32	400.00	OSCAR OCAMPO	595757	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.184
+Unexpected IOException with stream: Number of Rows:223578
+
+
+# Created at 2022-09-06T15:53:04.185
+Unexpected IOException with stream: 223640	EVA	178041	2021-11-15 03:33:00.0	PILOT #1042	IL	170.79	623.98	ZBIGNIEW STEFANIAK	595758	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.277
+Unexpected IOException with stream: Number of Rows:223579
+
+
+# Created at 2022-09-06T15:53:04.278
+Unexpected IOException with stream: 223641	EVA	178316	2021-11-15 03:36:00.0	LOVES # 320 TRAVEL STOP	GA	103.12	341.96	VERNELL SLAY	595759	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.383
+Unexpected IOException with stream: Number of Rows:223580
+
+
+# Created at 2022-09-06T15:53:04.384
+Unexpected IOException with stream: 223642	EVA	166832	2021-11-14 09:10:00.0	LOVES #761 TRAVEL STOP	FL	13.20	43.34	CLINTON WILSON	595761	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.476
+Unexpected IOException with stream: Number of Rows:223581
+
+
+# Created at 2022-09-06T15:53:04.476
+Unexpected IOException with stream: 223643	EVA	20989	2021-11-15 02:05:00.0	FJ-SILOAM 633	GA	78.38	254.26	Miguel Moya	595762	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.547
+Unexpected IOException with stream: Number of Rows:223582
+
+
+# Created at 2022-09-06T15:53:04.548
+Unexpected IOException with stream: 223644	EVA	173089	2021-11-15 02:53:00.0	PILOT 150	MD	133.37	433.53	ABRAHAM LARYEA	595764	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.633
+Unexpected IOException with stream: Number of Rows:223583
+
+
+# Created at 2022-09-06T15:53:04.634
+Unexpected IOException with stream: 223645	EVA	179241	2021-11-14 10:19:00.0	TA MADISON GA	GA	77.34	249.26	JERMAINE TERRELL	595767	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.698
+Unexpected IOException with stream: Number of Rows:223584
+
+
+# Created at 2022-09-06T15:53:04.699
+Unexpected IOException with stream: 223646	EVA	21967	2021-11-14 07:39:00.0	QUIK TRIP # 787	GA	25.16	85.01	Carey Cooper	595769	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.777
+Unexpected IOException with stream: Number of Rows:223585
+
+
+# Created at 2022-09-06T15:53:04.778
+Unexpected IOException with stream: 223647	EVA	180891	2021-11-14 07:41:00.0	CIRCLE K #2701869	GA	151.38	510.00	GLEN GOOCH	595770	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.861
+Unexpected IOException with stream: Number of Rows:223586
+
+
+# Created at 2022-09-06T15:53:04.862
+Unexpected IOException with stream: 223648	EVA	178449	2021-11-14 09:34:00.0	LOVES # 333 TRAVEL STOP	SC	80.31	250.43	FRANCIS PETTIPAW	595771	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.940
+Unexpected IOException with stream: Number of Rows:223587
+
+
+# Created at 2022-09-06T15:53:04.940
+Unexpected IOException with stream: 223649	EVA	180428	2021-11-14 09:47:00.0	JET #93	GA	75.13	261.38	ALVIN RICKS	595772	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:04.989
+Unexpected IOException with stream: Number of Rows:223588
+
+
+# Created at 2022-09-06T15:53:04.990
+Unexpected IOException with stream: 223650	EVA	182736	2021-11-14 11:12:00.0	VALERO # 4095	CO	170.03	577.94	JORGE RONQUILLO	595773	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.051
+Unexpected IOException with stream: Number of Rows:223589
+
+
+# Created at 2022-09-06T15:53:05.052
+Unexpected IOException with stream: 223651	EVA	168682	2021-11-15 02:10:00.0	PILOT DISPUTANTA 4656	VA	52.48	166.34	KEITH BAILEY	595774	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.120
+Unexpected IOException with stream: Number of Rows:223590
+
+
+# Created at 2022-09-06T15:53:05.121
+Unexpected IOException with stream: 223652	EVA	184668	2021-11-15 03:20:00.0	PILOT #575	GA	100.54	332.56	CHARLES VARNEDOE	595775	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.215
+Unexpected IOException with stream: Number of Rows:223591
+
+
+# Created at 2022-09-06T15:53:05.216
+Unexpected IOException with stream: 223653	EVA	163693	2021-11-15 03:23:00.0	PILOT BRASELTON 066	GA	150.17	486.26	RAMON RODRIGUEZ	595776	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.292
+Unexpected IOException with stream: Number of Rows:223592
+
+
+# Created at 2022-09-06T15:53:05.293
+Unexpected IOException with stream: 223654	EVA	176270	2021-11-15 03:30:00.0	ENMARKET #892	SC	42.22	132.97	ANDRE GREEN	595778	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.363
+Unexpected IOException with stream: Number of Rows:223593
+
+
+# Created at 2022-09-06T15:53:05.364
+Unexpected IOException with stream: 223655	EVA	163634	2021-11-15 03:32:00.0	QUIK TRIP #605	MO	77.70	264.12	CW YOUNG	595779	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.411
+Unexpected IOException with stream: Number of Rows:223594
+
+
+# Created at 2022-09-06T15:53:05.412
+Unexpected IOException with stream: 223656	EVA	180176	2021-11-14 08:22:00.0	LOVES #778 TRAVEL STOP	GA	80.31	269.41	MALVIS STONE	595780	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.489
+Unexpected IOException with stream: Number of Rows:223595
+
+
+# Created at 2022-09-06T15:53:05.501
+Unexpected IOException with stream: 223657	EVA	177248	2021-11-15 02:10:00.0	PARKERS #64	GA	72.85	259.27	THOMAS BRYANT	595782	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.559
+Unexpected IOException with stream: Number of Rows:223596
+
+
+# Created at 2022-09-06T15:53:05.560
+Unexpected IOException with stream: 223658	EVA	161925	2021-11-15 02:58:00.0	ONE9 MR FUEL 064	SC	0.47	1.64	Leon Dawson	595783	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.624
+Unexpected IOException with stream: Number of Rows:223597
+
+
+# Created at 2022-09-06T15:53:05.625
+Unexpected IOException with stream: 223659	EVA	161925	2021-11-15 03:02:00.0	ONE9 MR FUEL 064	SC	101.39	350.70	Leon Dawson	595784	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.705
+Unexpected IOException with stream: Number of Rows:223598
+
+
+# Created at 2022-09-06T15:53:05.706
+Unexpected IOException with stream: 223660	EVA	177078	2021-11-15 03:15:00.0	QUIK TRIP #973	TX	108.35	350.94	MICHEAL ROBINSON	595826	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.792
+Unexpected IOException with stream: Number of Rows:223599
+
+
+# Created at 2022-09-06T15:53:05.793
+Unexpected IOException with stream: 223661	EVA	161979	2021-11-15 03:04:00.0	LOVES # 333 TRAVEL STOP	SC	98.60	307.46	JAMES WHITE	595828	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.874
+Unexpected IOException with stream: Number of Rows:223600
+
+
+# Created at 2022-09-06T15:53:05.875
+Unexpected IOException with stream: 223662	EVA	163124	2021-11-15 03:20:00.0	SHEETZ #608	PA	155.54	595.54	DARRYL LEACH	595830	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:05.953
+Unexpected IOException with stream: Number of Rows:223601
+
+
+# Created at 2022-09-06T15:53:05.954
+Unexpected IOException with stream: 223663	EVA	183594	2021-11-15 03:21:00.0	LOVES # 344 TRAVEL STOP	TN	50.72	161.46	FRED EDDINGTON	595831	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.028
+Unexpected IOException with stream: Number of Rows:223602
+
+
+# Created at 2022-09-06T15:53:06.029
+Unexpected IOException with stream: 223664	EVA	165607	2021-11-15 03:37:00.0	THORNTONS #325	IL	123.88	450.80	LUIS GRAJEDA	595833	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.090
+Unexpected IOException with stream: Number of Rows:223603
+
+
+# Created at 2022-09-06T15:53:06.091
+Unexpected IOException with stream: 223665	EVA	161373	2021-11-15 02:13:00.0	LENNYS FOOD N FUEL VETTER	IL	78.33	296.01	SANDRO AGUILERA	595835	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.151
+Unexpected IOException with stream: Number of Rows:223604
+
+
+# Created at 2022-09-06T15:53:06.151
+Unexpected IOException with stream: 223666	EVA	178179	2021-11-14 09:58:00.0	MFA OIL COMPANY - WYNNE	AR	66.44	225.83	JEFFEREE PRATT	595836	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.226
+Unexpected IOException with stream: Number of Rows:223605
+
+
+# Created at 2022-09-06T15:53:06.227
+Unexpected IOException with stream: 223667	EVA	170677	2021-11-14 11:00:00.0	PILOT CLINTON 061	SC	160.00	494.73	BURNETT CRAVEN	595838	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.295
+Unexpected IOException with stream: Number of Rows:223606
+
+
+# Created at 2022-09-06T15:53:06.295
+Unexpected IOException with stream: 223668	EVA	165363	2021-11-15 03:14:00.0	SPEEDWAY 7FLEET #8502	OH	94.89	345.72	SEAN LOCKE	595842	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.355
+Unexpected IOException with stream: Number of Rows:223607
+
+
+# Created at 2022-09-06T15:53:06.357
+Unexpected IOException with stream: 223669	EVA	182467	2021-11-15 03:24:00.0	THORNTONS #314	IL	101.48	347.98	ARTUR MAZIARKA	595843	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.419
+Unexpected IOException with stream: Number of Rows:223608
+
+
+# Created at 2022-09-06T15:53:06.419
+Unexpected IOException with stream: 223670	EVA	22416	2021-11-15 03:37:00.0	COWBOYS #3667	AL	73.12	233.04	WILLIAM COLBERT	595844	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.488
+Unexpected IOException with stream: Number of Rows:223609
+
+
+# Created at 2022-09-06T15:53:06.490
+Unexpected IOException with stream: 223671	EVA	173347	2021-11-14 12:47:00.0	PARMAR PETROLEUM LLC	NJ	112.08	400.00	DWAYNE EVANS	595846	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.559
+Unexpected IOException with stream: Number of Rows:223610
+
+
+# Created at 2022-09-06T15:53:06.560
+Unexpected IOException with stream: 223672	EVA	18114	2021-11-15 03:32:00.0	TULLO TRUCK STOP LLC	NJ	111.43	423.32	SEGUNDO CARRION	595847	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.631
+Unexpected IOException with stream: Number of Rows:223611
+
+
+# Created at 2022-09-06T15:53:06.632
+Unexpected IOException with stream: 223673	EVA	180342	2021-11-15 03:33:00.0	NEW JERSEY TRUCK STOP	NJ	133.43	493.56	CARLOS OGANDO	595848	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.708
+Unexpected IOException with stream: Number of Rows:223612
+
+
+# Created at 2022-09-06T15:53:06.709
+Unexpected IOException with stream: 223674	EVA	182024	2021-11-10 12:36:00.0	LOVES #754 TRAVEL STOP	IL	37.25	132.18	RAMIRO PELAYO	590871	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.792
+Unexpected IOException with stream: Number of Rows:223613
+
+
+# Created at 2022-09-06T15:53:06.793
+Unexpected IOException with stream: 223675	EVA	183849	2021-11-10 12:51:00.0	GX ALABAMA	AL	109.20	382.08	HAROLD COOPER	590872	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.871
+Unexpected IOException with stream: Number of Rows:223614
+
+
+# Created at 2022-09-06T15:53:06.872
+Unexpected IOException with stream: 223676	EVA	184324	2021-11-10 13:29:00.0	KANGAROO EXPRESS # 6293	FL	31.24	105.00	DARRIUS PARTRIDGE	590879	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:06.922
+Unexpected IOException with stream: Number of Rows:223615
+
+
+# Created at 2022-09-06T15:53:06.923
+Unexpected IOException with stream: 223677	EVA	182528	2021-11-10 18:03:00.0	PARKERS #64	GA	69.64	247.85	TRENTON BUSH	590881	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.001
+Unexpected IOException with stream: Number of Rows:223616
+
+
+# Created at 2022-09-06T15:53:07.001
+Unexpected IOException with stream: 223678	EVA	171761	2021-11-10 18:46:00.0	PILOT GARY 271	IN	100.78	336.15	MICHAEL MITCHELL	590882	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.073
+Unexpected IOException with stream: Number of Rows:223617
+
+
+# Created at 2022-09-06T15:53:07.073
+Unexpected IOException with stream: 223679	EVA	182713	2021-11-10 18:52:00.0	FJ- ANNA 477	TX	83.35	262.95	ROGER BAYLESS	590883	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.145
+Unexpected IOException with stream: Number of Rows:223618
+
+
+# Created at 2022-09-06T15:53:07.147
+Unexpected IOException with stream: 223680	EVA	178396	2021-11-10 13:34:00.0	MINUTEMAN FOOD MART #58	NC	48.68	180.05	DHADRIAN BLUE	590887	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.208
+Unexpected IOException with stream: Number of Rows:223619
+
+
+# Created at 2022-09-06T15:53:07.209
+Unexpected IOException with stream: 223681	EVA	177904	2021-11-10 13:34:00.0	TA SAWYER	MI	76.09	248.58	JACEK PAWLOWSKI	590888	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.292
+Unexpected IOException with stream: Number of Rows:223620
+
+
+# Created at 2022-09-06T15:53:07.292
+Unexpected IOException with stream: 223682	EVA	182433	2021-11-10 13:36:00.0	PILOT #1042	IL	149.43	549.47	MICHAEL METCALF	590889	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.363
+Unexpected IOException with stream: Number of Rows:223621
+
+
+# Created at 2022-09-06T15:53:07.364
+Unexpected IOException with stream: 223683	EVA	180512	2021-11-10 13:36:00.0	FJ-LEBANON 652	IN	83.32	283.14	WRIGHT JOSEPH	590891	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.424
+Unexpected IOException with stream: Number of Rows:223622
+
+
+# Created at 2022-09-06T15:53:07.425
+Unexpected IOException with stream: 223684	EVA	180271	2021-11-10 13:40:00.0	PILOT HAMPTON (CLINTON AR	NJ	125.12	438.63	OSCAR OCAMPO	590892	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.490
+Unexpected IOException with stream: Number of Rows:223623
+
+
+# Created at 2022-09-06T15:53:07.491
+Unexpected IOException with stream: 223685	EVA	183948	2021-11-10 13:42:00.0	LOVES #227 TRAVEL STOP	AL	6.86	22.12	LOUIS LESTER	590893	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.542
+Unexpected IOException with stream: Number of Rows:223624
+
+
+# Created at 2022-09-06T15:53:07.542
+Unexpected IOException with stream: 223686	EVA	21106	2021-11-10 18:10:00.0	PILOT PERCIVAL 238	IA	120.09	378.61	ALBA TOBAR	590895	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.616
+Unexpected IOException with stream: Number of Rows:223625
+
+
+# Created at 2022-09-06T15:53:07.617
+Unexpected IOException with stream: 223687	EVA	182169	2021-11-10 13:17:00.0	LOVES #778 TRAVEL STOP	GA	85.55	291.16	TOBY JONES	590901	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.673
+Unexpected IOException with stream: Number of Rows:223626
+
+
+# Created at 2022-09-06T15:53:07.674
+Unexpected IOException with stream: 223688	EVA	182670	2021-11-10 13:40:00.0	GURJOT PETROLEUM LLC	NJ	205.46	760.00	JOSE DEVORA	590903	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.756
+Unexpected IOException with stream: Number of Rows:223627
+
+
+# Created at 2022-09-06T15:53:07.757
+Unexpected IOException with stream: 223689	EVA	179973	2021-11-10 17:33:00.0	CIRCLE K #2701869	GA	81.52	277.09	ALPHONSO JOHNSON	590904	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.845
+Unexpected IOException with stream: Number of Rows:223628
+
+
+# Created at 2022-09-06T15:53:07.846
+Unexpected IOException with stream: 223690	EVA	178437	2021-11-10 18:39:00.0	PILOT BELOIT 289	WI	156.77	503.90	MINDAUGAS ARBACIAUSKAS	590906	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:07.947
+Unexpected IOException with stream: Number of Rows:223629
+
+
+# Created at 2022-09-06T15:53:07.948
+Unexpected IOException with stream: 223691	EVA	184082	2021-11-10 17:34:00.0	BLUE WATER #12	SC	45.73	160.00	TONY FELL	590912	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.042
+Unexpected IOException with stream: Number of Rows:223630
+
+
+# Created at 2022-09-06T15:53:08.043
+Unexpected IOException with stream: 223692	EVA	176111	2021-11-10 17:39:00.0	QUARLES #4914 - S MILITAR	VA	14.90	53.62	ADRIAN HASKINS	590913	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.158
+Unexpected IOException with stream: Number of Rows:223631
+
+
+# Created at 2022-09-06T15:53:08.158
+Unexpected IOException with stream: 223693	EVA	175338	2021-11-10 18:15:00.0	CAPITAL FUELS TENNESSEE 2	TN	37.55	125.00	LATRELL ARCHER	590924	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.226
+Unexpected IOException with stream: Number of Rows:223632
+
+
+# Created at 2022-09-06T15:53:08.226
+Unexpected IOException with stream: 223694	EVA	161605	2021-11-10 13:39:00.0	FLYING J #1057	TX	78.60	243.02	OVED VALDEZ	590925	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.297
+Unexpected IOException with stream: Number of Rows:223633
+
+
+# Created at 2022-09-06T15:53:08.298
+Unexpected IOException with stream: 223695	EVA	183783	2021-11-10 13:41:00.0	PILOT HOUSTON 375	TX	101.04	313.74	BERNARDO SILVA	590926	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.394
+Unexpected IOException with stream: Number of Rows:223634
+
+
+# Created at 2022-09-06T15:53:08.394
+Unexpected IOException with stream: 223696	EVA	182961	2021-11-10 13:39:00.0	LOVES #778 TRAVEL STOP	GA	1.35	4.59	DANIEL GIVENS	590936	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.482
+Unexpected IOException with stream: Number of Rows:223635
+
+
+# Created at 2022-09-06T15:53:08.483
+Unexpected IOException with stream: 223697	EVA	181798	2021-11-10 18:23:00.0	LOVES # 331 TRAVEL STOP	TX	64.89	205.30	Miguel Gonzalez	590937	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.546
+Unexpected IOException with stream: Number of Rows:223636
+
+
+# Created at 2022-09-06T15:53:08.547
+Unexpected IOException with stream: 223698	EVA	181196	2021-11-10 17:43:00.0	PILOT JUNCTION 1006	TX	64.75	206.06	FRANCISCO GARZA	590949	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.638
+Unexpected IOException with stream: Number of Rows:223637
+
+
+# Created at 2022-09-06T15:53:08.638
+Unexpected IOException with stream: 223699	EVA	169676	2021-11-10 18:34:00.0	LOVES #369 TRAVEL STOP	TN	30.75	99.37	WILLIAM FLEMING	590951	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.742
+Unexpected IOException with stream: Number of Rows:223638
+
+
+# Created at 2022-09-06T15:53:08.743
+Unexpected IOException with stream: 223700	EVA	164474	2021-11-09 19:24:00.0	ONE9 MR FUEL 064	SC	157.85	546.00	CRANSTON DELEE	590952	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.817
+Unexpected IOException with stream: Number of Rows:223639
+
+
+# Created at 2022-09-06T15:53:08.818
+Unexpected IOException with stream: 223701	EVA	183980	2021-11-09 19:06:00.0	PILOT 179	MD	198.91	661.20	JOSE GOMEZ RIVAS	590954	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.890
+Unexpected IOException with stream: Number of Rows:223640
+
+
+# Created at 2022-09-06T15:53:08.891
+Unexpected IOException with stream: 223702	EVA	183712	2021-11-10 13:21:00.0	CIRCLE K #2701869	GA	77.67	264.01	MICHAEL ROBINSON	590959	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:08.978
+Unexpected IOException with stream: Number of Rows:223641
+
+
+# Created at 2022-09-06T15:53:08.979
+Unexpected IOException with stream: 223703	EVA	183571	2021-11-10 19:37:00.0	THORNTONS #319	IL	119.31	424.61	LEONARD MEYER	590962	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.043
+Unexpected IOException with stream: Number of Rows:223642
+
+
+# Created at 2022-09-06T15:53:09.044
+Unexpected IOException with stream: 223704	EVA	171950	2021-11-10 17:43:00.0	#337 S & S FOOD STORE	FL	32.48	116.89	TORY GRIFFIN	590965	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.109
+Unexpected IOException with stream: Number of Rows:223643
+
+
+# Created at 2022-09-06T15:53:09.110
+Unexpected IOException with stream: 223705	EVA	20510	2021-11-10 18:03:00.0	PILOT PERCIVAL 238	IA	133.60	421.23	ANDRES MARTINEZ	590967	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.184
+Unexpected IOException with stream: Number of Rows:223644
+
+
+# Created at 2022-09-06T15:53:09.186
+Unexpected IOException with stream: 223706	EVA	164474	2021-11-10 18:11:00.0	SPRINT FOOD STORE #735	SC	172.79	570.02	CRANSTON DELEE	590968	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.271
+Unexpected IOException with stream: Number of Rows:223645
+
+
+# Created at 2022-09-06T15:53:09.272
+Unexpected IOException with stream: 223707	EVA	171670	2021-11-10 18:37:00.0	PILOT DISPUTANTA 4656	VA	61.19	198.34	Marcus Jordan	590969	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.351
+Unexpected IOException with stream: Number of Rows:223646
+
+
+# Created at 2022-09-06T15:53:09.352
+Unexpected IOException with stream: 223708	EVA	170277	2021-11-10 18:39:00.0	PILOT #1042	IL	165.62	608.99	RIYAD MUSTAFA	590970	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.406
+Unexpected IOException with stream: Number of Rows:223647
+
+
+# Created at 2022-09-06T15:53:09.408
+Unexpected IOException with stream: 223709	EVA	181243	2021-11-16 14:00:00.0	PILOT 524	KS	81.26	248.58	SEAN OPALKA	599056	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.466
+Unexpected IOException with stream: Number of Rows:223648
+
+
+# Created at 2022-09-06T15:53:09.467
+Unexpected IOException with stream: 223710	EVA	175620	2021-11-16 13:39:00.0	TA-PETRO NAPOLEON	OH	98.84	331.50	RODNEY CANTERBURY	599057	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.559
+Unexpected IOException with stream: Number of Rows:223649
+
+
+# Created at 2022-09-06T15:53:09.560
+Unexpected IOException with stream: 223711	EVA	183233	2021-11-16 13:47:00.0	KANGAROO EXPRESS # 6163	FL	133.91	442.59	YOSEPH MEZEMIR	599058	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.647
+Unexpected IOException with stream: Number of Rows:223650
+
+
+# Created at 2022-09-06T15:53:09.648
+Unexpected IOException with stream: 223712	EVA	172250	2021-11-16 08:35:00.0	QUICK FUEL MEMPHIS	TN	45.49	150.50	MARIO WALLACE	599059	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.703
+Unexpected IOException with stream: Number of Rows:223651
+
+
+# Created at 2022-09-06T15:53:09.704
+Unexpected IOException with stream: 223713	EVA	184335	2021-11-16 08:49:00.0	ONE9 SPEEDWAY 83328	OH	56.03	206.15	VICTOR RODRIGUEZ	599061	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.790
+Unexpected IOException with stream: Number of Rows:223652
+
+
+# Created at 2022-09-06T15:53:09.791
+Unexpected IOException with stream: 223714	EVA	179726	2021-11-15 15:43:00.0	SPEEDWAY 7FLEET #1127	IL	64.50	236.00	ANTONIO LOPEZ	599063	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.847
+Unexpected IOException with stream: Number of Rows:223653
+
+
+# Created at 2022-09-06T15:53:09.848
+Unexpected IOException with stream: 223715	EVA	178546	2021-11-16 13:49:00.0	LOVES #585 TRAVEL STOP	MO	129.71	389.82	AARON MAJORS	599065	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.915
+Unexpected IOException with stream: Number of Rows:223654
+
+
+# Created at 2022-09-06T15:53:09.916
+Unexpected IOException with stream: 223716	EVA	182321	2021-11-16 14:00:00.0	PILOT BURNS HARBOR 445	IN	119.39	396.22	COLIN CAPSHAW	599067	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:09.978
+Unexpected IOException with stream: Number of Rows:223655
+
+
+# Created at 2022-09-06T15:53:09.978
+Unexpected IOException with stream: 223717	EVA	176309	2021-11-16 13:30:00.0	ONE9 MR FUEL 064	SC	57.82	200.00	MATTHEW BELL	599068	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.053
+Unexpected IOException with stream: Number of Rows:223656
+
+
+# Created at 2022-09-06T15:53:10.054
+Unexpected IOException with stream: 223718	EVA	173620	2021-11-16 13:35:00.0	PILOT EXPRESS #1098	NJ	32.38	121.07	BRANDEN JIMENEZ	599069	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.174
+Unexpected IOException with stream: Number of Rows:223657
+
+
+# Created at 2022-09-06T15:53:10.176
+Unexpected IOException with stream: 223719	EVA	177303	2021-11-16 13:45:00.0	CIRCLE K # 5346	GA	41.68	140.00	ANSON YOUNG	599071	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.264
+Unexpected IOException with stream: Number of Rows:223658
+
+
+# Created at 2022-09-06T15:53:10.264
+Unexpected IOException with stream: 223720	EVA	183027	2021-11-16 09:31:00.0	ONE9 SPEEDWAY 82917	PA	99.86	399.36	SHAWN CHABOT	599094	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.351
+Unexpected IOException with stream: Number of Rows:223659
+
+
+# Created at 2022-09-06T15:53:10.351
+Unexpected IOException with stream: 223721	EVA	58966	2021-11-16 09:39:00.0	CAPITAL FUELS TENNESSEE 1	TN	122.56	403.10	GREGORY REDFORD	599095	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.436
+Unexpected IOException with stream: Number of Rows:223660
+
+
+# Created at 2022-09-06T15:53:10.437
+Unexpected IOException with stream: 223722	EVA	183640	2021-11-16 14:38:00.0	LOVES # 354 TRAVEL STOP	GA	161.52	527.81	OSBERT SANTOS TORRES	599096	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.523
+Unexpected IOException with stream: Number of Rows:223661
+
+
+# Created at 2022-09-06T15:53:10.524
+Unexpected IOException with stream: 223723	EVA	56040	2021-11-16 14:46:00.0	TA MAYBROOK	NY	61.91	204.36	CASTULO MIRANDA	599097	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.621
+Unexpected IOException with stream: Number of Rows:223662
+
+
+# Created at 2022-09-06T15:53:10.622
+Unexpected IOException with stream: 223724	EVA	181155	2021-11-15 15:38:00.0	FJ-LAKE STATION 650	IN	83.01	275.55	ROBERT JETT	599099	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.695
+Unexpected IOException with stream: Number of Rows:223663
+
+
+# Created at 2022-09-06T15:53:10.696
+Unexpected IOException with stream: 223725	EVA	182528	2021-11-15 15:51:00.0	PILOT WALDO 1058	FL	29.20	96.04	TRENTON BUSH	599100	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.756
+Unexpected IOException with stream: Number of Rows:223664
+
+
+# Created at 2022-09-06T15:53:10.757
+Unexpected IOException with stream: 223726	EVA	163440	2021-11-16 09:05:00.0	ENMARKET #892	SC	86.35	271.95	EDDIE CANTY	599101	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.817
+Unexpected IOException with stream: Number of Rows:223665
+
+
+# Created at 2022-09-06T15:53:10.818
+Unexpected IOException with stream: 223727	EVA	171538	2021-11-15 15:23:00.0	PILOT 1114	IL	149.43	533.57	ROBERTO NOGUERA	599102	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.881
+Unexpected IOException with stream: Number of Rows:223666
+
+
+# Created at 2022-09-06T15:53:10.882
+Unexpected IOException with stream: 223728	EVA	184027	2021-11-16 13:26:00.0	THORNTONS #322	IL	82.02	294.36	JOSE CASTELLANOS	599103	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:10.971
+Unexpected IOException with stream: Number of Rows:223667
+
+
+# Created at 2022-09-06T15:53:10.971
+Unexpected IOException with stream: 223729	EVA	183133	2021-11-16 14:01:00.0	SAPP BROTHERS	UT	85.00	333.91	LARRY SANDERS	599104	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.035
+Unexpected IOException with stream: Number of Rows:223668
+
+
+# Created at 2022-09-06T15:53:11.036
+Unexpected IOException with stream: 223730	EVA	182114	2021-11-16 13:33:00.0	FILL N GO TRAVEL CENTER	TN	15.17	50.05	WC MERRITT	599105	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.105
+Unexpected IOException with stream: Number of Rows:223669
+
+
+# Created at 2022-09-06T15:53:11.107
+Unexpected IOException with stream: 223731	EVA	165653	2021-11-16 09:12:00.0	PILOT HOUSTON 375	TX	167.74	510.29	ENRIQUE MACHADO	599107	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.181
+Unexpected IOException with stream: Number of Rows:223670
+
+
+# Created at 2022-09-06T15:53:11.182
+Unexpected IOException with stream: 223732	EVA	168796	2021-11-15 15:27:00.0	PILOT SKIPPERS 4651	VA	70.08	222.82	MICHAEL LAMBERT	599108	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.256
+Unexpected IOException with stream: Number of Rows:223671
+
+
+# Created at 2022-09-06T15:53:11.256
+Unexpected IOException with stream: 223733	EVA	175629	2021-11-16 09:29:00.0	TA IOWA 80 TRUCKSTOP	IA	107.14	338.90	CHRIS CLOE	599110	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.331
+Unexpected IOException with stream: Number of Rows:223672
+
+
+# Created at 2022-09-06T15:53:11.331
+Unexpected IOException with stream: 223734	EVA	173703	2021-11-16 09:43:00.0	MILLER MART #55	VA	56.63	201.54	MARQUEL GRIFFIN	599111	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.400
+Unexpected IOException with stream: Number of Rows:223673
+
+
+# Created at 2022-09-06T15:53:11.401
+Unexpected IOException with stream: 223735	EVA	175095	2021-11-16 09:43:00.0	LA PORTE TRAVEL PLAZA	TX	29.59	100.57	CLYDE JONES	599112	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.459
+Unexpected IOException with stream: Number of Rows:223674
+
+
+# Created at 2022-09-06T15:53:11.460
+Unexpected IOException with stream: 223736	EVA	180462	2021-11-16 14:43:00.0	PILOT 1092	IA	132.04	413.76	JAMES LONG	599132	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.517
+Unexpected IOException with stream: Number of Rows:223675
+
+
+# Created at 2022-09-06T15:53:11.517
+Unexpected IOException with stream: 223737	EVA	180197	2021-11-16 15:07:00.0	LOVES # 344 TRAVEL STOP	TN	98.66	314.05	KEVIN BARNES	599133	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.596
+Unexpected IOException with stream: Number of Rows:223676
+
+
+# Created at 2022-09-06T15:53:11.597
+Unexpected IOException with stream: 223738	EVA	182496	2021-11-16 09:50:00.0	PILOT #4580	SC	90.00	280.08	DONALD LUDLAM	599134	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.665
+Unexpected IOException with stream: Number of Rows:223677
+
+
+# Created at 2022-09-06T15:53:11.665
+Unexpected IOException with stream: 223739	EVA	178372	2021-11-15 15:47:00.0	PILOT TOLEDO 015	OH	73.01	246.62	JAMES KORB	599136	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.739
+Unexpected IOException with stream: Number of Rows:223678
+
+
+# Created at 2022-09-06T15:53:11.740
+Unexpected IOException with stream: 223740	EVA	176114	2021-11-15 15:58:00.0	JAYS FUEL STOP	GA	27.17	100.49	JAMES DELOACH II	599138	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.806
+Unexpected IOException with stream: Number of Rows:223679
+
+
+# Created at 2022-09-06T15:53:11.807
+Unexpected IOException with stream: 223741	EVA	181099	2021-11-15 16:03:00.0	PILOT JOPLIN 317	MO	74.31	221.82	Sulakhan Singh	599139	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.882
+Unexpected IOException with stream: Number of Rows:223680
+
+
+# Created at 2022-09-06T15:53:11.882
+Unexpected IOException with stream: 223742	EVA	183203	2021-11-16 09:36:00.0	TA YOUNGSTOWN	OH	113.12	398.66	BRANDON WHITT	599140	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:11.953
+Unexpected IOException with stream: Number of Rows:223681
+
+
+# Created at 2022-09-06T15:53:11.954
+Unexpected IOException with stream: 223743	EVA	173932	2021-11-16 14:48:00.0	LOVES #765 TRAVEL STOP	GA	149.61	488.56	JOSE FAJARDO NAVARRO	599142	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.009
+Unexpected IOException with stream: Number of Rows:223682
+
+
+# Created at 2022-09-06T15:53:12.010
+Unexpected IOException with stream: 223744	EVA	176826	2021-11-16 14:53:00.0	LOVES #731 TRAVEL STOP	PA	50.30	190.91	Subrina Carter	599143	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.071
+Unexpected IOException with stream: Number of Rows:223683
+
+
+# Created at 2022-09-06T15:53:12.071
+Unexpected IOException with stream: 223745	EVA	179457	2021-11-16 06:33:00.0	GULF #9150-3908	MA	35.67	131.23	JOVANNY ORTIZ RIVERA	597973	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.147
+Unexpected IOException with stream: Number of Rows:223684
+
+
+# Created at 2022-09-06T15:53:12.148
+Unexpected IOException with stream: 223746	EVA	179832	2021-11-16 06:37:00.0	PARKERS #31	GA	55.68	200.39	JMYKA WILLIAMS	597974	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.235
+Unexpected IOException with stream: Number of Rows:223685
+
+
+# Created at 2022-09-06T15:53:12.235
+Unexpected IOException with stream: 223747	EVA	182024	2021-11-16 06:27:00.0	SPEEDWAY 7FLEET #6512	MI	38.97	126.92	RAMIRO PELAYO	597975	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.318
+Unexpected IOException with stream: Number of Rows:223686
+
+
+# Created at 2022-09-06T15:53:12.318
+Unexpected IOException with stream: 223748	EVA	168407	2021-11-16 06:39:00.0	PILOT PORT WENTWORTH 071	GA	125.05	411.88	WILLIAM KOLBE	597976	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.393
+Unexpected IOException with stream: Number of Rows:223687
+
+
+# Created at 2022-09-06T15:53:12.394
+Unexpected IOException with stream: 223749	EVA	180952	2021-11-16 06:39:00.0	LOVES #814 TRAVEL STOP	AL	113.20	373.35	CARTER MCDONALD	597977	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.486
+Unexpected IOException with stream: Number of Rows:223688
+
+
+# Created at 2022-09-06T15:53:12.486
+Unexpected IOException with stream: 223750	EVA	179887	2021-11-16 07:06:00.0	LOVES #705 TRAVEL STOP	VA	84.07	271.33	MARCUS WILLIAMS	597980	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.564
+Unexpected IOException with stream: Number of Rows:223689
+
+
+# Created at 2022-09-06T15:53:12.564
+Unexpected IOException with stream: 223751	EVA	178449	2021-11-16 11:36:00.0	7-11 STORE 35560	NC	58.84	200.00	FRANCIS PETTIPAW	597981	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.676
+Unexpected IOException with stream: Number of Rows:223690
+
+
+# Created at 2022-09-06T15:53:12.677
+Unexpected IOException with stream: 223752	EVA	179309	2021-11-16 11:50:00.0	PRIDE STORE	CT	61.14	209.53	SHANE L JOSEPH	597984	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.759
+Unexpected IOException with stream: Number of Rows:223691
+
+
+# Created at 2022-09-06T15:53:12.759
+Unexpected IOException with stream: 223753	EVA	184277	2021-11-16 07:14:00.0	QUICK FUEL MEMPHIS	TN	39.29	129.99	THOMAS HARVEY	597985	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.827
+Unexpected IOException with stream: Number of Rows:223692
+
+
+# Created at 2022-09-06T15:53:12.827
+Unexpected IOException with stream: 223754	EVA	183585	2021-11-16 07:23:00.0	ONE9 SPEEDWAY 83328	OH	29.15	107.24	IBRAHIM SYED	597986	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.894
+Unexpected IOException with stream: Number of Rows:223693
+
+
+# Created at 2022-09-06T15:53:12.895
+Unexpected IOException with stream: 223755	EVA	171054	2021-11-15 11:59:00.0	119 TRUCK PLAZA	IL	44.02	158.42	MARK PORTER	597987	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:12.969
+Unexpected IOException with stream: Number of Rows:223694
+
+
+# Created at 2022-09-06T15:53:12.970
+Unexpected IOException with stream: 223756	EVA	183452	2021-11-16 02:23:00.0	PILOT #1042	IL	117.09	427.79	YAHA ABDELJABER	597989	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.061
+Unexpected IOException with stream: Number of Rows:223695
+
+
+# Created at 2022-09-06T15:53:13.062
+Unexpected IOException with stream: 223757	EVA	178397	2021-11-16 02:30:00.0	PILOT RUSSELLVILLE 430	AR	65.82	207.89	Carlton Cooper	597990	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.125
+Unexpected IOException with stream: Number of Rows:223696
+
+
+# Created at 2022-09-06T15:53:13.126
+Unexpected IOException with stream: 223758	EVA	177736	2021-11-16 02:46:00.0	TULLO TRUCK STOP LLC	NJ	77.80	295.57	TIAGO COSTA	597991	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.218
+Unexpected IOException with stream: Number of Rows:223697
+
+
+# Created at 2022-09-06T15:53:13.219
+Unexpected IOException with stream: 223759	EVA	169884	2021-11-16 06:41:00.0	FJ WADDY 663	KY	139.34	438.07	DUNIESKY AVILA	598014	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.311
+Unexpected IOException with stream: Number of Rows:223698
+
+
+# Created at 2022-09-06T15:53:13.311
+Unexpected IOException with stream: 223760	EVA	56615	2021-11-16 06:43:00.0	PILOT #4599	TN	93.55	294.70	BARNES ORLANDO	598015	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.390
+Unexpected IOException with stream: Number of Rows:223699
+
+
+# Created at 2022-09-06T15:53:13.391
+Unexpected IOException with stream: 223761	EVA	180428	2021-11-16 02:53:00.0	JET #93	GA	93.61	325.67	ALVIN RICKS	598018	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.450
+Unexpected IOException with stream: Number of Rows:223700
+
+
+# Created at 2022-09-06T15:53:13.451
+Unexpected IOException with stream: 223762	EVA	164481	2021-11-15 08:25:00.0	PILOT JACKSONVILLE 091	FL	45.65	148.29	JAMES ROWSER	598019	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.508
+Unexpected IOException with stream: Number of Rows:223701
+
+
+# Created at 2022-09-06T15:53:13.508
+Unexpected IOException with stream: 223763	EVA	164481	2021-11-16 06:15:00.0	ONE9 MR FUEL #1149	FL	47.31	175.01	JAMES ROWSER	598020	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.567
+Unexpected IOException with stream: Number of Rows:223702
+
+
+# Created at 2022-09-06T15:53:13.569
+Unexpected IOException with stream: 223764	EVA	176309	2021-11-15 12:09:00.0	KANGAROO EXPRESS #3871	SC	61.84	199.30	MATTHEW BELL	598021	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.662
+Unexpected IOException with stream: Number of Rows:223703
+
+
+# Created at 2022-09-06T15:53:13.663
+Unexpected IOException with stream: 223765	EVA	169477	2021-11-15 12:12:00.0	JP PERRY	GA	88.89	303.91	JOSEPH GUPTON	598022	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.721
+Unexpected IOException with stream: Number of Rows:223704
+
+
+# Created at 2022-09-06T15:53:13.722
+Unexpected IOException with stream: 223766	EVA	176748	2021-11-16 07:09:00.0	LOVES #560 TRAVEL STOP	VA	64.76	209.09	DUANE WHITE	598027	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.787
+Unexpected IOException with stream: Number of Rows:223705
+
+
+# Created at 2022-09-06T15:53:13.787
+Unexpected IOException with stream: 223767	EVA	160805	2021-11-16 11:29:00.0	TA BALTIMORE	MD	65.18	208.83	SIMON MIRARA	598028	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.871
+Unexpected IOException with stream: Number of Rows:223706
+
+
+# Created at 2022-09-06T15:53:13.872
+Unexpected IOException with stream: 223768	EVA	179508	2021-11-16 07:26:00.0	LOVES #786 TRAVEL STOP	MO	63.54	190.35	SIMEON TESSEMA	598050	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:13.950
+Unexpected IOException with stream: Number of Rows:223707
+
+
+# Created at 2022-09-06T15:53:13.951
+Unexpected IOException with stream: 223769	EVA	184390	2021-11-16 07:27:00.0	PILOT BURNS HARBOR 445	IN	108.84	361.20	JEHAD HAMAMRA	598051	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.010
+Unexpected IOException with stream: Number of Rows:223708
+
+
+# Created at 2022-09-06T15:53:14.011
+Unexpected IOException with stream: 223770	EVA	163729	2021-11-16 07:29:00.0	LOVES #790 TRAVEL STOP	SC	8.27	26.60	TROY BUSBY	598052	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.076
+Unexpected IOException with stream: Number of Rows:223709
+
+
+# Created at 2022-09-06T15:53:14.077
+Unexpected IOException with stream: 223771	EVA	169477	2021-11-15 12:10:00.0	JP PERRY	GA	88.89	302.13	JOSEPH GUPTON	598053	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.139
+Unexpected IOException with stream: Number of Rows:223710
+
+
+# Created at 2022-09-06T15:53:14.140
+Unexpected IOException with stream: 223772	EVA	160951	2021-11-15 12:27:00.0	FRANKS TRUCKING CENTER IN	VA	168.59	600.00	JERRY MUMFORD	598055	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.223
+Unexpected IOException with stream: Number of Rows:223711
+
+
+# Created at 2022-09-06T15:53:14.224
+Unexpected IOException with stream: 223773	EVA	178374	2021-11-16 11:16:00.0	THORNTONS #322	IL	74.83	272.30	JOSE MACIAS	598056	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.305
+Unexpected IOException with stream: Number of Rows:223712
+
+
+# Created at 2022-09-06T15:53:14.306
+Unexpected IOException with stream: 223774	EVA	171526	2021-11-16 06:48:00.0	LOVES #717 TRAVEL STOP	VA	94.88	305.47	JACOB MEJIA	598060	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.382
+Unexpected IOException with stream: Number of Rows:223713
+
+
+# Created at 2022-09-06T15:53:14.383
+Unexpected IOException with stream: 223775	EVA	183559	2021-11-16 11:30:00.0	CAPITAL FUELS ARKANSAS	AR	45.25	150.62	SHIREASE ANDERSON	598061	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.476
+Unexpected IOException with stream: Number of Rows:223714
+
+
+# Created at 2022-09-06T15:53:14.477
+Unexpected IOException with stream: 223776	EVA	182680	2021-11-16 11:31:00.0	CIRCLE K #2745100	GA	17.00	61.19	GREGORY MAGWOOD	598062	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.560
+Unexpected IOException with stream: Number of Rows:223715
+
+
+# Created at 2022-09-06T15:53:14.561
+Unexpected IOException with stream: 223777	EVA	182713	2021-11-16 11:49:00.0	LOVES # 299 TRAVEL STOP	TX	20.46	63.64	ROGER BAYLESS	598063	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.630
+Unexpected IOException with stream: Number of Rows:223716
+
+
+# Created at 2022-09-06T15:53:14.631
+Unexpected IOException with stream: 223778	EVA	171211	2021-11-16 11:54:00.0	FJ-CHANNELVIEW 1025	TX	84.36	257.33	OSCAR TREVINO	598064	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.708
+Unexpected IOException with stream: Number of Rows:223717
+
+
+# Created at 2022-09-06T15:53:14.708
+Unexpected IOException with stream: 223779	EVA	181121	2021-11-16 11:58:00.0	FJ-SPICELAND 655	IN	75.91	262.11	EVERETT WHITE	598065	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.816
+Unexpected IOException with stream: Number of Rows:223718
+
+
+# Created at 2022-09-06T15:53:14.817
+Unexpected IOException with stream: 223780	EVA	178432	2021-11-16 07:15:00.0	CAPITAL FUELS TENNESSEE 2	TN	50.11	164.81	DERRICK SAULSBERRY	598066	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.886
+Unexpected IOException with stream: Number of Rows:223719
+
+
+# Created at 2022-09-06T15:53:14.888
+Unexpected IOException with stream: 223781	EVA	181470	2021-11-16 07:18:00.0	TA ASHLAND VA	VA	95.06	301.06	WADE FLAGG	598067	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:14.948
+Unexpected IOException with stream: Number of Rows:223720
+
+
+# Created at 2022-09-06T15:53:14.949
+Unexpected IOException with stream: 223782	EVA	184057	2021-11-16 07:21:00.0	FUEL ONE-1307	NJ	47.43	170.70	JOHN MARTINEZ GUTIERREZ	598068	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.013
+Unexpected IOException with stream: Number of Rows:223721
+
+
+# Created at 2022-09-06T15:53:15.014
+Unexpected IOException with stream: 223783	EVA	173949	2021-11-16 07:29:00.0	FLYING J #1117	IN	58.99	227.05	ROBERT DRUMMOND	598069	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.074
+Unexpected IOException with stream: Number of Rows:223722
+
+
+# Created at 2022-09-06T15:53:15.075
+Unexpected IOException with stream: 223784	EVA	161575	2021-11-16 02:07:00.0	QUIK TRIP #1181	SC	70.96	227.00	JEFFERY JENKINS	598070	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.145
+Unexpected IOException with stream: Number of Rows:223723
+
+
+# Created at 2022-09-06T15:53:15.146
+Unexpected IOException with stream: 223785	EVA	183825	2021-11-16 02:07:00.0	MS 58 PLAZA INC	VA	114.67	401.24	THOMAS SIMMONS	598071	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.225
+Unexpected IOException with stream: Number of Rows:223724
+
+
+# Created at 2022-09-06T15:53:15.227
+Unexpected IOException with stream: 223786	EVA	173524	2021-11-16 02:15:00.0	FJ-SILOAM 633	GA	68.89	223.50	MIGUEL PADRON	598072	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.298
+Unexpected IOException with stream: Number of Rows:223725
+
+
+# Created at 2022-09-06T15:53:15.298
+Unexpected IOException with stream: 223787	EVA	175033	2021-11-16 02:30:00.0	LENNYS FOOD N FUEL VETTER	IL	52.93	200.03	DAMIAN FLORES	598073	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.412
+Unexpected IOException with stream: Number of Rows:223726
+
+
+# Created at 2022-09-06T15:53:15.413
+Unexpected IOException with stream: 223788	EVA	178368	2021-11-15 08:23:00.0	LOVES # 326 TRAVEL STOP	SC	122.60	386.85	JONATHAN SMOAK	598075	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.507
+Unexpected IOException with stream: Number of Rows:223727
+
+
+# Created at 2022-09-06T15:53:15.507
+Unexpected IOException with stream: 223789	EVA	183611	2021-11-15 08:18:00.0	TA JACKSONVILLE -6248	FL	60.19	194.70	JARTESHA YOUNG	598077	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.597
+Unexpected IOException with stream: Number of Rows:223728
+
+
+# Created at 2022-09-06T15:53:15.597
+Unexpected IOException with stream: 223790	EVA	180324	2021-11-15 08:22:00.0	TA SLIDELL	LA	90.90	273.97	TONIA MANNAH	598078	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.689
+Unexpected IOException with stream: Number of Rows:223729
+
+
+# Created at 2022-09-06T15:53:15.689
+Unexpected IOException with stream: 223791	EVA	160476	2021-11-15 08:24:00.0	A. C. & T. COMPANY HAGERS	MD	120.60	395.68	MATTHEW JOHNSON	598079	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.755
+Unexpected IOException with stream: Number of Rows:223730
+
+
+# Created at 2022-09-06T15:53:15.755
+Unexpected IOException with stream: 223792	EVA	172878	2021-11-16 06:17:00.0	FJ-LAKE STATION 650	IN	152.71	506.96	MISAEL PEREZ	598080	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.805
+Unexpected IOException with stream: Number of Rows:223731
+
+
+# Created at 2022-09-06T15:53:15.808
+Unexpected IOException with stream: 223793	EVA	177601	2021-11-15 12:09:00.0	LOVES #725	KY	150.00	478.09	MELVIN WILLIAMS	598082	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.886
+Unexpected IOException with stream: Number of Rows:223732
+
+
+# Created at 2022-09-06T15:53:15.887
+Unexpected IOException with stream: 223794	EVA	175590	2021-11-15 12:27:00.0	CIRCLE K #2701869	GA	60.08	201.80	RASHAWNDA JENKINS	598086	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:15.966
+Unexpected IOException with stream: Number of Rows:223733
+
+
+# Created at 2022-09-06T15:53:15.966
+Unexpected IOException with stream: 223795	EVA	180900	2021-11-16 06:58:00.0	SPEEDWAY 7FLEET #3991	IN	193.71	638.60	MOHAMMAD   DAIFALLAH	598125	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.035
+Unexpected IOException with stream: Number of Rows:223734
+
+
+# Created at 2022-09-06T15:53:16.036
+Unexpected IOException with stream: 223796	EVA	179282	2021-11-16 06:59:00.0	LOVES #560 TRAVEL STOP	VA	40.29	130.09	STACY FAULK	598126	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.111
+Unexpected IOException with stream: Number of Rows:223735
+
+
+# Created at 2022-09-06T15:53:16.112
+Unexpected IOException with stream: 223797	EVA	184715	2021-11-16 07:01:00.0	SPEEDWAY 7FLEET #7461	IL	30.15	110.57	AHMAD ABDELKADER	598127	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.179
+Unexpected IOException with stream: Number of Rows:223736
+
+
+# Created at 2022-09-06T15:53:16.180
+Unexpected IOException with stream: 223798	EVA	177549	2021-11-16 11:37:00.0	TA BLOOMSBURY	NJ	137.60	462.89	JOSE HERNANDEZ	598129	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.274
+Unexpected IOException with stream: Number of Rows:223737
+
+
+# Created at 2022-09-06T15:53:16.274
+Unexpected IOException with stream: 223799	EVA	176620	2021-11-16 11:44:00.0	TA COLUMBIA	NJ	123.80	416.35	RUDYS HERNANDEZ TOLEDO	598130	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.324
+Unexpected IOException with stream: Number of Rows:223738
+
+
+# Created at 2022-09-06T15:53:16.325
+Unexpected IOException with stream: 223800	EVA	182585	2021-11-16 02:46:00.0	PILOT 1082	SC	68.68	218.57	RUSSELL RUMPH	598131	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.417
+Unexpected IOException with stream: Number of Rows:223739
+
+
+# Created at 2022-09-06T15:53:16.418
+Unexpected IOException with stream: 223801	EVA	178218	2021-11-16 02:59:00.0	QUIK TRIP #1181	SC	84.69	270.92	DARYL MURPHY	598132	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.503
+Unexpected IOException with stream: Number of Rows:223740
+
+
+# Created at 2022-09-06T15:53:16.505
+Unexpected IOException with stream: 223802	EVA	180387	2021-11-16 06:15:00.0	TA ELKTON	MD	103.60	332.03	KEVIN JONES	598133	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.573
+Unexpected IOException with stream: Number of Rows:223741
+
+
+# Created at 2022-09-06T15:53:16.574
+Unexpected IOException with stream: 223803	EVA	181198	2021-11-16 06:24:00.0	LOVES #775 TRAVEL STOP	IL	80.22	283.71	AMOS ELLIS	598134	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.662
+Unexpected IOException with stream: Number of Rows:223742
+
+
+# Created at 2022-09-06T15:53:16.663
+Unexpected IOException with stream: 223804	EVA	179247	2021-11-15 12:12:00.0	LOVES #740 TRAVEL STOP	SC	127.56	410.56	QUINCY QUARTERMAN	598137	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.759
+Unexpected IOException with stream: Number of Rows:223743
+
+
+# Created at 2022-09-06T15:53:16.760
+Unexpected IOException with stream: 223805	EVA	176746	2021-11-16 06:18:00.0	NEW JERSEY TRUCK STOP	NJ	91.94	340.09	KELVIN SCRIVEN	598139	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.844
+Unexpected IOException with stream: Number of Rows:223744
+
+
+# Created at 2022-09-06T15:53:16.845
+Unexpected IOException with stream: 223806	EVA	161185	2021-11-16 06:22:00.0	EMERALD PALACE TRUCK & CA	LA	61.73	197.48	LOWE BRIAN	598140	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.912
+Unexpected IOException with stream: Number of Rows:223745
+
+
+# Created at 2022-09-06T15:53:16.913
+Unexpected IOException with stream: 223807	EVA	163470	2021-11-16 06:22:00.0	KANGAROO EXPRESS # 6293	FL	56.13	185.53	KEVIN LOCKETT	598141	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:16.986
+Unexpected IOException with stream: Number of Rows:223746
+
+
+# Created at 2022-09-06T15:53:16.987
+Unexpected IOException with stream: 223808	EVA	182633	2021-11-16 06:41:00.0	THORNTONS #334	IL	27.49	100.60	ANTONIO JONES	598142	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.060
+Unexpected IOException with stream: Number of Rows:223747
+
+
+# Created at 2022-09-06T15:53:17.060
+Unexpected IOException with stream: 223809	EVA	178007	2021-11-15 12:20:00.0	FJ RUTHER GLEN 876	VA	100.50	322.24	RICHARD MERCER III	598144	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.140
+Unexpected IOException with stream: Number of Rows:223748
+
+
+# Created at 2022-09-06T15:53:17.142
+Unexpected IOException with stream: 223810	EVA	183581	2021-11-15 12:23:00.0	PILOT CLINTON 061	SC	170.05	525.78	ROBERT CHARLES JR	598145	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.214
+Unexpected IOException with stream: Number of Rows:223749
+
+
+# Created at 2022-09-06T15:53:17.214
+Unexpected IOException with stream: 223811	EVA	56359	2021-11-15 12:25:00.0	TA SWEETWATER	TX	29.17	99.63	LEONEL GOMEZ	598146	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.280
+Unexpected IOException with stream: Number of Rows:223750
+
+
+# Created at 2022-09-06T15:53:17.280
+Unexpected IOException with stream: 223812	EVA	175810	2021-11-15 12:27:00.0	PILOT NEWBURGH 394	NY	136.73	471.95	YURIY DOVGAN	598147	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.368
+Unexpected IOException with stream: Number of Rows:223751
+
+
+# Created at 2022-09-06T15:53:17.369
+Unexpected IOException with stream: 223813	EVA	179877	2021-11-16 11:29:00.0	PILOT #4578	SC	42.52	132.70	FREDERICK MATHIS	598148	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.447
+Unexpected IOException with stream: Number of Rows:223752
+
+
+# Created at 2022-09-06T15:53:17.448
+Unexpected IOException with stream: 223814	EVA	184629	2021-11-15 12:26:00.0	QUIK TRIP #1178	SC	126.19	403.68	ISAAC JUNIOUS	598149	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.547
+Unexpected IOException with stream: Number of Rows:223753
+
+
+# Created at 2022-09-06T15:53:17.548
+Unexpected IOException with stream: 223815	EVA	181123	2021-11-16 11:16:00.0	QUALITY MART #62	NC	48.59	170.00	LAZO ESTEBAN	598150	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.631
+Unexpected IOException with stream: Number of Rows:223754
+
+
+# Created at 2022-09-06T15:53:17.632
+Unexpected IOException with stream: 223816	EVA	165582	2021-11-15 09:30:00.0	FLYING J #1057	TX	118.20	358.04	NOE MORENO	596888	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.709
+Unexpected IOException with stream: Number of Rows:223755
+
+
+# Created at 2022-09-06T15:53:17.710
+Unexpected IOException with stream: 223817	EVA	171088	2021-11-15 09:41:00.0	PATS TRAVEL CENTER	TX	106.32	332.03	BOBBY LARA	596890	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.795
+Unexpected IOException with stream: Number of Rows:223756
+
+
+# Created at 2022-09-06T15:53:17.795
+Unexpected IOException with stream: 223818	EVA	184821	2021-11-15 09:50:00.0	LOVES #450 TRAVEL STOP	AR	26.27	83.63	TAVAREE BARFIELD	596893	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.879
+Unexpected IOException with stream: Number of Rows:223757
+
+
+# Created at 2022-09-06T15:53:17.880
+Unexpected IOException with stream: 223819	EVA	173731	2021-11-15 10:16:00.0	WESTLAND TRAVEL CENTER	MO	100.03	340.00	EDWIN LANG	596896	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:17.960
+Unexpected IOException with stream: Number of Rows:223758
+
+
+# Created at 2022-09-06T15:53:17.961
+Unexpected IOException with stream: 223820	EVA	184291	2021-11-15 06:31:00.0	LIVERNOIS MARATHON	MI	88.16	326.11	COURTNEY STONE	596897	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.037
+Unexpected IOException with stream: Number of Rows:223759
+
+
+# Created at 2022-09-06T15:53:18.038
+Unexpected IOException with stream: 223821	EVA	169655	2021-11-15 06:43:00.0	LOVES #768 TRAVEL STOP	IL	46.43	169.24	BARRY THOMAS	596899	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.111
+Unexpected IOException with stream: Number of Rows:223760
+
+
+# Created at 2022-09-06T15:53:18.111
+Unexpected IOException with stream: 223822	EVA	174157	2021-11-15 09:20:00.0	MADCO TRUCK PLAZA	MI	30.08	115.48	RICHARD KOKILA	596900	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.204
+Unexpected IOException with stream: Number of Rows:223761
+
+
+# Created at 2022-09-06T15:53:18.205
+Unexpected IOException with stream: 223823	EVA	183445	2021-11-15 09:28:00.0	TA JACKSONVILLE -6248	FL	25.96	84.00	YOENDYS MERINO	596901	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.287
+Unexpected IOException with stream: Number of Rows:223762
+
+
+# Created at 2022-09-06T15:53:18.288
+Unexpected IOException with stream: 223824	EVA	175172	2021-11-15 20:33:00.0	PILOT HARRISBURG 245	PA	117.86	430.64	JAMES MULL	596903	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.361
+Unexpected IOException with stream: Number of Rows:223763
+
+
+# Created at 2022-09-06T15:53:18.361
+Unexpected IOException with stream: 223825	EVA	181087	2021-11-15 21:02:00.0	HS #102	TX	126.10	403.38	DAYAN MARTINEZ FONSECA	596904	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.431
+Unexpected IOException with stream: Number of Rows:223764
+
+
+# Created at 2022-09-06T15:53:18.432
+Unexpected IOException with stream: 223826	EVA	173866	2021-11-15 06:15:00.0	RT 66 FOOD N FUEL	IL	106.41	399.99	NANA O AGYEMAN	596907	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.500
+Unexpected IOException with stream: Number of Rows:223765
+
+
+# Created at 2022-09-06T15:53:18.500
+Unexpected IOException with stream: 223827	EVA	183901	2021-11-15 06:24:00.0	THORNTONS #319	IL	177.40	631.39	MIGUEL BONFIL	596908	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.565
+Unexpected IOException with stream: Number of Rows:223766
+
+
+# Created at 2022-09-06T15:53:18.565
+Unexpected IOException with stream: 223828	EVA	172901	2021-11-15 09:40:00.0	SPEEDWAY 7FLEET #6395	OH	91.89	308.66	JOSHUA MUELLER	596928	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.650
+Unexpected IOException with stream: Number of Rows:223767
+
+
+# Created at 2022-09-06T15:53:18.650
+Unexpected IOException with stream: 223829	EVA	181198	2021-11-15 06:10:00.0	LOVES #775 TRAVEL STOP	IL	68.94	243.83	AMOS ELLIS	596931	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.721
+Unexpected IOException with stream: Number of Rows:223768
+
+
+# Created at 2022-09-06T15:53:18.721
+Unexpected IOException with stream: 223830	EVA	182531	2021-11-15 06:12:00.0	PILOT #4563	PA	74.22	271.21	HAITHAM NOUR	596932	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.796
+Unexpected IOException with stream: Number of Rows:223769
+
+
+# Created at 2022-09-06T15:53:18.796
+Unexpected IOException with stream: 223831	EVA	182201	2021-11-15 06:22:00.0	ROAD RANGER #278	AR	69.24	260.97	GREGORY HUBBARD	596933	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.849
+Unexpected IOException with stream: Number of Rows:223770
+
+
+# Created at 2022-09-06T15:53:18.850
+Unexpected IOException with stream: 223832	EVA	168214	2021-11-15 06:23:00.0	M & M TRUCK STOP	TX	71.24	249.25	NICOLAS IBARRA	596934	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.904
+Unexpected IOException with stream: Number of Rows:223771
+
+
+# Created at 2022-09-06T15:53:18.904
+Unexpected IOException with stream: 223833	EVA	183039	2021-11-15 09:35:00.0	PILOT CARNEYS POINT 253	NJ	25.39	85.36	ABRAHAM ORTEGA	596935	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:18.988
+Unexpected IOException with stream: Number of Rows:223772
+
+
+# Created at 2022-09-06T15:53:18.988
+Unexpected IOException with stream: 223834	EVA	184432	2021-11-15 09:48:00.0	LOVES # 326 TRAVEL STOP	SC	157.87	498.12	MARLON CALLENDER	596937	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.057
+Unexpected IOException with stream: Number of Rows:223773
+
+
+# Created at 2022-09-06T15:53:19.058
+Unexpected IOException with stream: 223835	EVA	16440	2021-11-13 08:52:00.0	LOVES #768 TRAVEL STOP	IL	176.24	644.98	HORACIO RODRIGUEZ	596939	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.135
+Unexpected IOException with stream: Number of Rows:223774
+
+
+# Created at 2022-09-06T15:53:19.136
+Unexpected IOException with stream: 223836	EVA	182521	2021-11-13 09:10:00.0	KWIK STAR #1013	WI	115.53	398.45	JUAN ASPEITIA	596940	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.222
+Unexpected IOException with stream: Number of Rows:223775
+
+
+# Created at 2022-09-06T15:53:19.223
+Unexpected IOException with stream: 223837	EVA	168538	2021-11-13 09:11:00.0	PILOT HEBRON 448	IN	139.36	464.99	LUIS ENRIQUEZ	596941	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.324
+Unexpected IOException with stream: Number of Rows:223776
+
+
+# Created at 2022-09-06T15:53:19.325
+Unexpected IOException with stream: 223838	EVA	160695	2021-11-15 06:00:00.0	TULLO TRUCK STOP LLC	NJ	53.14	201.86	JAMES MARTINEZ	596942	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.414
+Unexpected IOException with stream: Number of Rows:223777
+
+
+# Created at 2022-09-06T15:53:19.417
+Unexpected IOException with stream: 223839	EVA	172636	2021-11-15 06:04:00.0	QUIK TRIP # 787	GA	156.25	527.97	ROBERT BEAL	596943	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.505
+Unexpected IOException with stream: Number of Rows:223778
+
+
+# Created at 2022-09-06T15:53:19.506
+Unexpected IOException with stream: 223840	EVA	58787	2021-11-15 06:19:00.0	MICHIGAN & WYOMING FOOD S	MI	78.66	283.08	SALVADOR CASTELLANOS	596945	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.608
+Unexpected IOException with stream: Number of Rows:223779
+
+
+# Created at 2022-09-06T15:53:19.610
+Unexpected IOException with stream: 223841	EVA	174961	2021-11-15 06:19:00.0	PILOT RICHFIELD 130	OH	87.16	309.16	CHRISTOPHER BALOGH	596946	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.717
+Unexpected IOException with stream: Number of Rows:223780
+
+
+# Created at 2022-09-06T15:53:19.718
+Unexpected IOException with stream: 223842	EVA	172090	2021-11-15 09:47:00.0	TA MADISON GA	GA	80.13	258.24	Laderrick Lanier	596947	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.786
+Unexpected IOException with stream: Number of Rows:223781
+
+
+# Created at 2022-09-06T15:53:19.787
+Unexpected IOException with stream: 223843	EVA	172096	2021-11-15 09:49:00.0	PILOT BLOOMSBURY 280	NJ	121.29	417.52	ALVARO CASTANEDA	596948	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.852
+Unexpected IOException with stream: Number of Rows:223782
+
+
+# Created at 2022-09-06T15:53:19.853
+Unexpected IOException with stream: 223844	EVA	183796	2021-11-15 09:52:00.0	7-11 STORE 40280 - 7087	PA	39.85	146.61	DERRICK JOHNSON	596949	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:19.921
+Unexpected IOException with stream: Number of Rows:223783
+
+
+# Created at 2022-09-06T15:53:19.921
+Unexpected IOException with stream: 223845	EVA	171972	2021-11-15 12:52:00.0	CIRCLE K # 5346	GA	66.98	225.00	MARLA WRIGHT	596951	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.008
+Unexpected IOException with stream: Number of Rows:223784
+
+
+# Created at 2022-09-06T15:53:20.009
+Unexpected IOException with stream: 223846	EVA	182585	2021-11-15 13:01:00.0	PALMETTO EXPRESS 115	SC	29.69	100.90	RUSSELL RUMPH	596952	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.095
+Unexpected IOException with stream: Number of Rows:223785
+
+
+# Created at 2022-09-06T15:53:20.096
+Unexpected IOException with stream: 223847	EVA	178136	2021-11-15 09:59:00.0	LOVES #620	FL	214.24	706.87	ALEXANDER PAZ	596955	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.173
+Unexpected IOException with stream: Number of Rows:223786
+
+
+# Created at 2022-09-06T15:53:20.173
+Unexpected IOException with stream: 223848	EVA	176598	2021-11-15 10:02:00.0	TA GREENLAND	NH	116.60	365.38	ALTIN DHAMO	596957	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.237
+Unexpected IOException with stream: Number of Rows:223787
+
+
+# Created at 2022-09-06T15:53:20.238
+Unexpected IOException with stream: 223849	EVA	181933	2021-11-15 09:49:00.0	JP HIGHWAY 16 TRAVEL CENT	GA	20.05	66.36	Douglas Powell	596958	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.321
+Unexpected IOException with stream: Number of Rows:223788
+
+
+# Created at 2022-09-06T15:53:20.322
+Unexpected IOException with stream: 223850	EVA	56949	2021-11-15 10:00:00.0	PFJ SOUTHEAST 1049	VA	156.76	504.59	OBRYAN MYERS	596959	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.393
+Unexpected IOException with stream: Number of Rows:223789
+
+
+# Created at 2022-09-06T15:53:20.394
+Unexpected IOException with stream: 223851	EVA	181243	2021-11-15 13:13:00.0	LOVES #786 TRAVEL STOP	MO	70.54	211.70	SEAN OPALKA	596960	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.467
+Unexpected IOException with stream: Number of Rows:223790
+
+
+# Created at 2022-09-06T15:53:20.467
+Unexpected IOException with stream: 223852	EVA	184694	2021-11-15 06:29:00.0	QUARLES #4831 - ROCKY MOU	NC	80.01	287.94	VERNON BLAND	596962	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.542
+Unexpected IOException with stream: Number of Rows:223791
+
+
+# Created at 2022-09-06T15:53:20.543
+Unexpected IOException with stream: 223853	EVA	180336	2021-11-15 06:33:00.0	AF TRUCK CENTER LLC	IL	50.27	180.92	PAWEL NYTKO	596963	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.603
+Unexpected IOException with stream: Number of Rows:223792
+
+
+# Created at 2022-09-06T15:53:20.603
+Unexpected IOException with stream: 223854	EVA	176774	2021-11-15 06:34:00.0	THORTONS  #336	IL	133.04	480.14	DAMIEN MUHAMMAD	596964	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.686
+Unexpected IOException with stream: Number of Rows:223793
+
+
+# Created at 2022-09-06T15:53:20.687
+Unexpected IOException with stream: 223855	EVA	182579	2021-11-15 10:11:00.0	LOVES #664 TRAVEL STOP	IN	200.24	695.01	JAMES WOODMANSEE	596965	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.766
+Unexpected IOException with stream: Number of Rows:223794
+
+
+# Created at 2022-09-06T15:53:20.766
+Unexpected IOException with stream: 223856	EVA	56183	2021-11-15 10:24:00.0	PILOT DISPUTANTA 4656	VA	255.00	808.26	TREVOR BINCKLEY	596986	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.854
+Unexpected IOException with stream: Number of Rows:223795
+
+
+# Created at 2022-09-06T15:53:20.854
+Unexpected IOException with stream: 223857	EVA	17038	2021-11-15 10:27:00.0	PILOT 1047	FL	174.25	569.38	MILLS KEVIN	596987	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:20.941
+Unexpected IOException with stream: Number of Rows:223796
+
+
+# Created at 2022-09-06T15:53:20.941
+Unexpected IOException with stream: 223858	EVA	181505	2021-11-15 09:47:00.0	FJ-CARLISLE 708	PA	93.92	342.48	Paul Longenecker	596991	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.017
+Unexpected IOException with stream: Number of Rows:223797
+
+
+# Created at 2022-09-06T15:53:21.017
+Unexpected IOException with stream: 223859	EVA	179488	2021-11-15 10:01:00.0	CAPITAL FUELS TENNESSEE 2	TN	101.26	330.00	JAMES CATRON	596992	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.083
+Unexpected IOException with stream: Number of Rows:223798
+
+
+# Created at 2022-09-06T15:53:21.084
+Unexpected IOException with stream: 223860	EVA	163104	2021-11-15 12:58:00.0	ONE9 SPEEDWAY 83495	NJ	71.83	270.00	NESTOR JIMENEZ	596994	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.139
+Unexpected IOException with stream: Number of Rows:223799
+
+
+# Created at 2022-09-06T15:53:21.140
+Unexpected IOException with stream: 223861	EVA	172515	2021-11-15 13:07:00.0	FJ-MYERSTOWN 518	PA	43.58	159.00	RICHARD MURRAY	596995	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.201
+Unexpected IOException with stream: Number of Rows:223800
+
+
+# Created at 2022-09-06T15:53:21.203
+Unexpected IOException with stream: 223862	EVA	176340	2021-11-15 13:18:00.0	SAPP BROTHERS	UT	200.00	785.68	BRAXTON BIRD	596996	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.267
+Unexpected IOException with stream: Number of Rows:223801
+
+
+# Created at 2022-09-06T15:53:21.268
+Unexpected IOException with stream: 223863	EVA	183595	2021-11-15 13:21:00.0	WILD BILLS	MS	116.03	370.02	DONTA WRIGHT	596997	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.344
+Unexpected IOException with stream: Number of Rows:223802
+
+
+# Created at 2022-09-06T15:53:21.345
+Unexpected IOException with stream: 223864	EVA	163838	2021-11-15 06:24:00.0	FJ-DADE CITY 624	FL	185.88	601.39	YORDANIS SEGURA	596999	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.407
+Unexpected IOException with stream: Number of Rows:223803
+
+
+# Created at 2022-09-06T15:53:21.407
+Unexpected IOException with stream: 223865	EVA	21570	2021-11-15 06:28:00.0	LOVES #752 TRAVEL STOP	WI	123.97	394.03	ALEJANDRO RAMON	597000	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.489
+Unexpected IOException with stream: Number of Rows:223804
+
+
+# Created at 2022-09-06T15:53:21.490
+Unexpected IOException with stream: 223866	EVA	182524	2021-11-15 06:41:00.0	PILOT TOLEDO 015	OH	52.94	178.83	HYSEN MORINA	597001	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.564
+Unexpected IOException with stream: Number of Rows:223805
+
+
+# Created at 2022-09-06T15:53:21.565
+Unexpected IOException with stream: 223867	EVA	183571	2021-11-15 06:52:00.0	THORNTONS #319	IL	112.47	400.29	LEONARD MEYER	597002	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.647
+Unexpected IOException with stream: Number of Rows:223806
+
+
+# Created at 2022-09-06T15:53:21.648
+Unexpected IOException with stream: 223868	EVA	182364	2021-11-15 10:08:00.0	LOVES # 315 TRAVEL STOP	TX	62.17	189.73	EYAN BAPTISTE SR	597003	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.759
+Unexpected IOException with stream: Number of Rows:223807
+
+
+# Created at 2022-09-06T15:53:21.760
+Unexpected IOException with stream: 223869	EVA	177909	2021-11-15 10:10:00.0	PILOT TOLEDO 015	OH	166.46	562.29	JAMES CRAWFORD	597004	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.839
+Unexpected IOException with stream: Number of Rows:223808
+
+
+# Created at 2022-09-06T15:53:21.840
+Unexpected IOException with stream: 223870	EVA	184005	2021-11-15 10:26:00.0	PILOT JACKSONVILLE 091	FL	155.00	503.53	YURIY GOLUBEV	597005	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.888
+Unexpected IOException with stream: Number of Rows:223809
+
+
+# Created at 2022-09-06T15:53:21.889
+Unexpected IOException with stream: 223871	EVA	183233	2021-11-15 05:48:00.0	LOVES # 316 TRAVEL STOP	FL	70.64	231.60	YOSEPH MEZEMIR	597006	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:21.940
+Unexpected IOException with stream: Number of Rows:223810
+
+
+# Created at 2022-09-06T15:53:21.941
+Unexpected IOException with stream: 223872	EVA	177843	2021-11-15 10:08:00.0	EXPRESS 29	GA	127.88	450.00	PATRICK EVANS JR	597009	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.037
+Unexpected IOException with stream: Number of Rows:223811
+
+
+# Created at 2022-09-06T15:53:22.037
+Unexpected IOException with stream: 223873	EVA	182530	2021-11-15 10:08:00.0	QUIK TRIP # 236	MO	124.66	410.00	JAMES ELERESON	597010	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.112
+Unexpected IOException with stream: Number of Rows:223812
+
+
+# Created at 2022-09-06T15:53:22.113
+Unexpected IOException with stream: 223874	EVA	184221	2021-11-15 09:49:00.0	REBEL #868	IL	142.56	484.57	ABDELKRIM RAIS	597011	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.208
+Unexpected IOException with stream: Number of Rows:223813
+
+
+# Created at 2022-09-06T15:53:22.209
+Unexpected IOException with stream: 223875	EVA	175495	2021-11-15 13:00:00.0	LOVES # 396 TRAVEL STOP	SC	30.04	93.78	TERRY AUSTIN	597012	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.271
+Unexpected IOException with stream: Number of Rows:223814
+
+
+# Created at 2022-09-06T15:53:22.271
+Unexpected IOException with stream: 223876	EVA	178465	2021-11-15 13:07:00.0	GURJOT PETROLEUM LLC	NJ	64.23	235.00	SERGIO PUJOLS	597013	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.360
+Unexpected IOException with stream: Number of Rows:223815
+
+
+# Created at 2022-09-06T15:53:22.360
+Unexpected IOException with stream: 223877	EVA	165093	2021-11-15 06:32:00.0	TA FRANKLIN	TN	158.88	499.06	TIMOTHY FLIPPEN	597015	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.458
+Unexpected IOException with stream: Number of Rows:223816
+
+
+# Created at 2022-09-06T15:53:22.458
+Unexpected IOException with stream: 223878	EVA	58405	2021-11-15 06:35:00.0	TA BLOOMSBURY	NJ	98.60	331.71	LEON SIXTO	597016	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.525
+Unexpected IOException with stream: Number of Rows:223817
+
+
+# Created at 2022-09-06T15:53:22.525
+Unexpected IOException with stream: 223879	EVA	181310	2021-11-15 06:36:00.0	CIRCLE K #2723046	NC	31.97	115.07	TYREN WASHINGTON	597018	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.606
+Unexpected IOException with stream: Number of Rows:223818
+
+
+# Created at 2022-09-06T15:53:22.606
+Unexpected IOException with stream: 223880	EVA	20866	2021-11-15 06:38:00.0	QUIK TRIP # 787	GA	120.64	407.64	WILLIAM LAWRENCE	597019	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.673
+Unexpected IOException with stream: Number of Rows:223819
+
+
+# Created at 2022-09-06T15:53:22.675
+Unexpected IOException with stream: 223881	EVA	183250	2021-11-15 06:39:00.0	ONE9 SPEEDWAY 87175	TN	74.66	273.18	JESSE CLEMONS	597020	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.775
+Unexpected IOException with stream: Number of Rows:223820
+
+
+# Created at 2022-09-06T15:53:22.776
+Unexpected IOException with stream: 223882	EVA	168960	2021-11-15 06:44:00.0	GRAND CENTRAL STATION	SC	70.33	237.65	RANDELL CORNELIUS	597021	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.865
+Unexpected IOException with stream: Number of Rows:223821
+
+
+# Created at 2022-09-06T15:53:22.865
+Unexpected IOException with stream: 223883	EVA	184043	2021-11-15 10:09:00.0	TULLO TRUCK STOP LLC	NJ	155.48	590.67	DIEGO VERAS FERMIN	597023	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:22.936
+Unexpected IOException with stream: Number of Rows:223822
+
+
+# Created at 2022-09-06T15:53:22.937
+Unexpected IOException with stream: 223884	EVA	179890	2021-11-15 05:51:00.0	LOVES #560 TRAVEL STOP	VA	78.16	252.38	SHAWN KING	597027	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.026
+Unexpected IOException with stream: Number of Rows:223823
+
+
+# Created at 2022-09-06T15:53:23.026
+Unexpected IOException with stream: 223885	EVA	171029	2021-11-15 13:23:00.0	PARKERS #69	GA	86.78	321.00	PATRICK BARRY	597031	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.112
+Unexpected IOException with stream: Number of Rows:223824
+
+
+# Created at 2022-09-06T15:53:23.114
+Unexpected IOException with stream: 223886	EVA	175931	2021-11-15 13:24:00.0	PILOT LAPLACE 082	LA	98.89	301.23	HAROLD JEANPIERRE	597032	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.208
+Unexpected IOException with stream: Number of Rows:223825
+
+
+# Created at 2022-09-06T15:53:23.209
+Unexpected IOException with stream: 223887	EVA	182116	2021-11-15 03:33:00.0	QUICK FUEL MEMPHIS	TN	78.58	259.98	DARIUS ANDERSON	595849	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.291
+Unexpected IOException with stream: Number of Rows:223826
+
+
+# Created at 2022-09-06T15:53:23.292
+Unexpected IOException with stream: 223888	EVA	184482	2021-11-14 08:44:00.0	RACETRAC #2574	GA	67.23	227.18	DAMIEN RODNEY	595851	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.374
+Unexpected IOException with stream: Number of Rows:223827
+
+
+# Created at 2022-09-06T15:53:23.374
+Unexpected IOException with stream: 223889	EVA	167816	2021-11-15 02:18:00.0	PILOT #6955	NC	66.72	214.19	ANDREW PATTERSON JR	595853	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.476
+Unexpected IOException with stream: Number of Rows:223828
+
+
+# Created at 2022-09-06T15:53:23.477
+Unexpected IOException with stream: 223890	EVA	173347	2021-11-14 12:12:00.0	TA ELKTON	MD	0.26	0.81	DWAYNE EVANS	595855	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.571
+Unexpected IOException with stream: Number of Rows:223829
+
+
+# Created at 2022-09-06T15:53:23.573
+Unexpected IOException with stream: 223891	EVA	182975	2021-11-15 03:03:00.0	QUIK TRIP #1198	SC	91.27	301.09	KEVIN SMITH	595856	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.669
+Unexpected IOException with stream: Number of Rows:223830
+
+
+# Created at 2022-09-06T15:53:23.671
+Unexpected IOException with stream: 223892	EVA	183465	2021-11-15 03:05:00.0	LOVES # 316 TRAVEL STOP	FL	81.81	268.22	WARREN JOHNSON	595857	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.757
+Unexpected IOException with stream: Number of Rows:223831
+
+
+# Created at 2022-09-06T15:53:23.758
+Unexpected IOException with stream: 223893	EVA	180888	2021-11-15 03:14:00.0	ONE9 MR FUEL 064	SC	62.27	215.39	MONTARIO GADSDEN	595858	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.819
+Unexpected IOException with stream: Number of Rows:223832
+
+
+# Created at 2022-09-06T15:53:23.820
+Unexpected IOException with stream: 223894	EVA	176107	2021-11-15 04:27:00.0	FJ 1068	SC	166.71	529.48	William Saab	595864	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.891
+Unexpected IOException with stream: Number of Rows:223833
+
+
+# Created at 2022-09-06T15:53:23.892
+Unexpected IOException with stream: 223895	EVA	57371	2021-11-15 01:06:00.0	SIDE TRACK	GA	70.62	251.33	ERIC HARPER	595866	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:23.978
+Unexpected IOException with stream: Number of Rows:223834
+
+
+# Created at 2022-09-06T15:53:23.979
+Unexpected IOException with stream: 223896	EVA	167557	2021-11-15 01:23:00.0	PILOT #6955	NC	83.70	268.71	EUGENE ROGERS	595867	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.046
+Unexpected IOException with stream: Number of Rows:223835
+
+
+# Created at 2022-09-06T15:53:24.047
+Unexpected IOException with stream: 223897	EVA	175760	2021-11-14 07:51:00.0	RT 66 FOOD N FUEL	IL	109.28	410.79	MOHAMMED MOHSEN	595870	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.140
+Unexpected IOException with stream: Number of Rows:223836
+
+
+# Created at 2022-09-06T15:53:24.141
+Unexpected IOException with stream: 223898	EVA	165177	2021-11-14 09:25:00.0	7-11 #40069	PA	124.97	499.76	MARK MCCULLOUGH	595871	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.211
+Unexpected IOException with stream: Number of Rows:223837
+
+
+# Created at 2022-09-06T15:53:24.211
+Unexpected IOException with stream: 223899	EVA	181135	2021-11-14 10:00:00.0	RT 66 FOOD N FUEL	IL	101.23	380.51	YACOOB YAFAI	595872	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.311
+Unexpected IOException with stream: Number of Rows:223838
+
+
+# Created at 2022-09-06T15:53:24.311
+Unexpected IOException with stream: 223900	EVA	177736	2021-11-15 02:50:00.0	TULLO TRUCK STOP LLC	NJ	81.10	308.10	TIAGO COSTA	595877	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.389
+Unexpected IOException with stream: Number of Rows:223839
+
+
+# Created at 2022-09-06T15:53:24.390
+Unexpected IOException with stream: 223901	EVA	20775	2021-11-15 03:14:00.0	PILOT HEBRON 448	IN	179.30	596.18	WILLIAM NORFLEET	595878	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.456
+Unexpected IOException with stream: Number of Rows:223840
+
+
+# Created at 2022-09-06T15:53:24.457
+Unexpected IOException with stream: 223902	EVA	174307	2021-11-15 03:39:00.0	QUIK TRIP #707	GA	86.79	295.00	DANIEL JAIMES	595880	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.520
+Unexpected IOException with stream: Number of Rows:223841
+
+
+# Created at 2022-09-06T15:53:24.521
+Unexpected IOException with stream: 223903	EVA	170794	2021-11-14 12:36:00.0	LOVES #761 TRAVEL STOP	FL	70.30	230.78	MARY ANN JORDAN	595885	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.581
+Unexpected IOException with stream: Number of Rows:223842
+
+
+# Created at 2022-09-06T15:53:24.582
+Unexpected IOException with stream: 223904	EVA	176820	2021-11-15 03:42:00.0	PILOT INDIANAPOLIS 318	IN	142.75	492.61	DUSTIN HARDEN	595886	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.660
+Unexpected IOException with stream: Number of Rows:223843
+
+
+# Created at 2022-09-06T15:53:24.661
+Unexpected IOException with stream: 223905	EVA	181296	2021-11-15 03:23:00.0	PARKERS #64	GA	56.27	200.25	AKILI GRAHAM	595887	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.731
+Unexpected IOException with stream: Number of Rows:223844
+
+
+# Created at 2022-09-06T15:53:24.731
+Unexpected IOException with stream: 223906	EVA	169797	2021-11-14 12:45:00.0	FOREST VIEW BP	IL	149.79	530.09	NAJEH SALAMEH	595888	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.805
+Unexpected IOException with stream: Number of Rows:223845
+
+
+# Created at 2022-09-06T15:53:24.806
+Unexpected IOException with stream: 223907	EVA	184797	2021-11-13 05:32:00.0	MS 58 PLAZA INC	VA	37.10	130.93	EDDIE SIMMONS	595890	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.855
+Unexpected IOException with stream: Number of Rows:223846
+
+
+# Created at 2022-09-06T15:53:24.856
+Unexpected IOException with stream: 223908	EVA	180856	2021-11-15 01:03:00.0	ONE9 MR FUEL #072	GA	73.84	262.81	CARROLL MACK JR	595891	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:24.941
+Unexpected IOException with stream: Number of Rows:223847
+
+
+# Created at 2022-09-06T15:53:24.943
+Unexpected IOException with stream: 223909	EVA	178147	2021-11-14 08:10:00.0	LOVES #778 TRAVEL STOP	GA	86.21	289.22	JARQUAVIS DURHAM	595892	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.011
+Unexpected IOException with stream: Number of Rows:223848
+
+
+# Created at 2022-09-06T15:53:25.011
+Unexpected IOException with stream: 223910	EVA	183452	2021-11-14 12:22:00.0	PILOT #1042	IL	73.84	269.77	YAHA ABDELJABER	595894	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.079
+Unexpected IOException with stream: Number of Rows:223849
+
+
+# Created at 2022-09-06T15:53:25.079
+Unexpected IOException with stream: 223911	EVA	173524	2021-11-15 03:42:00.0	FJ-SILOAM 633	GA	72.88	236.46	MIGUEL PADRON	595898	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.149
+Unexpected IOException with stream: Number of Rows:223850
+
+
+# Created at 2022-09-06T15:53:25.149
+Unexpected IOException with stream: 223912	EVA	177363	2021-11-15 03:55:00.0	GOOD OIL COMPANY OF ILLIN	IL	65.10	243.39	NICOLE CORDOVA	595899	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.232
+Unexpected IOException with stream: Number of Rows:223851
+
+
+# Created at 2022-09-06T15:53:25.232
+Unexpected IOException with stream: 223913	EVA	178056	2021-11-14 12:35:00.0	PILOT 1128	FL	75.11	246.25	DAVID MCKIBBEN	595900	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.303
+Unexpected IOException with stream: Number of Rows:223852
+
+
+# Created at 2022-09-06T15:53:25.304
+Unexpected IOException with stream: 223914	EVA	181560	2021-11-14 13:03:00.0	THORNTONS #322	IL	4.83	17.58	AHMAD ABEDELMAJID	595901	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.381
+Unexpected IOException with stream: Number of Rows:223853
+
+
+# Created at 2022-09-06T15:53:25.382
+Unexpected IOException with stream: 223915	EVA	181560	2021-11-14 13:09:00.0	THORNTONS #322	IL	77.90	283.47	AHMAD ABEDELMAJID	595902	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.440
+Unexpected IOException with stream: Number of Rows:223854
+
+
+# Created at 2022-09-06T15:53:25.440
+Unexpected IOException with stream: 223916	EVA	171545	2021-11-14 13:13:00.0	TA RICHMOND	VA	174.59	552.93	HAZIM OMEROVIC	595903	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.509
+Unexpected IOException with stream: Number of Rows:223855
+
+
+# Created at 2022-09-06T15:53:25.512
+Unexpected IOException with stream: 223917	EVA	172988	2021-11-15 04:31:00.0	PILOT #575	GA	38.87	128.58	CHRISTOPHER NELOMS	595905	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.573
+Unexpected IOException with stream: Number of Rows:223856
+
+
+# Created at 2022-09-06T15:53:25.574
+Unexpected IOException with stream: 223918	EVA	57956	2021-11-15 04:34:00.0	JOES KWIK MARTS #7012	SC	100.94	346.13	WALTER MANIGAULT	595906	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.640
+Unexpected IOException with stream: Number of Rows:223857
+
+
+# Created at 2022-09-06T15:53:25.641
+Unexpected IOException with stream: 223919	EVA	174803	2021-11-14 13:11:00.0	PILOT DUBLIN 068	GA	128.71	420.41	EVERETTE LEHMAN	595907	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.706
+Unexpected IOException with stream: Number of Rows:223858
+
+
+# Created at 2022-09-06T15:53:25.707
+Unexpected IOException with stream: 223920	EVA	164679	2021-11-14 13:14:00.0	FUEL ONE #869	NJ	48.68	180.07	CRAIG BARTLETT	595908	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.773
+Unexpected IOException with stream: Number of Rows:223859
+
+
+# Created at 2022-09-06T15:53:25.774
+Unexpected IOException with stream: 223921	EVA	182501	2021-11-15 02:30:00.0	JET #93	GA	88.13	306.61	ROY BELL JR	595910	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.847
+Unexpected IOException with stream: Number of Rows:223860
+
+
+# Created at 2022-09-06T15:53:25.848
+Unexpected IOException with stream: 223922	EVA	163440	2021-11-14 10:53:00.0	ENMARKET #892	SC	123.11	387.73	EDDIE CANTY	595911	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.927
+Unexpected IOException with stream: Number of Rows:223861
+
+
+# Created at 2022-09-06T15:53:25.928
+Unexpected IOException with stream: 223923	EVA	178162	2021-11-14 11:54:00.0	GAS PRO TRAVEL CENTER	GA	12.17	45.00	TARICAS WIMBERLY	595912	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:25.997
+Unexpected IOException with stream: Number of Rows:223862
+
+
+# Created at 2022-09-06T15:53:25.998
+Unexpected IOException with stream: 223924	EVA	178397	2021-11-15 03:09:00.0	QUIK TRIP # 787	GA	130.02	439.35	Carlton Cooper	595914	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.077
+Unexpected IOException with stream: Number of Rows:223863
+
+
+# Created at 2022-09-06T15:53:26.079
+Unexpected IOException with stream: 223925	EVA	173951	2021-11-15 03:19:00.0	PILOT HIGHLAND 031	IN	64.95	215.24	SALADIN YACUB	595916	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.134
+Unexpected IOException with stream: Number of Rows:223864
+
+
+# Created at 2022-09-06T15:53:26.135
+Unexpected IOException with stream: 223926	EVA	177357	2021-11-15 03:23:00.0	PILOT DANVILLE 256	VA	138.34	444.77	NORMAN COX	595918	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.192
+Unexpected IOException with stream: Number of Rows:223865
+
+
+# Created at 2022-09-06T15:53:26.193
+Unexpected IOException with stream: 223927	EVA	182685	2021-11-15 03:38:00.0	PILOT #1042	IL	29.90	109.23	Ivan Moreno	595920	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.269
+Unexpected IOException with stream: Number of Rows:223866
+
+
+# Created at 2022-09-06T15:53:26.270
+Unexpected IOException with stream: 223928	EVA	176286	2021-11-15 03:44:00.0	LOVES # 299 TRAVEL STOP	TX	118.03	367.03	EZRA HARRIS	595921	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.329
+Unexpected IOException with stream: Number of Rows:223867
+
+
+# Created at 2022-09-06T15:53:26.330
+Unexpected IOException with stream: 223929	EVA	184797	2021-11-15 03:47:00.0	MS 58 PLAZA INC	VA	192.33	672.98	EDDIE SIMMONS	595922	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.432
+Unexpected IOException with stream: Number of Rows:223868
+
+
+# Created at 2022-09-06T15:53:26.432
+Unexpected IOException with stream: 223930	EVA	179952	2021-11-15 03:54:00.0	JOES KWIK MARTS #7012	SC	66.69	228.69	TERRANCE HAYNES	595923	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.496
+Unexpected IOException with stream: Number of Rows:223869
+
+
+# Created at 2022-09-06T15:53:26.497
+Unexpected IOException with stream: 223931	EVA	184738	2021-11-15 03:42:00.0	LOVES # 320 TRAVEL STOP	GA	91.85	304.60	AXEL AYALA	595927	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.572
+Unexpected IOException with stream: Number of Rows:223870
+
+
+# Created at 2022-09-06T15:53:26.572
+Unexpected IOException with stream: 223932	EVA	167771	2021-11-15 04:14:00.0	A & S FUEL LLC	NJ	103.31	378.00	GREGORIO CABRERA	595929	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.671
+Unexpected IOException with stream: Number of Rows:223871
+
+
+# Created at 2022-09-06T15:53:26.672
+Unexpected IOException with stream: 223933	EVA	175254	2021-11-15 02:05:00.0	SPEEDWAY 7FLEET #3700	IN	84.66	290.27	JESSE ROE	595930	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.743
+Unexpected IOException with stream: Number of Rows:223872
+
+
+# Created at 2022-09-06T15:53:26.744
+Unexpected IOException with stream: 223934	EVA	176623	2021-11-15 02:14:00.0	TULLO TRUCK STOP LLC	NJ	55.96	212.62	ANGEL SERRANO	595931	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.806
+Unexpected IOException with stream: Number of Rows:223873
+
+
+# Created at 2022-09-06T15:53:26.807
+Unexpected IOException with stream: 223935	EVA	183333	2021-11-15 02:16:00.0	PILOT 1047	FL	100.98	329.94	CHRIS REGAN	595932	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.885
+Unexpected IOException with stream: Number of Rows:223874
+
+
+# Created at 2022-09-06T15:53:26.885
+Unexpected IOException with stream: 223936	EVA	182531	2021-11-14 06:28:00.0	PILOT #4563	PA	67.92	248.16	HAITHAM NOUR	595933	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:26.973
+Unexpected IOException with stream: Number of Rows:223875
+
+
+# Created at 2022-09-06T15:53:26.973
+Unexpected IOException with stream: 223937	EVA	184227	2021-11-14 07:24:00.0	PILOT HEBRON 448	IN	75.64	251.53	YVETTE MCMURTRY	595934	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.050
+Unexpected IOException with stream: Number of Rows:223876
+
+
+# Created at 2022-09-06T15:53:27.051
+Unexpected IOException with stream: 223938	EVA	180613	2021-11-14 08:36:00.0	CIRCLE K #2701869	GA	103.89	350.01	TELLY WEST	595936	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.134
+Unexpected IOException with stream: Number of Rows:223877
+
+
+# Created at 2022-09-06T15:53:27.134
+Unexpected IOException with stream: 223939	EVA	179628	2021-11-15 02:45:00.0	RAINBOW GAS GARDEN # 8	SC	64.04	224.07	ROMMIE REEVES, JR	595939	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.204
+Unexpected IOException with stream: Number of Rows:223878
+
+
+# Created at 2022-09-06T15:53:27.204
+Unexpected IOException with stream: 223940	EVA	182647	2021-11-15 02:48:00.0	ONE9 MR FUEL #072	GA	81.90	291.47	LARRY REID	595940	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.282
+Unexpected IOException with stream: Number of Rows:223879
+
+
+# Created at 2022-09-06T15:53:27.283
+Unexpected IOException with stream: 223941	EVA	181141	2021-11-15 02:58:00.0	FJ-JACKSON 630	GA	167.40	551.69	LUIS PEREZ	595941	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.372
+Unexpected IOException with stream: Number of Rows:223880
+
+
+# Created at 2022-09-06T15:53:27.373
+Unexpected IOException with stream: 223942	EVA	174338	2021-11-15 03:07:00.0	TA BALTIMORE	MD	79.81	255.73	RICHARD BOSWELL	595942	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.426
+Unexpected IOException with stream: Number of Rows:223881
+
+
+# Created at 2022-09-06T15:53:27.426
+Unexpected IOException with stream: 223943	EVA	180900	2021-11-14 10:53:00.0	PILOT GREENFIELD 030	IN	51.68	178.12	MOHAMMAD   DAIFALLAH	595943	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.508
+Unexpected IOException with stream: Number of Rows:223882
+
+
+# Created at 2022-09-06T15:53:27.508
+Unexpected IOException with stream: 223944	EVA	169047	2021-11-14 11:01:00.0	PILOT MAHWAH 210	NJ	50.52	175.10	FRANCISCO NAVARRO	595944	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.575
+Unexpected IOException with stream: Number of Rows:223883
+
+
+# Created at 2022-09-06T15:53:27.576
+Unexpected IOException with stream: 223945	EVA	184205	2021-11-14 11:40:00.0	EXPRESS 29	GA	12.55	44.17	ANTHONY ONEAL	595945	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.671
+Unexpected IOException with stream: Number of Rows:223884
+
+
+# Created at 2022-09-06T15:53:27.671
+Unexpected IOException with stream: 223946	EVA	176224	2021-11-15 03:37:00.0	FJ-QUINCY 623	FL	79.65	256.30	BRIAN HAYNES	595947	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.742
+Unexpected IOException with stream: Number of Rows:223885
+
+
+# Created at 2022-09-06T15:53:27.743
+Unexpected IOException with stream: 223947	EVA	179532	2021-11-14 12:51:00.0	CIRCLE K 2705367	GA	97.76	340.10	LAWRENCE CAMPBELL	595948	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.817
+Unexpected IOException with stream: Number of Rows:223886
+
+
+# Created at 2022-09-06T15:53:27.818
+Unexpected IOException with stream: 223948	EVA	20324	2021-11-15 01:43:00.0	PILOT GARY 271	IN	19.58	64.87	MARK MROZEK	595950	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:27.908
+Unexpected IOException with stream: Number of Rows:223887
+
+
+# Created at 2022-09-06T15:53:27.908
+Unexpected IOException with stream: 223949	EVA	20324	2021-11-15 01:48:00.0	PILOT GARY 271	IN	20.52	67.98	MARK MROZEK	595951	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.002
+Unexpected IOException with stream: Number of Rows:223888
+
+
+# Created at 2022-09-06T15:53:28.003
+Unexpected IOException with stream: 223950	EVA	178985	2021-11-15 02:10:00.0	FJ 1096	FL	19.58	65.13	Zheng Li	595953	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.070
+Unexpected IOException with stream: Number of Rows:223889
+
+
+# Created at 2022-09-06T15:53:28.071
+Unexpected IOException with stream: 223951	EVA	183075	2021-11-15 02:43:00.0	PILOT FRANKSVILLE 324	WI	126.87	400.04	MAURICE OTXOA	595955	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.139
+Unexpected IOException with stream: Number of Rows:223890
+
+
+# Created at 2022-09-06T15:53:28.140
+Unexpected IOException with stream: 223952	EVA	181179	2021-11-14 11:14:00.0	PILOT 1082	SC	68.32	217.44	DECKAR VILLAGOMEZ	595957	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.207
+Unexpected IOException with stream: Number of Rows:223891
+
+
+# Created at 2022-09-06T15:53:28.208
+Unexpected IOException with stream: 223953	EVA	171520	2021-11-15 03:07:00.0	PILOT 1082	SC	82.40	262.23	ROBERT MCLEOD	595959	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.276
+Unexpected IOException with stream: Number of Rows:223892
+
+
+# Created at 2022-09-06T15:53:28.277
+Unexpected IOException with stream: 223954	EVA	182854	2021-11-14 12:26:00.0	PILOT JOLIET 1024	IL	121.77	435.97	TAMER JAGHAMA	595960	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.347
+Unexpected IOException with stream: Number of Rows:223893
+
+
+# Created at 2022-09-06T15:53:28.348
+Unexpected IOException with stream: 223955	EVA	180991	2021-11-15 04:12:00.0	FJ-NORTH EAST 784	MD	158.14	513.41	Michael Viera Rolon	595961	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.435
+Unexpected IOException with stream: Number of Rows:223894
+
+
+# Created at 2022-09-06T15:53:28.436
+Unexpected IOException with stream: 223956	EVA	177291	2021-11-14 07:53:00.0	LOVES # 320 TRAVEL STOP	GA	141.32	468.62	SCOTTIE BLASH	595963	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.502
+Unexpected IOException with stream: Number of Rows:223895
+
+
+# Created at 2022-09-06T15:53:28.503
+Unexpected IOException with stream: 223957	EVA	177619	2021-11-14 10:39:00.0	FJ-LEBANON 652	IN	198.23	682.51	MELVIN JORDAN	595966	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.589
+Unexpected IOException with stream: Number of Rows:223896
+
+
+# Created at 2022-09-06T15:53:28.589
+Unexpected IOException with stream: 223958	EVA	182680	2021-11-15 03:43:00.0	ENMARKET #820	GA	71.54	239.92	GREGORY MAGWOOD	595967	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.653
+Unexpected IOException with stream: Number of Rows:223897
+
+
+# Created at 2022-09-06T15:53:28.654
+Unexpected IOException with stream: 223959	EVA	184356	2021-11-16 01:38:00.0	PILOT #1046	FL	84.43	282.88	ORLANDO ZALDIVAR	598151	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.720
+Unexpected IOException with stream: Number of Rows:223898
+
+
+# Created at 2022-09-06T15:53:28.721
+Unexpected IOException with stream: 223960	EVA	174488	2021-11-16 01:52:00.0	PILOT DANVILLE 256	VA	84.81	272.68	Billy Lewis	598152	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.817
+Unexpected IOException with stream: Number of Rows:223899
+
+
+# Created at 2022-09-06T15:53:28.819
+Unexpected IOException with stream: 223961	EVA	59560	2021-11-16 02:24:00.0	RUTTERS FARM STORE #5	PA	49.30	200.12	DEBORAH MILLS	598154	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.887
+Unexpected IOException with stream: Number of Rows:223900
+
+
+# Created at 2022-09-06T15:53:28.888
+Unexpected IOException with stream: 223962	EVA	178162	2021-11-16 02:45:00.0	PILOT #4568	SC	134.48	417.21	TARICAS WIMBERLY	598155	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:28.956
+Unexpected IOException with stream: Number of Rows:223901
+
+
+# Created at 2022-09-06T15:53:28.957
+Unexpected IOException with stream: 223963	EVA	184008	2021-11-16 02:42:00.0	PILOT 1082	SC	13.57	43.18	JOHN GADSON	598156	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.022
+Unexpected IOException with stream: Number of Rows:223902
+
+
+# Created at 2022-09-06T15:53:29.023
+Unexpected IOException with stream: 223964	EVA	170276	2021-11-16 06:09:00.0	PILOT JOLIET 1024	IL	134.25	480.65	Amro Odeh	598157	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.089
+Unexpected IOException with stream: Number of Rows:223903
+
+
+# Created at 2022-09-06T15:53:29.089
+Unexpected IOException with stream: 223965	EVA	170120	2021-11-16 06:13:00.0	PILOT REMINGTON 034	IN	53.00	177.11	JOSE MARTINEZE	598158	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.163
+Unexpected IOException with stream: Number of Rows:223904
+
+
+# Created at 2022-09-06T15:53:29.164
+Unexpected IOException with stream: 223966	EVA	182244	2021-11-16 06:15:00.0	PILOT #4567	SC	134.47	417.96	LARRY SPIRES	598159	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.257
+Unexpected IOException with stream: Number of Rows:223905
+
+
+# Created at 2022-09-06T15:53:29.258
+Unexpected IOException with stream: 223967	EVA	183103	2021-11-15 12:23:00.0	PILOT BATTLE CREEK 017	MI	52.61	172.85	AHMAD HAMMAD	598160	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.343
+Unexpected IOException with stream: Number of Rows:223906
+
+
+# Created at 2022-09-06T15:53:29.343
+Unexpected IOException with stream: 223968	EVA	165050	2021-11-15 12:26:00.0	TA BINGHAMTON	NY	165.31	554.81	KENNETH WOLLABER	598161	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.414
+Unexpected IOException with stream: Number of Rows:223907
+
+
+# Created at 2022-09-06T15:53:29.415
+Unexpected IOException with stream: 223969	EVA	178511	2021-11-16 06:18:00.0	LOVES #606 TRAVEL STOP	IL	45.09	163.68	EMMANUAL KAYODE	598162	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.497
+Unexpected IOException with stream: Number of Rows:223908
+
+
+# Created at 2022-09-06T15:53:29.498
+Unexpected IOException with stream: 223970	EVA	171597	2021-11-16 06:21:00.0	ONE9 MR FUEL 064	SC	4.97	17.18	TRAVIS LLOYD	598163	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.577
+Unexpected IOException with stream: Number of Rows:223909
+
+
+# Created at 2022-09-06T15:53:29.577
+Unexpected IOException with stream: 223971	EVA	171597	2021-11-16 06:27:00.0	ONE9 MR FUEL 064	SC	81.95	283.45	TRAVIS LLOYD	598164	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.695
+Unexpected IOException with stream: Number of Rows:223910
+
+
+# Created at 2022-09-06T15:53:29.696
+Unexpected IOException with stream: 223972	EVA	177245	2021-11-16 06:36:00.0	PILOT PLYMOUTH 198	IN	139.60	473.81	TERRILL DOMINIQUE	598165	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.781
+Unexpected IOException with stream: Number of Rows:223911
+
+
+# Created at 2022-09-06T15:53:29.782
+Unexpected IOException with stream: 223973	EVA	167433	2021-11-15 12:13:00.0	LIVERNOIS MARATHON	MI	50.73	187.64	MARK DEDA	598166	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.877
+Unexpected IOException with stream: Number of Rows:223912
+
+
+# Created at 2022-09-06T15:53:29.877
+Unexpected IOException with stream: 223974	EVA	183136	2021-11-15 12:21:00.0	PILOT CLINTON 061	SC	140.02	432.95	ROBERT BEMIS	598167	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:29.962
+Unexpected IOException with stream: Number of Rows:223913
+
+
+# Created at 2022-09-06T15:53:29.963
+Unexpected IOException with stream: 223975	EVA	174121	2021-11-16 11:16:00.0	LOVES #404 COUNTRY STORE	NJ	178.61	604.16	JOEL ALMONTE CABRERA	598169	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.066
+Unexpected IOException with stream: Number of Rows:223914
+
+
+# Created at 2022-09-06T15:53:30.066
+Unexpected IOException with stream: 223976	EVA	179957	2021-11-16 11:30:00.0	GRAND CENTRAL STATION	SC	174.68	590.24	CHARLES SHIPP	598172	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.163
+Unexpected IOException with stream: Number of Rows:223915
+
+
+# Created at 2022-09-06T15:53:30.163
+Unexpected IOException with stream: 223977	EVA	182632	2021-11-16 06:37:00.0	THORNTONS #314	IL	148.61	517.03	ART TUSINSKI	598174	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.233
+Unexpected IOException with stream: Number of Rows:223916
+
+
+# Created at 2022-09-06T15:53:30.233
+Unexpected IOException with stream: 223978	EVA	182503	2021-11-16 06:39:00.0	FRIENDLY GUS #24	GA	97.06	325.04	Derek Daniels	598175	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.296
+Unexpected IOException with stream: Number of Rows:223917
+
+
+# Created at 2022-09-06T15:53:30.296
+Unexpected IOException with stream: 223979	EVA	182201	2021-11-16 06:57:00.0	ROAD RANGER #278	AR	32.11	121.03	GREGORY HUBBARD	598176	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.350
+Unexpected IOException with stream: Number of Rows:223918
+
+
+# Created at 2022-09-06T15:53:30.350
+Unexpected IOException with stream: 223980	EVA	174634	2021-11-16 07:04:00.0	MILLER MART #55	VA	70.25	250.03	CLARENCE EPPS	598177	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.425
+Unexpected IOException with stream: Number of Rows:223919
+
+
+# Created at 2022-09-06T15:53:30.426
+Unexpected IOException with stream: 223981	EVA	55138	2021-11-16 11:35:00.0	PETRO FLORENCE #6393	SC	133.59	415.49	MARVIN RILEY	598178	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.512
+Unexpected IOException with stream: Number of Rows:223920
+
+
+# Created at 2022-09-06T15:53:30.513
+Unexpected IOException with stream: 223982	EVA	164345	2021-11-16 12:02:00.0	TA BLOOMSBURY	NJ	100.35	337.58	JOSE ROSA TEJADA	598179	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.563
+Unexpected IOException with stream: Number of Rows:223921
+
+
+# Created at 2022-09-06T15:53:30.563
+Unexpected IOException with stream: 223983	EVA	169847	2021-11-16 06:50:00.0	PILOT BOWMAN 060	SC	97.25	307.31	MATTHEW GERMANOFF	598181	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.654
+Unexpected IOException with stream: Number of Rows:223922
+
+
+# Created at 2022-09-06T15:53:30.655
+Unexpected IOException with stream: 223984	EVA	171568	2021-11-16 06:56:00.0	PILOT 524	KS	147.52	451.29	ARVINDER TOOR	598182	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.736
+Unexpected IOException with stream: Number of Rows:223923
+
+
+# Created at 2022-09-06T15:53:30.738
+Unexpected IOException with stream: 223985	EVA	181959	2021-11-16 07:08:00.0	RAYMOND TRUCK STOP	NJ	135.17	500.00	JIMMY CORALES	598183	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.810
+Unexpected IOException with stream: Number of Rows:223924
+
+
+# Created at 2022-09-06T15:53:30.810
+Unexpected IOException with stream: 223986	EVA	56103	2021-11-16 07:18:00.0	SUNOCO #7009	NJ	182.50	647.10	JULIAN CANALES	598184	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.891
+Unexpected IOException with stream: Number of Rows:223925
+
+
+# Created at 2022-09-06T15:53:30.892
+Unexpected IOException with stream: 223987	EVA	165198	2021-11-16 12:02:00.0	TA MONROE	MI	221.42	715.59	AHMAD KHACHAB	598185	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:30.952
+Unexpected IOException with stream: Number of Rows:223926
+
+
+# Created at 2022-09-06T15:53:30.953
+Unexpected IOException with stream: 223988	EVA	181581	2021-11-16 12:05:00.0	CIRCLE K # 5346	GA	89.04	299.09	TYRONE TILLMAN	598186	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.026
+Unexpected IOException with stream: Number of Rows:223927
+
+
+# Created at 2022-09-06T15:53:31.027
+Unexpected IOException with stream: 223989	EVA	181526	2021-11-16 11:37:00.0	TULLO TRUCK STOP LLC	NJ	77.99	296.30	CARLOS PINEDA	598187	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.116
+Unexpected IOException with stream: Number of Rows:223928
+
+
+# Created at 2022-09-06T15:53:31.117
+Unexpected IOException with stream: 223990	EVA	181315	2021-11-16 11:55:00.0	PILOT FRANKLIN 009	OH	116.26	421.15	BRADLEY KLINE	598188	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.208
+Unexpected IOException with stream: Number of Rows:223929
+
+
+# Created at 2022-09-06T15:53:31.209
+Unexpected IOException with stream: 223991	EVA	183796	2021-11-16 07:28:00.0	TA PAULSBORO	NJ	35.20	117.00	DERRICK JOHNSON	598189	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.279
+Unexpected IOException with stream: Number of Rows:223930
+
+
+# Created at 2022-09-06T15:53:31.280
+Unexpected IOException with stream: 223992	EVA	178604	2021-11-16 07:29:00.0	PILOT #7983	NC	167.00	535.05	EDWIN OSORIO	598190	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.377
+Unexpected IOException with stream: Number of Rows:223931
+
+
+# Created at 2022-09-06T15:53:31.378
+Unexpected IOException with stream: 223993	EVA	184582	2021-11-16 06:40:00.0	THORNTONS #322	IL	81.99	298.36	MARCO RIERA	598191	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.446
+Unexpected IOException with stream: Number of Rows:223932
+
+
+# Created at 2022-09-06T15:53:31.446
+Unexpected IOException with stream: 223994	EVA	180586	2021-11-16 06:41:00.0	SPRINGER CARDLOCK	NC	64.89	227.04	LARRY PARKER	598192	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.509
+Unexpected IOException with stream: Number of Rows:223933
+
+
+# Created at 2022-09-06T15:53:31.509
+Unexpected IOException with stream: 223995	EVA	173223	2021-11-15 12:18:00.0	LOVES # 320 TRAVEL STOP	GA	95.06	315.21	SAMUEL ROBERTS	598193	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.587
+Unexpected IOException with stream: Number of Rows:223934
+
+
+# Created at 2022-09-06T15:53:31.587
+Unexpected IOException with stream: 223996	EVA	163103	2021-11-16 11:16:00.0	SPEEDWAY 7FLEET #6092	IN	132.31	454.03	OSCAR MELENDEZ	598194	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.650
+Unexpected IOException with stream: Number of Rows:223935
+
+
+# Created at 2022-09-06T15:53:31.650
+Unexpected IOException with stream: 223997	EVA	170604	2021-11-16 11:16:00.0	THORNTONS #330	IL	153.86	561.43	JERMAINE WILSON	598195	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.714
+Unexpected IOException with stream: Number of Rows:223936
+
+
+# Created at 2022-09-06T15:53:31.716
+Unexpected IOException with stream: 223998	EVA	165050	2021-11-16 11:26:00.0	TA DANSVILLE	NY	107.88	363.34	KENNETH WOLLABER	598196	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.777
+Unexpected IOException with stream: Number of Rows:223937
+
+
+# Created at 2022-09-06T15:53:31.777
+Unexpected IOException with stream: 223999	EVA	167764	2021-11-16 11:27:00.0	PILOT #4560	GA	98.44	326.28	JESSIE STEVENS	598197	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.851
+Unexpected IOException with stream: Number of Rows:223938
+
+
+# Created at 2022-09-06T15:53:31.851
+Unexpected IOException with stream: 224000	EVA	56265	2021-11-16 07:00:00.0	BUSY CORNER TRUCK STOP	TN	45.14	157.93	CHARLES WATSON	598200	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:31.937
+Unexpected IOException with stream: Number of Rows:223939
+
+
+# Created at 2022-09-06T15:53:31.937
+Unexpected IOException with stream: 224001	EVA	183547	2021-11-16 07:04:00.0	QUIK TRIP # 787	GA	99.60	336.56	CAVIN TAYLOR	598201	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.013
+Unexpected IOException with stream: Number of Rows:223940
+
+
+# Created at 2022-09-06T15:53:32.014
+Unexpected IOException with stream: 224002	EVA	182784	2021-11-16 11:58:00.0	LOVES #741 TRAVEL STOP	NC	16.01	51.41	ANDREW WATSON	598204	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.099
+Unexpected IOException with stream: Number of Rows:223941
+
+
+# Created at 2022-09-06T15:53:32.099
+Unexpected IOException with stream: 224003	EVA	174749	2021-11-16 06:54:00.0	FILL N GO TRAVEL CENTER	TN	106.26	350.54	NATHANIEL POLLARD	598205	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.179
+Unexpected IOException with stream: Number of Rows:223942
+
+
+# Created at 2022-09-06T15:53:32.180
+Unexpected IOException with stream: 224004	EVA	174238	2021-11-16 06:57:00.0	QUIK TRIP #963	TX	57.30	182.74	MARIO HERRERA BENITEZ	598206	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.278
+Unexpected IOException with stream: Number of Rows:223943
+
+
+# Created at 2022-09-06T15:53:32.279
+Unexpected IOException with stream: 224005	EVA	181897	2021-11-16 11:28:00.0	PILOT STANTON 149	TN	150.41	478.22	CRYSTAL POWELL	598207	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.357
+Unexpected IOException with stream: Number of Rows:223944
+
+
+# Created at 2022-09-06T15:53:32.359
+Unexpected IOException with stream: 224006	EVA	180082	2021-11-16 11:45:00.0	EXPRESS 29	GA	86.53	304.49	JAIMIE BELL	598209	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.440
+Unexpected IOException with stream: Number of Rows:223945
+
+
+# Created at 2022-09-06T15:53:32.441
+Unexpected IOException with stream: 224007	EVA	183492	2021-11-16 12:04:00.0	LOVES #761 TRAVEL STOP	FL	71.75	235.53	MUHAMMAD HOLMES	598210	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.531
+Unexpected IOException with stream: Number of Rows:223946
+
+
+# Created at 2022-09-06T15:53:32.531
+Unexpected IOException with stream: 224008	EVA	183814	2021-11-16 11:24:00.0	PILOT #1042	IL	95.23	347.94	YOUSEF HAZAMAH	598211	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.600
+Unexpected IOException with stream: Number of Rows:223947
+
+
+# Created at 2022-09-06T15:53:32.601
+Unexpected IOException with stream: 224009	EVA	165315	2021-11-16 06:52:00.0	FJ WOODHAVEN 895	MI	104.50	341.64	ALI AZIZ	598215	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.659
+Unexpected IOException with stream: Number of Rows:223948
+
+
+# Created at 2022-09-06T15:53:32.660
+Unexpected IOException with stream: 224010	EVA	184402	2021-11-16 07:00:00.0	BOLLA 193 MAHWAH TRUCK ST	NJ	129.52	486.87	HUBER OCAMPO	598216	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.746
+Unexpected IOException with stream: Number of Rows:223949
+
+
+# Created at 2022-09-06T15:53:32.747
+Unexpected IOException with stream: 224011	EVA	183445	2021-11-16 07:14:00.0	TA JACKSONVILLE -6248	FL	60.20	194.73	YOENDYS MERINO	598218	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.815
+Unexpected IOException with stream: Number of Rows:223950
+
+
+# Created at 2022-09-06T15:53:32.815
+Unexpected IOException with stream: 224012	EVA	179622	2021-11-16 11:52:00.0	PILOT HOUSTON 375	TX	95.20	289.60	HASHIM DOE	598219	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.903
+Unexpected IOException with stream: Number of Rows:223951
+
+
+# Created at 2022-09-06T15:53:32.904
+Unexpected IOException with stream: 224013	EVA	182521	2021-11-16 12:00:00.0	LOVES #752 TRAVEL STOP	WI	101.55	322.78	JUAN ASPEITIA	598220	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:32.978
+Unexpected IOException with stream: Number of Rows:223952
+
+
+# Created at 2022-09-06T15:53:32.978
+Unexpected IOException with stream: 224014	EVA	160671	2021-11-16 07:16:00.0	LOVES # 331 TRAVEL STOP	TX	129.71	403.25	ROBERTO GONZALEZ	598223	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.059
+Unexpected IOException with stream: Number of Rows:223953
+
+
+# Created at 2022-09-06T15:53:33.061
+Unexpected IOException with stream: 224015	EVA	179463	2021-11-16 07:23:00.0	VALERO #1796	AR	40.19	135.00	TERRY BAKER	598224	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.145
+Unexpected IOException with stream: Number of Rows:223954
+
+
+# Created at 2022-09-06T15:53:33.146
+Unexpected IOException with stream: 224016	EVA	181845	2021-11-16 07:27:00.0	PILOT 1047	FL	94.40	308.46	MANEX ESTINFIL	598225	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.229
+Unexpected IOException with stream: Number of Rows:223955
+
+
+# Created at 2022-09-06T15:53:33.230
+Unexpected IOException with stream: 224017	EVA	165415	2021-11-16 12:07:00.0	QUICK FUEL BROOK PARK	OH	35.31	131.43	FRANK ROZUM	598226	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.321
+Unexpected IOException with stream: Number of Rows:223956
+
+
+# Created at 2022-09-06T15:53:33.322
+Unexpected IOException with stream: 224018	EVA	177893	2021-11-16 11:29:00.0	LOVES #778 TRAVEL STOP	GA	80.02	268.42	RUSSELL GALVIN	598227	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.390
+Unexpected IOException with stream: Number of Rows:223957
+
+
+# Created at 2022-09-06T15:53:33.390
+Unexpected IOException with stream: 224019	EVA	178106	2021-11-16 12:04:00.0	PILOT BUFFALO 1028	TX	104.26	326.46	CONRADE DRAKE	598233	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.475
+Unexpected IOException with stream: Number of Rows:223958
+
+
+# Created at 2022-09-06T15:53:33.476
+Unexpected IOException with stream: 224020	EVA	181023	2021-11-16 07:22:00.0	PILOT MT. STERLING 041	KY	102.29	323.98	ACE VERON	598234	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.550
+Unexpected IOException with stream: Number of Rows:223959
+
+
+# Created at 2022-09-06T15:53:33.551
+Unexpected IOException with stream: 224021	EVA	180989	2021-11-16 07:27:00.0	EL CHEAPO #50	GA	147.23	544.62	CHRISTOPHER CEASER	598235	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.609
+Unexpected IOException with stream: Number of Rows:223960
+
+
+# Created at 2022-09-06T15:53:33.611
+Unexpected IOException with stream: 224022	EVA	179062	2021-11-16 07:36:00.0	ONE9 SPEEDWAY 87147	TN	174.24	588.76	ANTOINE FISHER	598237	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.676
+Unexpected IOException with stream: Number of Rows:223961
+
+
+# Created at 2022-09-06T15:53:33.677
+Unexpected IOException with stream: 224023	EVA	177296	2021-11-16 07:47:00.0	LOVES # 320 TRAVEL STOP	GA	36.98	122.65	QUENTIN GREEN	598238	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.742
+Unexpected IOException with stream: Number of Rows:223962
+
+
+# Created at 2022-09-06T15:53:33.743
+Unexpected IOException with stream: 224024	EVA	21975	2021-11-16 12:18:00.0	PILOT PROVIDENCE FORGE 15	VA	43.62	140.35	CLARENCE MITCHELL	598241	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.823
+Unexpected IOException with stream: Number of Rows:223963
+
+
+# Created at 2022-09-06T15:53:33.823
+Unexpected IOException with stream: 224025	EVA	176594	2021-11-16 12:23:00.0	PILOT GLENDALE 048	KY	26.32	83.78	JOHNNIE CLEVELAND	598242	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.902
+Unexpected IOException with stream: Number of Rows:223964
+
+
+# Created at 2022-09-06T15:53:33.903
+Unexpected IOException with stream: 224026	EVA	183529	2021-11-16 11:31:00.0	THORNTONS #329	IL	95.73	350.27	RAFAEL DE LA CRUZ	598244	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:33.977
+Unexpected IOException with stream: Number of Rows:223965
+
+
+# Created at 2022-09-06T15:53:33.979
+Unexpected IOException with stream: 224027	EVA	161373	2021-11-16 11:38:00.0	LENNYS FOOD N FUEL VETTER	IL	68.80	260.00	SANDRO AGUILERA	598245	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.066
+Unexpected IOException with stream: Number of Rows:223966
+
+
+# Created at 2022-09-06T15:53:34.067
+Unexpected IOException with stream: 224028	EVA	182260	2021-11-16 07:21:00.0	LOVES #707 TRAVEL STOP	VA	155.98	519.17	KENNETH TURNER	598248	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.163
+Unexpected IOException with stream: Number of Rows:223967
+
+
+# Created at 2022-09-06T15:53:34.164
+Unexpected IOException with stream: 224029	EVA	183606	2021-11-16 07:25:00.0	KANGAROO EXPRESS # 6293	FL	87.83	290.30	DARRYL BUTLER	598249	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.242
+Unexpected IOException with stream: Number of Rows:223968
+
+
+# Created at 2022-09-06T15:53:34.243
+Unexpected IOException with stream: 224030	EVA	182388	2021-11-15 06:27:00.0	ONE9 SPEEDWAY 83495	NJ	111.42	418.81	JEFFREY VELEZ	597033	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.316
+Unexpected IOException with stream: Number of Rows:223969
+
+
+# Created at 2022-09-06T15:53:34.317
+Unexpected IOException with stream: 224031	EVA	163009	2021-11-15 06:33:00.0	SHELL HOT SPOT #6004	SC	80.03	256.02	DERWIN WATSON	597034	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.401
+Unexpected IOException with stream: Number of Rows:223970
+
+
+# Created at 2022-09-06T15:53:34.401
+Unexpected IOException with stream: 224032	EVA	180893	2021-11-15 06:49:00.0	LOVES #744 TRAVEL STOP	OH	58.23	210.08	RUSS FROHNAPFEL	597036	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.475
+Unexpected IOException with stream: Number of Rows:223971
+
+
+# Created at 2022-09-06T15:53:34.475
+Unexpected IOException with stream: 224033	EVA	183677	2021-11-15 10:11:00.0	PILOT MADISON 420	GA	100.00	324.35	RODRIQUEZ JAMES	597039	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.545
+Unexpected IOException with stream: Number of Rows:223972
+
+
+# Created at 2022-09-06T15:53:34.546
+Unexpected IOException with stream: 224034	EVA	170454	2021-11-15 10:15:00.0	QUIK TRIP # 787	GA	29.63	100.10	ANTOINETTE SHIELDS	597041	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.624
+Unexpected IOException with stream: Number of Rows:223973
+
+
+# Created at 2022-09-06T15:53:34.624
+Unexpected IOException with stream: 224035	EVA	175012	2021-11-15 10:23:00.0	TA BETO JUNCTION	KS	100.31	300.14	JEFFREY GARDNER	597044	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.700
+Unexpected IOException with stream: Number of Rows:223974
+
+
+# Created at 2022-09-06T15:53:34.700
+Unexpected IOException with stream: 224036	EVA	184265	2021-11-15 10:28:00.0	ONE9 SPEEDWAY 82926	PA	21.73	86.90	MAURICE SMITH	597045	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.772
+Unexpected IOException with stream: Number of Rows:223975
+
+
+# Created at 2022-09-06T15:53:34.772
+Unexpected IOException with stream: 224037	EVA	184133	2021-11-15 06:05:00.0	PILOT DANVILLE 256	VA	160.68	516.62	Mareio Farmer	597047	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.844
+Unexpected IOException with stream: Number of Rows:223976
+
+
+# Created at 2022-09-06T15:53:34.845
+Unexpected IOException with stream: 224038	EVA	170232	2021-11-15 05:58:00.0	TA PAULSBORO	NJ	153.54	510.38	SHAWN CHAMBERS	597050	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.924
+Unexpected IOException with stream: Number of Rows:223977
+
+
+# Created at 2022-09-06T15:53:34.925
+Unexpected IOException with stream: 224039	EVA	161245	2021-11-15 09:46:00.0	PILOT BALDWIN 087	FL	262.84	854.90	JARIUS ADAMS	597054	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:34.995
+Unexpected IOException with stream: Number of Rows:223978
+
+
+# Created at 2022-09-06T15:53:34.995
+Unexpected IOException with stream: 224040	EVA	169112	2021-11-15 09:48:00.0	PILOT GREENFIELD 030	IN	162.80	561.08	CHRIS BECKWITH	597055	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.072
+Unexpected IOException with stream: Number of Rows:223979
+
+
+# Created at 2022-09-06T15:53:35.073
+Unexpected IOException with stream: 224041	EVA	182713	2021-11-15 06:12:00.0	PILOT WEATHERFORD 206	TX	34.67	107.18	ROGER BAYLESS	597056	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.156
+Unexpected IOException with stream: Number of Rows:223980
+
+
+# Created at 2022-09-06T15:53:35.156
+Unexpected IOException with stream: 224042	EVA	175677	2021-11-15 06:16:00.0	CHECKPOINT #19	TX	61.23	202.00	ERICK MURILLO	597057	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.238
+Unexpected IOException with stream: Number of Rows:223981
+
+
+# Created at 2022-09-06T15:53:35.239
+Unexpected IOException with stream: 224043	EVA	163729	2021-11-15 06:21:00.0	QUIK TRIP #1181	SC	68.92	220.48	TROY BUSBY	597058	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.303
+Unexpected IOException with stream: Number of Rows:223982
+
+
+# Created at 2022-09-06T15:53:35.304
+Unexpected IOException with stream: 224044	EVA	178280	2021-11-15 09:50:00.0	QUIK TRIP #605	MO	61.05	207.52	THOMAS SUMPTER	597059	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.383
+Unexpected IOException with stream: Number of Rows:223983
+
+
+# Created at 2022-09-06T15:53:35.384
+Unexpected IOException with stream: 224045	EVA	170794	2021-11-15 09:55:00.0	PILOT #4576	SC	70.49	224.77	MARY ANN JORDAN	597060	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.475
+Unexpected IOException with stream: Number of Rows:223984
+
+
+# Created at 2022-09-06T15:53:35.475
+Unexpected IOException with stream: 224046	EVA	173249	2021-11-15 09:59:00.0	THORNTONS #319	IL	55.15	199.01	MARCIN SEKOWSKI	597061	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.547
+Unexpected IOException with stream: Number of Rows:223985
+
+
+# Created at 2022-09-06T15:53:35.548
+Unexpected IOException with stream: 224047	EVA	181666	2021-11-15 06:24:00.0	PETRO NORTH BALTIMORE	OH	196.49	661.99	GARY GOOTEE	597062	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.621
+Unexpected IOException with stream: Number of Rows:223986
+
+
+# Created at 2022-09-06T15:53:35.622
+Unexpected IOException with stream: 224048	EVA	183951	2021-11-15 06:24:00.0	ONE9 MR FUEL 064	SC	81.59	282.21	JERIMIA FRASIER	597063	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.707
+Unexpected IOException with stream: Number of Rows:223987
+
+
+# Created at 2022-09-06T15:53:35.708
+Unexpected IOException with stream: 224049	EVA	184533	2021-11-15 06:31:00.0	FJ-DADE CITY 624	FL	115.74	374.48	JUAN ALLENDE RIVERA	597064	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.792
+Unexpected IOException with stream: Number of Rows:223988
+
+
+# Created at 2022-09-06T15:53:35.792
+Unexpected IOException with stream: 224050	EVA	57956	2021-11-15 12:57:00.0	FJ 1068	SC	78.00	247.71	WALTER MANIGAULT	597066	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.884
+Unexpected IOException with stream: Number of Rows:223989
+
+
+# Created at 2022-09-06T15:53:35.885
+Unexpected IOException with stream: 224051	EVA	177127	2021-11-15 13:05:00.0	FJ 1068	SC	104.32	331.32	DESMOND DANIEL	597067	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:35.968
+Unexpected IOException with stream: Number of Rows:223990
+
+
+# Created at 2022-09-06T15:53:35.969
+Unexpected IOException with stream: 224052	EVA	179295	2021-11-15 05:57:00.0	7-11 STORE 40084 - 7123	NJ	114.18	394.75	NILSON GARCIA	597068	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:36.047
+Unexpected IOException with stream: Number of Rows:223991
+
+
+# Created at 2022-09-06T15:53:36.047
+Unexpected IOException with stream: 224053	EVA	180512	2021-11-15 09:25:00.0	FJ NEW HAVEN 304	IN	80.33	287.95	WRIGHT JOSEPH	597069	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:36.113
+Unexpected IOException with stream: Number of Rows:223992
+
+
+# Created at 2022-09-06T15:53:36.114
+Unexpected IOException with stream: 224054	EVA	182116	2021-11-15 06:06:00.0	LOVES #791 TRAVEL STOP	TN	36.63	117.81	DARIUS ANDERSON	597072	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
+# Created at 2022-09-06T15:53:36.187
+Unexpected IOException with stream: Number of Rows:223993
+
+
+# Created at 2022-09-06T15:53:36.188
+Unexpected IOException with stream: 224055	EVA	176147	2021-11-15 06:10:00.0	QUIK TRIP #1181	SC	93.79	300.02	LYSANDER EDWARDS	597073	EFS Import	2022-09-06 03:31:37.337	null	null	0
+
+
