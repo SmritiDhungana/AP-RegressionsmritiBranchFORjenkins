@@ -1,0 +1,8 @@
+file:src/test/resources/featureFiles/EquipmentConsoleAgentAdjustments.feature:78:162
+file:src/test/resources/featureFiles/AgentSettlementAdjustments.feature:27:55:86:135:200:221
+file:src/test/resources/featureFiles/AARAgentManagementFile.feature:183:202
+file:src/test/resources/featureFiles/FuelPurchaseMaintenance.feature:18:34:51:69:85:100:120:138
+file:src/test/resources/featureFiles/AgentSettlementInquiry.feature:42
+file:src/test/resources/featureFiles/EquipmentConsoleTractorAdjustments.feature:11:75:157
+file:src/test/resources/featureFiles/AgentSettling.feature:25
+file:src/test/resources/featureFiles/BCPDTractorValidation.feature:62:143
