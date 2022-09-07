@@ -1705,7 +1705,7 @@ public void enter_Tractor_Id_Earliest_Date_State_Company_IFTA(String tractorID, 
     }
 
 
-    //............................................/ @FPMScenarioReport /................................................//
+    //............................................/ @FPMScenarioReportTractorID /................................................//
 
     @Given("^Click on Report Button, and Click on ALL RECORDS$")
     public void click_on_Report_Button_and_Click_on_ALL_RECORDS() {
@@ -2080,7 +2080,6 @@ public void enter_Tractor_Id_Earliest_Date_State_Company_IFTA(String tractorID, 
          driver.findElement(tractorVendorRelationshipPage.UnitNumber).click();
          Thread.sleep(3000);
          driver.findElement(tractorVendorRelationshipPage.Search).click();
-
      }
 
 

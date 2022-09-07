@@ -1,0 +1,212 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-09-07T12:09:38.074Z",
+        "line": 159,
+        "name": "(FANDM-77) Validation of REPORT on Fuel Purchase Maintenance Page when Tractor ID is selected",
+        "description": "",
+        "id": "fuel-purchase-maintenance-validation-feature;(fandm-77)-validation-of-report-on-fuel-purchase-maintenance-page-when-tractor-id-is-selected;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3408000000,
+              "status": "passed"
+            },
+            "line": 144,
+            "name": "Run Test for Environment \"ebhstaging\" on Browser \"chrome\" for EBH Tractors and Enter the url",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ebhstaging",
+                  "offset": 26
+                },
+                {
+                  "val": "chrome",
+                  "offset": 50
+                }
+              ],
+              "location": "stepDefinitions.TractorStepDef.run_Test_for_Environment_on_Browser_for_EBH_Tractors_and_Enter_the_url(java.lang.String,java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1902000000,
+              "status": "passed"
+            },
+            "line": 145,
+            "name": "Login to the EBH with username \"SmritiTest\" and password \"Legendary@1\" for EBH Tractors",
+            "match": {
+              "arguments": [
+                {
+                  "val": "SmritiTest",
+                  "offset": 32
+                },
+                {
+                  "val": "Legendary@1",
+                  "offset": 58
+                }
+              ],
+              "location": "stepDefinitions.TractorStepDef.Login_to_the_EBH_with_username_and_password_for_EBH_Tractors(java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2265000000,
+              "status": "passed"
+            },
+            "line": 146,
+            "name": "Navigate to the Corporate Page on Main Menu then to the Fuel and Mileage page for EBH Tractors",
+            "match": {
+              "location": "stepDefinitions.TractorStepDef.navigate_to_the_Corporate_Page_on_Main_Menu_then_to_the_Fuel_and_Mileage_page_for_EBH_Tractors()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2092000000,
+              "status": "passed"
+            },
+            "line": 147,
+            "name": "Navigate to Fuel Purchase Maintenance Page",
+            "match": {
+              "location": "stepDefinitions.TractorStepDef.navigate_to_Fuel_Purchase_Maintenance_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 19154000000,
+              "status": "passed"
+            },
+            "line": 149,
+            "name": "Enter Tractor Id \"55922\" Earliest Date \"08/01/2022\" Latest Date \"08/22/2022\" State \"PA\" Company \"EVA\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "55922",
+                  "offset": 18
+                },
+                {
+                  "val": "08/01/2022",
+                  "offset": 40
+                },
+                {
+                  "val": "08/22/2022",
+                  "offset": 65
+                },
+                {
+                  "val": "PA",
+                  "offset": 84
+                },
+                {
+                  "val": "EVA",
+                  "offset": 97
+                }
+              ],
+              "location": "stepDefinitions.TractorStepDef.enter_Tractor_Id_Earliest_Date_Latest_Date_State_Company_IFTA(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 816000000,
+              "status": "passed"
+            },
+            "line": 150,
+            "name": "Click on Report Button and Click on SEARCH RESULTS",
+            "match": {
+              "location": "stepDefinitions.TractorStepDef.click_on_Report_Button_and_Click_on_Search_Results()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 9183000000,
+              "status": "passed"
+            },
+            "line": 151,
+            "name": "Get SEARCH RESULTS Excel Report from Downloads for FPM",
+            "match": {
+              "location": "stepDefinitions.TractorStepDef.get_SEARCH_RESULTS_Excel_Report_from_Downloads_for_FPM()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2112000000,
+              "status": "passed"
+            },
+            "line": 152,
+            "name": "Validate SEARCH RESULTS Excel Report with Database Record \"ebhstaging\" \"[EBH].[dbo].[FUEL_PUR]\" \"55922\" \"2022-08-01\" \"2022-08-22\" \"PA\" \"EVA\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ebhstaging",
+                  "offset": 59
+                },
+                {
+                  "val": "[EBH].[dbo].[FUEL_PUR]",
+                  "offset": 72
+                },
+                {
+                  "val": "55922",
+                  "offset": 97
+                },
+                {
+                  "val": "2022-08-01",
+                  "offset": 105
+                },
+                {
+                  "val": "2022-08-22",
+                  "offset": 118
+                },
+                {
+                  "val": "PA",
+                  "offset": 131
+                },
+                {
+                  "val": "EVA",
+                  "offset": 136
+                }
+              ],
+              "location": "stepDefinitions.TractorStepDef.validate_SEARCH_RESULTS_Excel_Report_with_Database_Record(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3028000000,
+              "status": "passed"
+            },
+            "line": 156,
+            "name": "Close all open Browsers on EBH for Tractors",
+            "match": {
+              "location": "stepDefinitions.TractorStepDef.Close_all_open_Browsers_on_EBH_for_Tractors()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@FPMScenarioReportTractorID"
+          }
+        ]
+      }
+    ],
+    "name": "Fuel Purchase Maintenance Validation Feature",
+    "description": "",
+    "id": "fuel-purchase-maintenance-validation-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/featureFiles/FuelPurchaseMaintenance.feature",
+    "tags": []
+  }
+]
